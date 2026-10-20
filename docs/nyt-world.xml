@@ -5,25 +5,55 @@
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>NYT World - latest news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:04:02 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Why Zelensky Took the Gloves Off This Time With Trump]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html</link>
+      <description><![CDATA[Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes farther than ever in prioritizing Russia’s interests.]]></description>
+      <pubDate>Tue, 20 Oct 2026 15:49:09 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html</link>
+      <description><![CDATA[Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.]]></description>
+      <pubDate>Tue, 20 Oct 2026 15:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[14 Dead After Gold Mine Collapses in Colombia]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html</link>
+      <description><![CDATA[The mine is among a growing number of small-scale, unlicensed operations in Colombia that are fueled by the metal’s rising global price.]]></description>
+      <pubDate>Tue, 20 Oct 2026 14:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Five Salvadoran Soldiers Missing in Haiti After Ambush]]></title>
+      <link>https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</link>
+      <description><![CDATA[A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.]]></description>
+      <pubDate>Tue, 20 Oct 2026 14:49:54 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[Yemeni City of Taiz Running Out of Essentials as Houthis Close in]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</link>
       <description><![CDATA[The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.]]></description>
-      <pubDate>Tue, 20 Oct 2026 13:46:17 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 14:28:28 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[Voters in Oil-Rich Alberta Reject Leaving Canada]]></title>
+      <title><![CDATA[Alberta Voters Reject Leaving Canada in Referendum on Separatism]]></title>
       <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
       <description><![CDATA[Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.]]></description>
-      <pubDate>Tue, 20 Oct 2026 13:17:45 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 14:27:01 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[Rubio Travels to India for Trade Talks Amid Strained U.S. Relations]]></title>
+      <title><![CDATA[France to Extend Curfews After Calm Night Follows Days of Riots]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html</link>
+      <description><![CDATA[The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.]]></description>
+      <pubDate>Tue, 20 Oct 2026 14:24:18 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html</link>
-      <description><![CDATA[The secretary of state will meet with Asia’s richest men as Washington continues negotiations over a trade deal with India.]]></description>
-      <pubDate>Tue, 20 Oct 2026 13:09:45 +0000</pubDate>
+      <description><![CDATA[The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.]]></description>
+      <pubDate>Tue, 20 Oct 2026 14:14:55 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Google Reports Cloud Disruptions in Europe]]></title>
@@ -38,12 +68,6 @@
       <pubDate>Tue, 20 Oct 2026 12:59:23 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[France to Extend Curfews After Calm Night Follows Days of Riots]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html</link>
-      <description><![CDATA[The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.]]></description>
-      <pubDate>Tue, 20 Oct 2026 12:37:56 +0000</pubDate>
-    </item>
-    <item>
       <title><![CDATA[UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html</link>
       <description><![CDATA[R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.]]></description>
@@ -54,12 +78,6 @@
       <link>https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html</link>
       <description><![CDATA[The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.]]></description>
       <pubDate>Tue, 20 Oct 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html</link>
-      <description><![CDATA[Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu, two people with knowledge of the trip said. Israel holds elections in a week.]]></description>
-      <pubDate>Tue, 20 Oct 2026 12:01:18 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England]]></title>
@@ -90,12 +108,6 @@
       <link>https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html</link>
       <description><![CDATA[The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.]]></description>
       <pubDate>Tue, 20 Oct 2026 07:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[14 Dead After Gold Mine Collapses in Colombia]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html</link>
-      <description><![CDATA[The mine is among a growing number of small-scale, unlicensed operations in Colombia that are fueled by the metal’s rising global price.]]></description>
-      <pubDate>Tue, 20 Oct 2026 06:58:33 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[The Failures of Emmanuel Macron]]></title>
@@ -254,12 +266,6 @@
       <pubDate>Mon, 19 Oct 2026 09:15:28 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[Five Salvadoran Soldiers Missing in Haiti After Ambush]]></title>
-      <link>https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</link>
-      <description><![CDATA[A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.]]></description>
-      <pubDate>Mon, 19 Oct 2026 06:43:59 +0000</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Planet Earth and Brazil’s Election]]></title>
       <link>https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html</link>
       <description><![CDATA[The Amazon rainforest has been a crucial battleground in the country’s presidential runoff.]]></description>
@@ -300,12 +306,6 @@
       <link>https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html</link>
       <description><![CDATA[President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.]]></description>
       <pubDate>Sun, 18 Oct 2026 15:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia]]></title>
-      <link>https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html</link>
-      <description><![CDATA[President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.]]></description>
-      <pubDate>Sun, 18 Oct 2026 14:30:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://feeds.npr.org/1001/rss.xml</link>
     <description>NPR News - latest news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:04:02 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[DOJ charges 28 with voting crimes. And, TikTok ignored staff&apos;s child safety concerns]]></title>
@@ -32,7 +32,7 @@
       <pubDate>Tue, 20 Oct 2026 05:00:00 -0400</pubDate>
     </item>
     <item>
-      <title><![CDATA[Why are some food prices up and others down? Here are the stories of 5 items]]></title>
+      <title><![CDATA[Why these 5 everyday items fluctuate in price at the grocery store]]></title>
       <link>https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation</link>
       <description><![CDATA[Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.]]></description>
       <pubDate>Tue, 20 Oct 2026 05:00:00 -0400</pubDate>
@@ -56,16 +56,16 @@
       <pubDate>Tue, 20 Oct 2026 02:02:40 -0400</pubDate>
     </item>
     <item>
+      <title><![CDATA[A new poll shows what voters are thinking 2 weeks out from Election Day]]></title>
+      <link>https://www.npr.org/2026/10/19/nx-s1-6007856/a-new-poll-shows-what-voters-are-thinking-2-weeks-out-from-election-day</link>
+      <description><![CDATA[Midterm election day is just over two weeks away. What are some numbers on the mind of voters?]]></description>
+      <pubDate>Mon, 19 Oct 2026 18:35:59 -0400</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DOJ charges 28 in California with voting crimes as election tensions escalate]]></title>
       <link>https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes</link>
       <description><![CDATA[The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are &quot;likely noncitizens.&quot;]]></description>
       <pubDate>Mon, 19 Oct 2026 18:10:06 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Judge chastises Trump administration plan to push ahead overhaul of DC golf course]]></title>
-      <link>https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal</link>
-      <description><![CDATA[The Trump administration wants to turn a historic public golf course into championship links. Despite a judge&apos;s order, hundreds of trees were cut down to make way for the renovation.]]></description>
-      <pubDate>Mon, 19 Oct 2026 17:56:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
