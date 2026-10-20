@@ -5,13 +5,19 @@
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>NYT World - latest news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:19:06 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[France to Extend Curfews After Calm Night Follows Days of Riots]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html</link>
+      <description><![CDATA[The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.]]></description>
+      <pubDate>Tue, 20 Oct 2026 16:06:12 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[Why Zelensky Took the Gloves Off This Time With Trump]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html</link>
       <description><![CDATA[Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes farther than ever in prioritizing Russia’s interests.]]></description>
-      <pubDate>Tue, 20 Oct 2026 15:49:09 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 16:05:59 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu]]></title>
@@ -42,12 +48,6 @@
       <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
       <description><![CDATA[Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.]]></description>
       <pubDate>Tue, 20 Oct 2026 14:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[France to Extend Curfews After Calm Night Follows Days of Riots]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html</link>
-      <description><![CDATA[The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.]]></description>
-      <pubDate>Tue, 20 Oct 2026 14:24:18 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations]]></title>
