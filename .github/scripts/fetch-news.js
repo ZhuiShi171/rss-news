@@ -1,34 +1,25 @@
 const RSS_SOURCES = [
-  // 原有源
-  { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
-  { name: 'BBC China', url: 'https://feeds.bbci.co.uk/news/world/asia/china/rss.xml' },
-  { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'AP World', url: 'https://feeds.apnews.com/apf-intlnews' },
-  { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml' },
-  { name: 'Guardian World', url: 'https://www.theguardian.com/world/rss' },
-  { name: 'Guardian China', url: 'https://www.theguardian.com/world/china/rss' },
-  { name: 'NPR News', url: 'https://feeds.npr.org/1001/rss.xml' },
-  { name: 'NYT World', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml' },
-  { name: 'CNN World', url: 'https://rss.cnn.com/rss/edition_world.rss' },
-
-  // 新增：英文主流大报
-  { name: 'Washington Post World', url: 'https://feeds.washingtonpost.com/rss/world' },
-  { name: 'WSJ World', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
-  { name: 'Financial Times World', url: 'https://www.ft.com/world?format=rss' },
-  { name: 'Bloomberg World', url: 'https://feeds.bloomberg.com/markets/news.rss' },
-  { name: 'CNBC World', url: 'https://www.cnbc.com/id/100727362/device/rss/rss.html' },
-  { name: 'ABC News World', url: 'https://abcnews.go.com/abcnews/internationalheadlines' },
-  { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world' },
-  { name: 'NBC News World', url: 'https://feeds.nbcnews.com/nbcnews/public/worldnews' },
-
-  // 新增：新闻周刊
-  { name: 'Newsweek', url: 'https://www.newsweek.com/feed' },
-
-  // 新增：南华早报
-  { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed' },
-
-  // 新增：NHK World
-  { name: 'NHK World', url: 'https://www3.nhk.or.jp/nhkworld/en/news/feeds/all.xml' },
+  { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', file: 'bbc-world' },
+  { name: 'BBC China', url: 'https://feeds.bbci.co.uk/news/world/asia/china/rss.xml', file: 'bbc-china' },
+  { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en', file: 'reuters-world' },
+  { name: 'AP World', url: 'https://feeds.apnews.com/apf-intlnews', file: 'ap-world' },
+  { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', file: 'aljazeera' },
+  { name: 'Guardian World', url: 'https://www.theguardian.com/world/rss', file: 'guardian-world' },
+  { name: 'Guardian China', url: 'https://www.theguardian.com/world/china/rss', file: 'guardian-china' },
+  { name: 'NPR News', url: 'https://feeds.npr.org/1001/rss.xml', file: 'npr-news' },
+  { name: 'NYT World', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml', file: 'nyt-world' },
+  { name: 'CNN World', url: 'https://rss.cnn.com/rss/edition_world.rss', file: 'cnn-world' },
+  { name: 'Washington Post World', url: 'https://feeds.washingtonpost.com/rss/world', file: 'wapo-world' },
+  { name: 'WSJ World', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml', file: 'wsj-world' },
+  { name: 'Financial Times World', url: 'https://www.ft.com/world?format=rss', file: 'ft-world' },
+  { name: 'Bloomberg World', url: 'https://feeds.bloomberg.com/markets/news.rss', file: 'bloomberg-world' },
+  { name: 'CNBC World', url: 'https://www.cnbc.com/id/100727362/device/rss/rss.html', file: 'cnbc-world' },
+  { name: 'ABC News World', url: 'https://abcnews.go.com/abcnews/internationalheadlines', file: 'abc-world' },
+  { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world', file: 'cbs-world' },
+  { name: 'NBC News World', url: 'https://feeds.nbcnews.com/nbcnews/public/worldnews', file: 'nbc-world' },
+  { name: 'Newsweek', url: 'https://www.newsweek.com/feed', file: 'newsweek' },
+  { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed', file: 'scmp-world' },
+  { name: 'NHK World', url: 'https://www3.nhk.or.jp/nhkworld/en/news/feeds/all.xml', file: 'nhk-world' },
 ];
 
 async function fetchRSS(url) {
@@ -72,26 +63,25 @@ function parseItems(xml, sourceName) {
   return items;
 }
 
-function generateRSS(allItems) {
-  const itemsXml = allItems
+function generateRSS(title, link, description, items) {
+  const itemsXml = items
     .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-    .slice(0, 100)
+    .slice(0, 50)
     .map(item => `
     <item>
       <title><![CDATA[${item.title}]]></title>
       <link>${item.link}</link>
-      <description><![CDATA[[${item.source}] ${item.description}]]></description>
+      <description><![CDATA[${item.description}]]></description>
       <pubDate>${item.pubDate}</pubDate>
-      <source>${item.source}</source>
     </item>`)
     .join('');
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>International News Aggregated</title>
-    <link>https://zhuishi171.github.io/rss-news/</link>
-    <description>Aggregated international news from multiple sources</description>
+    <title>${title}</title>
+    <link>${link}</link>
+    <description>${description}</description>
     <language>en-us</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     ${itemsXml}
@@ -101,6 +91,14 @@ function generateRSS(allItems) {
 
 async function main() {
   console.log('Starting news fetch...');
+  const fs = require('fs');
+  const path = require('path');
+
+  // 确保 docs 目录存在
+  if (!fs.existsSync('docs')) {
+    fs.mkdirSync('docs', { recursive: true });
+  }
+
   const allItems = [];
 
   for (const source of RSS_SOURCES) {
@@ -109,16 +107,33 @@ async function main() {
     if (xml) {
       const items = parseItems(xml, source.name);
       console.log(`  Found ${items.length} items`);
+
+      // 为每个源生成独立的 feed 文件
+      const sourceRSS = generateRSS(
+        source.name,
+        source.url,
+        `${source.name} - latest news`,
+        items
+      );
+      fs.writeFileSync(`docs/${source.file}.xml`, sourceRSS);
+
+      // 同时收集到总列表
       allItems.push(...items);
     }
   }
 
   console.log(`Total items: ${allItems.length}`);
-  const rss = generateRSS(allItems);
 
-  const fs = require('fs');
-  fs.writeFileSync('docs/feed.xml', rss);
-  console.log('Generated docs/feed.xml');
+  // 生成总汇总 feed
+  const combinedRSS = generateRSS(
+    'International News Aggregated',
+    'https://zhuishi171.github.io/rss-news/',
+    'Aggregated international news from multiple sources',
+    allItems
+  );
+  fs.writeFileSync('docs/feed.xml', combinedRSS);
+
+  console.log(`Generated ${RSS_SOURCES.length + 1} feed files in docs/`);
 }
 
 main().catch(console.error);
