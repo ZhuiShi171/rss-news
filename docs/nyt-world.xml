@@ -5,25 +5,61 @@
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>NYT World - latest news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:04:41 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[France to Extend Curfews After Calm Night Follows Days of Riots]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html</link>
-      <description><![CDATA[The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:06:12 +0000</pubDate>
+      <title><![CDATA[Robert Kabera, Rwandan Government Critic, Beheaded in Uganda]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</link>
+      <description><![CDATA[The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.]]></description>
+      <pubDate>Tue, 20 Oct 2026 19:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Alberta Voters Reject Leaving Canada in Referendum on Separatism]]></title>
+      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
+      <description><![CDATA[Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.]]></description>
+      <pubDate>Tue, 20 Oct 2026 19:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It]]></title>
+      <link>https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html</link>
+      <description><![CDATA[In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slavery’s abolition.]]></description>
+      <pubDate>Tue, 20 Oct 2026 19:33:59 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Why Zelensky Took the Gloves Off This Time With Trump]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html</link>
-      <description><![CDATA[Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes farther than ever in prioritizing Russia’s interests.]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:06:00 +0000</pubDate>
+      <description><![CDATA[Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.]]></description>
+      <pubDate>Tue, 20 Oct 2026 19:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Trump’s Push for Deals With Russia Powers His Frustration With Ukraine]]></title>
+      <link>https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html</link>
+      <description><![CDATA[The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.]]></description>
+      <pubDate>Tue, 20 Oct 2026 19:00:35 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html</link>
       <description><![CDATA[Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.]]></description>
-      <pubDate>Tue, 20 Oct 2026 15:21:16 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 18:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Student Protesters in France Have a Strange New Slogan. What Does It Mean?]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html</link>
+      <description><![CDATA[“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html</link>
+      <description><![CDATA[The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.]]></description>
+      <pubDate>Tue, 20 Oct 2026 16:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[France to Extend Curfews After Calm Night Follows Days of Riots]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html</link>
+      <description><![CDATA[The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.]]></description>
+      <pubDate>Tue, 20 Oct 2026 16:06:12 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[14 Dead After Gold Mine Collapses in Colombia]]></title>
@@ -42,18 +78,6 @@
       <link>https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</link>
       <description><![CDATA[The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.]]></description>
       <pubDate>Tue, 20 Oct 2026 14:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Alberta Voters Reject Leaving Canada in Referendum on Separatism]]></title>
-      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
-      <description><![CDATA[Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.]]></description>
-      <pubDate>Tue, 20 Oct 2026 14:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html</link>
-      <description><![CDATA[The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.]]></description>
-      <pubDate>Tue, 20 Oct 2026 14:14:55 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Google Reports Cloud Disruptions in Europe]]></title>
@@ -102,12 +126,6 @@
       <link>https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</link>
       <description><![CDATA[The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.]]></description>
       <pubDate>Tue, 20 Oct 2026 08:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Trump’s Push for Deals With Russia Powers His Frustration With Ukraine]]></title>
-      <link>https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html</link>
-      <description><![CDATA[The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.]]></description>
-      <pubDate>Tue, 20 Oct 2026 07:19:14 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[The Failures of Emmanuel Macron]]></title>
@@ -272,34 +290,16 @@
       <pubDate>Mon, 19 Oct 2026 04:54:19 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[Singing, Dancing and Getting Dumped by A.I. on Korean TV]]></title>
-      <link>https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html</link>
-      <description><![CDATA[Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.]]></description>
-      <pubDate>Mon, 19 Oct 2026 02:50:14 +0000</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Pope Leo Addresses the Faithful a Day After Leaving the Hospital]]></title>
       <link>https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html</link>
       <description><![CDATA[“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery.]]></description>
       <pubDate>Mon, 19 Oct 2026 02:49:27 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops]]></title>
-      <link>https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html</link>
-      <description><![CDATA[After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.]]></description>
-      <pubDate>Sun, 18 Oct 2026 22:50:28 +0000</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Albania’s Leader, Edi Rama, Denounces Violent Protests]]></title>
       <link>https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html</link>
       <description><![CDATA[Students upset by living and educational costs have revived protests. Prime Minister Edi Rama said they were being used by “outside forces.”]]></description>
       <pubDate>Sun, 18 Oct 2026 21:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire]]></title>
-      <link>https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</link>
-      <description><![CDATA[The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause.]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:13:43 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks]]></title>

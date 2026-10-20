@@ -5,8 +5,14 @@
     <link>https://feeds.npr.org/1001/rss.xml</link>
     <description>NPR News - latest news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:04:41 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Vanessa Kerry is the new WHO envoy for health resilience. What&apos;s on her to-do list?]]></title>
+      <link>https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization</link>
+      <description><![CDATA[A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it&apos;s challenging but not &quot;daunting.&quot;]]></description>
+      <pubDate>Tue, 20 Oct 2026 12:27:01 -0400</pubDate>
+    </item>
     <item>
       <title><![CDATA[DOJ charges 28 with voting crimes. And, TikTok ignored staff&apos;s child safety concerns]]></title>
       <link>https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok</link>
@@ -60,12 +66,6 @@
       <link>https://www.npr.org/2026/10/19/nx-s1-6007856/a-new-poll-shows-what-voters-are-thinking-2-weeks-out-from-election-day</link>
       <description><![CDATA[Midterm election day is just over two weeks away. What are some numbers on the mind of voters?]]></description>
       <pubDate>Mon, 19 Oct 2026 18:35:59 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DOJ charges 28 in California with voting crimes as election tensions escalate]]></title>
-      <link>https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes</link>
-      <description><![CDATA[The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are &quot;likely noncitizens.&quot;]]></description>
-      <pubDate>Mon, 19 Oct 2026 18:10:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
