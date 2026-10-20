@@ -2,30 +2,33 @@ const RSS_SOURCES = [
   { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', file: 'bbc-world' },
   { name: 'BBC China', url: 'https://feeds.bbci.co.uk/news/world/asia/china/rss.xml', file: 'bbc-china' },
   { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en', file: 'reuters-world' },
-  { name: 'AP World', url: 'https://feeds.apnews.com/apf-intlnews', file: 'ap-world' },
+  { name: 'AP World', url: 'https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'ap-world' },
+  { name: 'CNN World', url: 'https://news.google.com/rss/search?q=site:cnn.com+world&hl=en-US&gl=US&ceid=US:en', file: 'cnn-world' },
+  { name: 'Washington Post World', url: 'https://news.google.com/rss/search?q=site:washingtonpost.com+world&hl=en-US&gl=US&ceid=US:en', file: 'wapo-world' },
+  { name: 'NBC News World', url: 'https://news.google.com/rss/search?q=site:nbcnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'nbc-world' },
+  { name: 'Newsweek', url: 'https://news.google.com/rss/search?q=site:newsweek.com&hl=en-US&gl=US&ceid=US:en', file: 'newsweek' },
+  { name: 'NHK World', url: 'https://news.google.com/rss/search?q=site:nhk.or.jp+world&hl=en-US&gl=US&ceid=US:en', file: 'nhk-world' },
   { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', file: 'aljazeera' },
   { name: 'Guardian World', url: 'https://www.theguardian.com/world/rss', file: 'guardian-world' },
   { name: 'Guardian China', url: 'https://www.theguardian.com/world/china/rss', file: 'guardian-china' },
   { name: 'NPR News', url: 'https://feeds.npr.org/1001/rss.xml', file: 'npr-news' },
   { name: 'NYT World', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml', file: 'nyt-world' },
-  { name: 'CNN World', url: 'https://rss.cnn.com/rss/edition_world.rss', file: 'cnn-world' },
-  { name: 'Washington Post World', url: 'https://feeds.washingtonpost.com/rss/world', file: 'wapo-world' },
   { name: 'WSJ World', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml', file: 'wsj-world' },
   { name: 'Financial Times World', url: 'https://www.ft.com/world?format=rss', file: 'ft-world' },
   { name: 'Bloomberg World', url: 'https://feeds.bloomberg.com/markets/news.rss', file: 'bloomberg-world' },
   { name: 'CNBC World', url: 'https://www.cnbc.com/id/100727362/device/rss/rss.html', file: 'cnbc-world' },
   { name: 'ABC News World', url: 'https://abcnews.go.com/abcnews/internationalheadlines', file: 'abc-world' },
   { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world', file: 'cbs-world' },
-  { name: 'NBC News World', url: 'https://feeds.nbcnews.com/nbcnews/public/worldnews', file: 'nbc-world' },
-  { name: 'Newsweek', url: 'https://www.newsweek.com/feed', file: 'newsweek' },
   { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed', file: 'scmp-world' },
-  { name: 'NHK World', url: 'https://www3.nhk.or.jp/nhkworld/en/news/feeds/all.xml', file: 'nhk-world' },
+  { name: 'France 24 English', url: 'https://www.france24.com/en/rss', file: 'france24' },
+  { name: 'Kyiv Independent', url: 'https://kyivindependent.com/feed/', file: 'kyiv-independent' },
+  { name: 'Times of Israel', url: 'https://www.timesofisrael.com/feed/', file: 'times-of-israel' },
 ];
 
 async function fetchRSS(url) {
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 15000);
+    const timeout = setTimeout(() => controller.abort(), 20000);
     const response = await fetch(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; RSS-Fetcher/1.0)' },
       signal: controller.signal,
@@ -94,7 +97,6 @@ async function main() {
   const fs = require('fs');
   const path = require('path');
 
-  // 确保 docs 目录存在
   if (!fs.existsSync('docs')) {
     fs.mkdirSync('docs', { recursive: true });
   }
@@ -108,7 +110,6 @@ async function main() {
       const items = parseItems(xml, source.name);
       console.log(`  Found ${items.length} items`);
 
-      // 为每个源生成独立的 feed 文件
       const sourceRSS = generateRSS(
         source.name,
         source.url,
@@ -117,14 +118,12 @@ async function main() {
       );
       fs.writeFileSync(`docs/${source.file}.xml`, sourceRSS);
 
-      // 同时收集到总列表
       allItems.push(...items);
     }
   }
 
   console.log(`Total items: ${allItems.length}`);
 
-  // 生成总汇总 feed
   const combinedRSS = generateRSS(
     'International News Aggregated',
     'https://zhuishi171.github.io/rss-news/',
