@@ -21,9 +21,18 @@ const RSS_SOURCES = [
   { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world', file: 'cbs-world' },
   { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed', file: 'scmp-world' },
   { name: 'France 24 English', url: 'https://www.france24.com/en/rss', file: 'france24' },
-  { name: 'Kyiv Independent', url: 'https://kyivindependent.com/feed/', file: 'kyiv-independent' },
-  { name: 'Times of Israel', url: 'https://www.timesofisrael.com/feed/', file: 'times-of-israel' },
+  { name: 'Kyiv Independent', url: 'https://news.google.com/rss/search?q=site:kyivindependent.com&hl=en-US&gl=US&ceid=US:en', file: 'kyiv-independent' },
+  { name: 'Times of Israel', url: 'https://news.google.com/rss/search?q=site:timesofisrael.com&hl=en-US&gl=US&ceid=US:en', file: 'times-of-israel' },
 ];
+
+function escapeXml(text) {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
 
 async function fetchRSS(url) {
   try {
@@ -73,7 +82,7 @@ function generateRSS(title, link, description, items) {
     .map(item => `
     <item>
       <title><![CDATA[${item.title}]]></title>
-      <link>${item.link}</link>
+      <link>${escapeXml(item.link)}</link>
       <description><![CDATA[${item.description}]]></description>
       <pubDate>${item.pubDate}</pubDate>
     </item>`)
@@ -82,9 +91,9 @@ function generateRSS(title, link, description, items) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>${title}</title>
-    <link>${link}</link>
-    <description>${description}</description>
+    <title>${escapeXml(title)}</title>
+    <link>${escapeXml(link)}</link>
+    <description>${escapeXml(description)}</description>
     <language>en-us</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     ${itemsXml}
