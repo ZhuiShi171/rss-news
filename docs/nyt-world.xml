@@ -5,13 +5,31 @@
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>NYT World - latest news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:50:03 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Nigeria Announces First Case of Ebola in Current Outbreak]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html</link>
+      <description><![CDATA[Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.]]></description>
+      <pubDate>Wed, 21 Oct 2026 01:01:48 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html</link>
       <description><![CDATA[The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.]]></description>
-      <pubDate>Tue, 20 Oct 2026 22:24:29 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html</link>
+      <description><![CDATA[Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.]]></description>
+      <pubDate>Wed, 21 Oct 2026 00:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Mayor of a City in Haiti Warned of a Massacre. No One Listened.]]></title>
+      <link>https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html</link>
+      <description><![CDATA[The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.]]></description>
+      <pubDate>Tue, 20 Oct 2026 23:31:30 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Robert Kabera, Rwandan Government Critic, Beheaded in Uganda]]></title>
@@ -30,12 +48,6 @@
       <link>https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html</link>
       <description><![CDATA[“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.]]></description>
       <pubDate>Tue, 20 Oct 2026 21:21:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nigeria Announces First Case of Ebola in Current Outbreak]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html</link>
-      <description><![CDATA[Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.]]></description>
-      <pubDate>Tue, 20 Oct 2026 21:02:50 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Why Zelensky Took the Gloves Off This Time With Trump]]></title>
@@ -128,12 +140,6 @@
       <pubDate>Tue, 20 Oct 2026 12:34:57 +0000</pubDate>
     </item>
     <item>
-      <title><![CDATA[The Mayor of a City in Haiti Warned of a Massacre. No One Listened.]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html</link>
-      <description><![CDATA[The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.]]></description>
-      <pubDate>Tue, 20 Oct 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title><![CDATA[The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England]]></title>
       <link>https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html</link>
       <description><![CDATA[Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.]]></description>
@@ -179,7 +185,7 @@
       <title><![CDATA[Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass]]></title>
       <link>https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html</link>
       <description><![CDATA[The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.]]></description>
-      <pubDate>Mon, 19 Oct 2026 22:54:53 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:54:54 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[The French Teen Maimed During School Unrest by Tear Gas Grenade]]></title>
@@ -252,12 +258,6 @@
       <link>https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html</link>
       <description><![CDATA[Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.]]></description>
       <pubDate>Mon, 19 Oct 2026 17:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.]]></title>
-      <link>https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</link>
-      <description><![CDATA[As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.]]></description>
-      <pubDate>Mon, 19 Oct 2026 14:27:56 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?]]></title>
