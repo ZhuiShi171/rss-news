@@ -1,11 +1,9 @@
-const axios = require('axios');
-const xml2js = require('xml2js');
+const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
 // ========== RSS 源列表 ==========
 const RSS_SOURCES = [
-  // 直连源（媒体官方 RSS）
   { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', file: 'bbc-world' },
   { name: 'BBC China', url: 'https://feeds.bbci.co.uk/news/world/asia/china/rss.xml', file: 'bbc-china' },
   { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', file: 'aljazeera' },
@@ -21,8 +19,6 @@ const RSS_SOURCES = [
   { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world', file: 'cbs-world' },
   { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed', file: 'scmp-world' },
   { name: 'France 24 English', url: 'https://www.france24.com/en/rss', file: 'france24' },
-
-  // Google News 聚合版（国内直连失败的源用这个）
   { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en', file: 'reuters-world' },
   { name: 'AP World', url: 'https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'ap-world' },
   { name: 'CNN World', url: 'https://news.google.com/rss/search?q=site:cnn.com+world&hl=en-US&gl=US&ceid=US:en', file: 'cnn-world' },
@@ -37,14 +33,12 @@ const RSS_SOURCES = [
 // ========== XML 转义函数（先解码再编码，避免双重转义）==========
 function escapeXml(text) {
   if (!text) return '';
-  // 第一步：先把已有的 XML 实体解码回原始字符
-  let decoded = text
+  let decoded = String(text)
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&apos;/g, "'");
-  // 第二步：统一转义成标准 XML
   return decoded
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
@@ -53,55 +47,61 @@ function escapeXml(text) {
     .replace(/'/g, '&apos;');
 }
 
-// ========== 抓取单个 RSS ==========
-async function fetchRSS(url) {
-  try {
-    const response = await axios.get(url, { timeout: 30000 });
-    const result = await xml2js.parseStringPromise(response.data);
-    return result.rss.channel[0].item || [];
-  } catch (error) {
-    console.error(`Failed to fetch ${url}:`, error.message);
-    return [];
-  }
+// ========== 用内置 https 模块抓取 ==========
+function fetchURL(url) {
+  return new Promise((resolve, reject) => {
+    https.get(url, { timeout: 30000, headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => resolve(data));
+    }).on('error', reject).on('timeout', () => reject(new Error('timeout')));
+  });
 }
 
-// ========== 生成单个媒体的 RSS 文件 ==========
-function generateSingleRSS(source, items) {
-  const channel = {
-    title: source.name,
-    link: source.url,
-    description: `RSS feed for ${source.name}`,
-    lastBuildDate: new Date().toUTCString(),
-  };
+// ========== 简单的 RSS XML 解析（正则提取 item）==========
+function parseItems(xml) {
+  const items = [];
+  const itemRegex = /<item[\s>][\s\S]*?<\/item>/g;
+  const matches = xml.match(itemRegex) || [];
 
+  for (const itemXml of matches) {
+    const title = (itemXml.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/) || [])[1] || '';
+    const link = (itemXml.match(/<link>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/link>/) || [])[1] || '';
+    const pubDate = (itemXml.match(/<pubDate>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/pubDate>/) || [])[1] || '';
+    const description = (itemXml.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/) || [])[1] || '';
+    items.push({ title, link, pubDate, description });
+  }
+  return items;
+}
+
+// ========== 生成单个媒体 RSS ==========
+function generateSingleRSS(source, items) {
   const itemsXml = items.slice(0, 20).map(item => `
     <item>
-      <title>${escapeXml(item.title[0])}</title>
-      <link>${escapeXml(item.link[0])}</link>
-      <pubDate>${escapeXml(item.pubDate[0] || '')}</pubDate>
-      <description>${escapeXml((item.description && item.description[0]) || '')}</description>
+      <title>${escapeXml(item.title)}</title>
+      <link>${escapeXml(item.link)}</link>
+      <pubDate>${escapeXml(item.pubDate)}</pubDate>
+      <description>${escapeXml(item.description)}</description>
     </item>
   `).join('');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>${escapeXml(channel.title)}</title>
-    <link>${escapeXml(channel.link)}</link>
-    <description>${escapeXml(channel.description)}</description>
-    <lastBuildDate>${channel.lastBuildDate}</lastBuildDate>
+    <title>${escapeXml(source.name)}</title>
+    <link>${escapeXml(source.url)}</link>
+    <description>RSS feed for ${escapeXml(source.name)}</description>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     ${itemsXml}
   </channel>
 </rss>`;
 
-  const outputPath = path.join(__dirname, '../../docs', `${source.file}.xml`);
-  fs.writeFileSync(outputPath, xml, 'utf8');
+  fs.writeFileSync(path.join(__dirname, '../../docs', `${source.file}.xml`), xml, 'utf8');
   console.log(`Generated ${source.file}.xml with ${items.length} items`);
 }
 
 // ========== 生成总汇总 RSS ==========
 function generateMasterRSS(allItems) {
-  // 按时间排序
   allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
   const itemsXml = allItems.slice(0, 100).map(item => `
@@ -124,40 +124,33 @@ function generateMasterRSS(allItems) {
   </channel>
 </rss>`;
 
-  const outputPath = path.join(__dirname, '../../docs', 'feed.xml');
-  fs.writeFileSync(outputPath, xml, 'utf8');
+  fs.writeFileSync(path.join(__dirname, '../../docs', 'feed.xml'), xml, 'utf8');
   console.log(`Generated master feed.xml with ${allItems.length} total items`);
 }
 
 // ========== 主函数 ==========
 async function main() {
-  // 创建 docs 目录（如果不存在）
   const docsDir = path.join(__dirname, '../../docs');
-  if (!fs.existsSync(docsDir)) {
-    fs.mkdirSync(docsDir, { recursive: true });
-  }
+  if (!fs.existsSync(docsDir)) fs.mkdirSync(docsDir, { recursive: true });
 
   const allItems = [];
 
   for (const source of RSS_SOURCES) {
     console.log(`Fetching ${source.name}...`);
-    const items = await fetchRSS(source.url);
+    try {
+      const xml = await fetchURL(source.url);
+      const items = parseItems(xml);
 
-    if (items.length > 0) {
-      generateSingleRSS(source, items);
-
-      // 提取条目加入总汇总
-      items.slice(0, 5).forEach(item => {
-        allItems.push({
-          source: source.name,
-          title: item.title[0],
-          link: item.link[0],
-          pubDate: item.pubDate[0] || '',
-          description: (item.description && item.description[0]) || '',
+      if (items.length > 0) {
+        generateSingleRSS(source, items);
+        items.slice(0, 5).forEach(item => {
+          allItems.push({ source: source.name, ...item });
         });
-      });
-    } else {
-      console.log(`No items from ${source.name}`);
+      } else {
+        console.log(`No items from ${source.name}`);
+      }
+    } catch (e) {
+      console.log(`Failed ${source.name}: ${e.message}`);
     }
   }
 
