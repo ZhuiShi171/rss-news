@@ -4,62 +4,48 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Wed, 21 Oct 2026 13:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:10:30 GMT</lastBuildDate>
     
     <item>
-      <title>SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up</title>
+      <title>How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier</title>
+      <link>https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html</link>
+      <pubDate>Wed, 21 Oct 2026 17:27:34 GMT</pubDate>
+      <description>President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans&apos; election chances with the midterms just two weeks away.</description>
+    </item>
+  
+    <item>
+      <title>Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case</title>
+      <link>https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</link>
+      <pubDate>Wed, 21 Oct 2026 17:45:23 GMT</pubDate>
+      <description>Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.</description>
+    </item>
+  
+    <item>
+      <title>SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up</title>
       <link>https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html</link>
-      <pubDate>Wed, 21 Oct 2026 12:23:13 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:08:50 GMT</pubDate>
       <description>SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.</description>
     </item>
   
     <item>
-      <title>Investors are questioning neoclouds&apos; business model but Nebius says AI computing prices are rising</title>
-      <link>https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html</link>
-      <pubDate>Wed, 21 Oct 2026 12:21:07 GMT</pubDate>
-      <description>The comments come as investors scrutinize the debt, borrowing costs and economics of companies building AI infrastructure.</description>
+      <title>Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule </title>
+      <link>https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html</link>
+      <pubDate>Wed, 21 Oct 2026 16:55:51 GMT</pubDate>
+      <description>Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.</description>
     </item>
   
     <item>
-      <title>OpenAI&apos;s most powerful AI models disabled their own safety monitoring — and one lied about it</title>
-      <link>https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html</link>
-      <pubDate>Wed, 21 Oct 2026 07:49:48 GMT</pubDate>
-      <description>Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.</description>
+      <title>Tesla earnings loom after Musk calls SpaceX merger a &apos;good idea&apos;</title>
+      <link>https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html</link>
+      <pubDate>Wed, 21 Oct 2026 16:01:25 GMT</pubDate>
+      <description>A day after Elon Musk&apos;s SpaceX reported third-quarter results, Tesla is scheduled to update investors.</description>
     </item>
   
     <item>
-      <title>French 10-year bond yield hits 5% for first time since 2002 amid unrest</title>
-      <link>https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html</link>
-      <pubDate>Wed, 21 Oct 2026 10:40:01 GMT</pubDate>
-      <description>France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more.</description>
-    </item>
-  
-    <item>
-      <title>Elon Musk ordered Starlink slowdown for Ukraine: Report</title>
-      <link>https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html</link>
-      <pubDate>Tue, 20 Oct 2026 23:06:56 GMT</pubDate>
-      <description>Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.</description>
-    </item>
-  
-    <item>
-      <title>U.S. eyes refining muscle of Indian billionaire Ambani&apos;s Reliance as Rubio visits Jamnagar plant  </title>
-      <link>https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html</link>
-      <pubDate>Wed, 21 Oct 2026 04:47:43 GMT</pubDate>
-      <description>Rubio said the &quot;extraordinary&quot; refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude.</description>
-    </item>
-  
-    <item>
-      <title>Witkoff heads to Russia for Putin talks as Zelenskyy insists &apos;nothing about Ukraine without Ukraine&apos;</title>
-      <link>https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html</link>
-      <pubDate>Wed, 21 Oct 2026 10:32:40 GMT</pubDate>
-      <description>Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees. </description>
-    </item>
-  
-    <item>
-      <title>Oil prices little changed as traders assess Middle East developments</title>
-      <link>https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html</link>
-      <pubDate>Wed, 21 Oct 2026 12:48:55 GMT</pubDate>
-      <description>Iran&apos;s Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz.</description>
+      <title>EBay to lay off 9% of workforce in its second round of job cuts this year</title>
+      <link>https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html</link>
+      <pubDate>Wed, 21 Oct 2026 15:17:03 GMT</pubDate>
+      <description>EBay will lay off 9% of its workforce, or about 1,000 employees, as it works to focus on its &quot;top strategic priorities.&quot;</description>
     </item>
   
     <item>
@@ -77,38 +63,52 @@
     </item>
   
     <item>
-      <title>Treasury yields steady as investors await jobless claims, mortgage data</title>
-      <link>https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html</link>
-      <pubDate>Wed, 21 Oct 2026 12:44:10 GMT</pubDate>
-      <description>Treasury yields steadied as investors await more data for insights into the U.S. economic picture.</description>
+      <title>Meta and Tesla bulls get confidence boost after SpaceX earnings</title>
+      <link>https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html</link>
+      <pubDate>Wed, 21 Oct 2026 16:35:48 GMT</pubDate>
+      <description>A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.</description>
     </item>
   
     <item>
-      <title>French supermarket giant&apos;s shares plunge 14% after warning ‘unprecedented’ unrest will hit business</title>
-      <link>https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html</link>
-      <pubDate>Wed, 21 Oct 2026 08:12:51 GMT</pubDate>
-      <description>Carrefour cut its full-year 2026 financial forecasts, citing worsening social unrest and security conditions in France, weighing on consumer spending.</description>
+      <title>New Mexico AG lawsuit accuses Epstein&apos;s attorney and accountant of facilitating sex trafficking</title>
+      <link>https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html</link>
+      <pubDate>Wed, 21 Oct 2026 17:34:00 GMT</pubDate>
+      <description>Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein&apos;s sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.</description>
     </item>
   
     <item>
-      <title>CNBC Daily Open: SpaceX and Tesla may merge in the multiverse of Musk</title>
-      <link>https://www.cnbc.com/2026/10/21/cnbc-daily-open-spacex-tesla-elon-musk-ai.html</link>
-      <pubDate>Wed, 21 Oct 2026 08:28:13 GMT</pubDate>
-      <description>Over in the AI space, investors are also increasingly wary of the massive amounts of money being poured into data centers.</description>
+      <title>OpenAI&apos;s most powerful AI models disabled their own safety monitoring — and one lied about it</title>
+      <link>https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html</link>
+      <pubDate>Wed, 21 Oct 2026 07:49:48 GMT</pubDate>
+      <description>Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.</description>
     </item>
   
     <item>
-      <title>UK inflation jumps to 3.5% — cementing rate hike expectations</title>
-      <link>https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html</link>
-      <pubDate>Wed, 21 Oct 2026 07:50:10 GMT</pubDate>
-      <description>U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.</description>
+      <title>Expanding AI trade is turning safety stocks into a &apos;Texas hedge&apos;</title>
+      <link>https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html</link>
+      <pubDate>Wed, 21 Oct 2026 17:14:14 GMT</pubDate>
+      <description>The growing AI trade is infiltrating traditionally safe sectors like utilities, making hedging more difficult.</description>
     </item>
   
     <item>
-      <title>&apos;MAKE DEALS&apos;: Trump says data centers should pay communities a &apos;dividend&apos; to win support </title>
-      <link>https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html</link>
-      <pubDate>Wed, 21 Oct 2026 10:34:20 GMT</pubDate>
-      <description>Trump says data centers should consider community &quot;dividends&quot; as AI financing worries grow.</description>
+      <title>French 10-year bond yield hits 5% for first time since 2002 amid unrest</title>
+      <link>https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html</link>
+      <pubDate>Wed, 21 Oct 2026 10:40:01 GMT</pubDate>
+      <description>France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more.</description>
+    </item>
+  
+    <item>
+      <title>Musk&apos;s SpaceX stock gift is &apos;tip of the iceberg&apos; for Trump Accounts, Altimeter&apos;s Gerstner says</title>
+      <link>https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html</link>
+      <pubDate>Wed, 21 Oct 2026 15:58:45 GMT</pubDate>
+      <description>Elon Musk’s planned SpaceX share gift through Trump Accounts could be the start of a broader philanthropic push, says Altimeter Capital CEO Brad Gerstner.</description>
+    </item>
+  
+    <item>
+      <title>Investors are questioning neoclouds&apos; business model but Nebius says AI computing prices are rising</title>
+      <link>https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html</link>
+      <pubDate>Wed, 21 Oct 2026 13:44:12 GMT</pubDate>
+      <description>The comments come as investors scrutinize the debt, borrowing costs and economics of companies building AI infrastructure.</description>
     </item>
   
   </channel>
