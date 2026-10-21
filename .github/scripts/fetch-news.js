@@ -1,4 +1,5 @@
 const https = require('https');
+const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
@@ -30,7 +31,7 @@ const RSS_SOURCES = [
   { name: 'Times of Israel', url: 'https://news.google.com/rss/search?q=site:timesofisrael.com&hl=en-US&gl=US&ceid=US:en', file: 'times-of-israel' },
 ];
 
-// ========== XML 转义函数（先解码再编码，避免双重转义）==========
+// ========== XML 转义函数 ==========
 function escapeXml(text) {
   if (!text) return '';
   let decoded = String(text)
@@ -38,7 +39,9 @@ function escapeXml(text) {
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&apos;/g, "'");
+    .replace(/&apos;/g, "'")
+    .replace(/&#039;/g, "'")
+    .replace(/&#x27;/g, "'");
   return decoded
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
@@ -47,18 +50,81 @@ function escapeXml(text) {
     .replace(/'/g, '&apos;');
 }
 
-// ========== 用内置 https 模块抓取 ==========
+// ========== HTTP 请求 ==========
 function fetchURL(url) {
   return new Promise((resolve, reject) => {
-    https.get(url, { timeout: 30000, headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+    const client = url.startsWith('https') ? https : http;
+    const req = client.get(url, {
+      timeout: 15000,
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+    }, (res) => {
+      // 跟随重定向
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        let nextUrl = res.headers.location;
+        if (nextUrl.startsWith('/')) {
+          const u = new URL(url);
+          nextUrl = u.origin + nextUrl;
+        }
+        resolve(fetchURL(nextUrl));
+        return;
+      }
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => resolve(data));
-    }).on('error', reject).on('timeout', () => reject(new Error('timeout')));
+    });
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
   });
 }
 
-// ========== 简单的 RSS XML 解析（正则提取 item）==========
+// ========== 简单正文提取（正则方式）==========
+function extractArticle(html) {
+  // 移除 script/style/nav/footer
+  let cleaned = html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<header[\s\S]*?<\/header>/gi, '')
+    .replace(/<aside[\s\S]*?<\/aside>/gi, '');
+
+  // 找 article 标签或 main 标签
+  let articleMatch = cleaned.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+  if (!articleMatch) {
+    articleMatch = cleaned.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+  }
+  if (!articleMatch) {
+    articleMatch = cleaned.match(/<div[^>]*class="[^"]*article[^"]*"[^>]*>([\s\S]*?)<\/div>/i);
+  }
+
+  let content = articleMatch ? articleMatch[1] : cleaned;
+
+  // 转成纯文本（保留段落）
+  content = content
+    .replace(/<p[^>]*>/gi, '\n\n')
+    .replace(/<\/p>/gi, '')
+    .replace(/<br[^>]*>/gi, '\n')
+    .replace(/<h[1-6][^>]*>/gi, '\n\n')
+    .replace(/<\/h[1-6]>/gi, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+
+  // 截取前 2000 字符
+  if (content.length > 2000) {
+    content = content.substring(0, 2000) + '...';
+  }
+
+  return content;
+}
+
+// ========== 解析 RSS XML ==========
 function parseItems(xml) {
   const items = [];
   const itemRegex = /<item[\s>][\s\S]*?<\/item>/g;
@@ -76,12 +142,12 @@ function parseItems(xml) {
 
 // ========== 生成单个媒体 RSS ==========
 function generateSingleRSS(source, items) {
-  const itemsXml = items.slice(0, 20).map(item => `
+  const itemsXml = items.slice(0, 15).map(item => `
     <item>
       <title>${escapeXml(item.title)}</title>
       <link>${escapeXml(item.link)}</link>
       <pubDate>${escapeXml(item.pubDate)}</pubDate>
-      <description>${escapeXml(item.description)}</description>
+      <description>${escapeXml(item.fullContent || item.description)}</description>
     </item>
   `).join('');
 
@@ -104,12 +170,12 @@ function generateSingleRSS(source, items) {
 function generateMasterRSS(allItems) {
   allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  const itemsXml = allItems.slice(0, 100).map(item => `
+  const itemsXml = allItems.slice(0, 80).map(item => `
     <item>
       <title>${escapeXml(`[${item.source}] ${item.title}`)}</title>
       <link>${escapeXml(item.link)}</link>
       <pubDate>${escapeXml(item.pubDate)}</pubDate>
-      <description>${escapeXml(item.description)}</description>
+      <description>${escapeXml(item.fullContent || item.description)}</description>
     </item>
   `).join('');
 
@@ -142,8 +208,19 @@ async function main() {
       const items = parseItems(xml);
 
       if (items.length > 0) {
+        // 对每篇文章抓全文（前 10 篇）
+        for (let i = 0; i < Math.min(10, items.length); i++) {
+          try {
+            console.log(`  -> Fetching article: ${items[i].title.substring(0, 50)}...`);
+            const html = await fetchURL(items[i].link);
+            items[i].fullContent = extractArticle(html);
+          } catch (e) {
+            items[i].fullContent = items[i].description; // 失败就用摘要
+          }
+        }
+
         generateSingleRSS(source, items);
-        items.slice(0, 5).forEach(item => {
+        items.slice(0, 3).forEach(item => {
           allItems.push({ source: source.name, ...item });
         });
       } else {
