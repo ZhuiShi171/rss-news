@@ -5,6 +5,7 @@ const path = require('path');
 
 // ========== RSS 源列表 ==========
 const RSS_SOURCES = [
+  // 直连源（媒体官方 RSS）
   { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', file: 'bbc-world' },
   { name: 'BBC China', url: 'https://feeds.bbci.co.uk/news/world/asia/china/rss.xml', file: 'bbc-china' },
   { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', file: 'aljazeera' },
@@ -20,10 +21,14 @@ const RSS_SOURCES = [
   { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world', file: 'cbs-world' },
   { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed', file: 'scmp-world' },
   { name: 'France 24 English', url: 'https://www.france24.com/en/rss', file: 'france24' },
-  { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en', file: 'reuters-world' },
-  { name: 'AP World', url: 'https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'ap-world' },
-  { name: 'CNN World', url: 'https://news.google.com/rss/search?q=site:cnn.com+world&hl=en-US&gl=US&ceid=US:en', file: 'cnn-world' },
-  { name: 'Washington Post World', url: 'https://news.google.com/rss/search?q=site:washingtonpost.com+world&hl=en-US&gl=US&ceid=US:en', file: 'wapo-world' },
+
+  // 全文 RSS 源（quanwenrss，自带全文，不需要再爬）
+  { name: 'Reuters World', url: 'https://feed.quanwenrss.com/feed/reuters-world.xml', file: 'reuters-world' },
+  { name: 'AP World', url: 'https://quanwenrss.com/apnews', file: 'ap-world' },
+  { name: 'CNN World', url: 'https://feed.quanwenrss.com/feed/cnn-world.xml', file: 'cnn-world' },
+  { name: 'Washington Post World', url: 'https://feed.quanwenrss.com/feed/wapo-world.xml', file: 'wapo-world' },
+
+  // Google News 聚合版（剩余源用这个，只能看标题）
   { name: 'NBC News World', url: 'https://news.google.com/rss/search?q=site:nbcnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'nbc-world' },
   { name: 'Newsweek', url: 'https://news.google.com/rss/search?q=site:newsweek.com&hl=en-US&gl=US&ceid=US:en', file: 'newsweek' },
   { name: 'NHK World', url: 'https://news.google.com/rss/search?q=site:nhk.or.jp+world&hl=en-US&gl=US&ceid=US:en', file: 'nhk-world' },
@@ -31,7 +36,7 @@ const RSS_SOURCES = [
   { name: 'Times of Israel', url: 'https://news.google.com/rss/search?q=site:timesofisrael.com&hl=en-US&gl=US&ceid=US:en', file: 'times-of-israel' },
 ];
 
-// ========== XML 转义函数 ==========
+// ========== XML 转义函数（先解码再编码，避免双重转义）==========
 function escapeXml(text) {
   if (!text) return '';
   let decoded = String(text)
@@ -50,7 +55,7 @@ function escapeXml(text) {
     .replace(/'/g, '&apos;');
 }
 
-// ========== HTTP 请求 ==========
+// ========== HTTP 请求（内置模块）==========
 function fetchURL(url) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
@@ -58,7 +63,6 @@ function fetchURL(url) {
       timeout: 15000,
       headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
     }, (res) => {
-      // 跟随重定向
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         let nextUrl = res.headers.location;
         if (nextUrl.startsWith('/')) {
@@ -77,9 +81,8 @@ function fetchURL(url) {
   });
 }
 
-// ========== 简单正文提取（正则方式）==========
+// ========== 简单正文提取 ==========
 function extractArticle(html) {
-  // 移除 script/style/nav/footer
   let cleaned = html
     .replace(/<script[\s\S]*?<\/script>/gi, '')
     .replace(/<style[\s\S]*?<\/style>/gi, '')
@@ -88,18 +91,12 @@ function extractArticle(html) {
     .replace(/<header[\s\S]*?<\/header>/gi, '')
     .replace(/<aside[\s\S]*?<\/aside>/gi, '');
 
-  // 找 article 标签或 main 标签
   let articleMatch = cleaned.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
-  if (!articleMatch) {
-    articleMatch = cleaned.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
-  }
-  if (!articleMatch) {
-    articleMatch = cleaned.match(/<div[^>]*class="[^"]*article[^"]*"[^>]*>([\s\S]*?)<\/div>/i);
-  }
+  if (!articleMatch) articleMatch = cleaned.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+  if (!articleMatch) articleMatch = cleaned.match(/<div[^>]*class="[^"]*article[^"]*"[^>]*>([\s\S]*?)<\/div>/i);
 
   let content = articleMatch ? articleMatch[1] : cleaned;
 
-  // 转成纯文本（保留段落）
   content = content
     .replace(/<p[^>]*>/gi, '\n\n')
     .replace(/<\/p>/gi, '')
@@ -116,26 +113,21 @@ function extractArticle(html) {
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 
-  // 截取前 2000 字符
-  if (content.length > 2000) {
-    content = content.substring(0, 2000) + '...';
-  }
-
+  if (content.length > 2000) content = content.substring(0, 2000) + '...';
   return content;
 }
 
 // ========== 解析 RSS XML ==========
 function parseItems(xml) {
   const items = [];
-  const itemRegex = /<item[\s>][\s\S]*?<\/item>/g;
-  const matches = xml.match(itemRegex) || [];
-
+  const matches = xml.match(/<item[\s>][\s\S]*?<\/item>/g) || [];
   for (const itemXml of matches) {
-    const title = (itemXml.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/) || [])[1] || '';
-    const link = (itemXml.match(/<link>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/link>/) || [])[1] || '';
-    const pubDate = (itemXml.match(/<pubDate>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/pubDate>/) || [])[1] || '';
-    const description = (itemXml.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/) || [])[1] || '';
-    items.push({ title, link, pubDate, description });
+    items.push({
+      title: (itemXml.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/) || [])[1] || '',
+      link: (itemXml.match(/<link>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/link>/) || [])[1] || '',
+      pubDate: (itemXml.match(/<pubDate>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/pubDate>/) || [])[1] || '',
+      description: (itemXml.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/) || [])[1] || '',
+    });
   }
   return items;
 }
@@ -208,14 +200,14 @@ async function main() {
       const items = parseItems(xml);
 
       if (items.length > 0) {
-        // 对每篇文章抓全文（前 10 篇）
+        // 对前 10 篇文章抓全文
         for (let i = 0; i < Math.min(10, items.length); i++) {
           try {
             console.log(`  -> Fetching article: ${items[i].title.substring(0, 50)}...`);
             const html = await fetchURL(items[i].link);
             items[i].fullContent = extractArticle(html);
           } catch (e) {
-            items[i].fullContent = items[i].description; // 失败就用摘要
+            items[i].fullContent = items[i].description;
           }
         }
 
