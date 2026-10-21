@@ -3,219 +3,148 @@
   <channel>
     <title>BBC World</title>
     <link>https://feeds.bbci.co.uk/news/world/rss.xml</link>
-    <description>BBC World - latest news</description>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:49:56 GMT</lastBuildDate>
+    <description>RSS feed for BBC World</description>
+    <lastBuildDate>Wed, 21 Oct 2026 02:07:46 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[France is divided over who to blame for and what to learn from weekend riots]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Borneo burning: Life on the frontline of South East Asia's toxic haze]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[A "Super El Niño" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.]]></description>
-      <pubDate>Tue, 20 Oct 2026 23:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Is Ebola under control in Kenya after nine cases confirmed?]]></title>
-      <link>https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.]]></description>
-      <pubDate>Tue, 20 Oct 2026 23:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Elon Musk says Tesla-SpaceX merger being considered]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Musk says special committees within both companies have been formed to look at a possible mega-merger.]]></description>
-      <pubDate>Tue, 20 Oct 2026 23:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Is Donald Trump ready to do business with Myanmar?]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.]]></description>
-      <pubDate>Tue, 20 Oct 2026 23:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.]]></description>
-      <pubDate>Tue, 20 Oct 2026 22:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Ukraine had accused the US of withholding key intelligence - a claim rejected as "scandalous" by Washington.]]></description>
+      <title>Zelensky says US intelligence sharing &apos;works now&apos; after talks with Trump envoy in Oslo</title>
+      <link>https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Tue, 20 Oct 2026 21:27:39 GMT</pubDate>
+      <description>Ukraine had accused the US of withholding key intelligence - a claim rejected as &quot;scandalous&quot; by Washington.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Suspect arrested after historic town hall set alight - French media]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.]]></description>
-      <pubDate>Tue, 20 Oct 2026 21:05:50 GMT</pubDate>
+      <title>France is divided over who to blame for and what to learn from weekend riots</title>
+      <link>https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Wed, 21 Oct 2026 01:22:51 GMT</pubDate>
+      <description>In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Trump and Zelensky appear at loggerheads despite Oslo optimism]]></title>
-      <link>https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.]]></description>
-      <pubDate>Tue, 20 Oct 2026 20:00:57 GMT</pubDate>
+      <title>Elon Musk says Tesla-SpaceX merger being considered</title>
+      <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 23:24:47 GMT</pubDate>
+      <description>Musk says special committees within both companies have been formed to look at a possible mega-merger.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Trump sued over Canadian tariffs in latest legal challenge]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused "immediate harm to American businesses".]]></description>
-      <pubDate>Tue, 20 Oct 2026 19:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cornell Jane Doe says embattled university head doubted her gang-rape allegation]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is "incorrect".]]></description>
-      <pubDate>Tue, 20 Oct 2026 19:08:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Sudan army drones hit mourners and fuel market killing more than 300 people, sources say]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Swimmer, 65, killed in shark attack off South Africa's east coast]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.]]></description>
-      <pubDate>Tue, 20 Oct 2026 15:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.]]></description>
-      <pubDate>Tue, 20 Oct 2026 14:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Huge setback for Alberta's separatist movement after decisive defeat]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.]]></description>
-      <pubDate>Tue, 20 Oct 2026 13:39:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kenya cult leader's children still being starved weeks before trial, son says]]></title>
-      <link>https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.]]></description>
-      <pubDate>Tue, 20 Oct 2026 13:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.]]></description>
-      <pubDate>Tue, 20 Oct 2026 11:45:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Man charged with attack on Australia MP to face court]]></title>
-      <link>https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.]]></description>
+      <title>Man charged with attack on Australia MP to face court</title>
+      <link>https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Tue, 20 Oct 2026 11:25:35 GMT</pubDate>
+      <description>Brendan Nugent&apos;s family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Why Israeli Gen Z voters are drawn to the far right]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.]]></description>
-      <pubDate>Tue, 20 Oct 2026 08:53:06 GMT</pubDate>
+      <title>Trump and Zelensky appear at loggerheads despite Oslo optimism</title>
+      <link>https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 20:00:57 GMT</pubDate>
+      <description>The Ukrainian leader&apos;s hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Tourist found guilty after stealing Las Vegas flamingo from enclosure]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.]]></description>
+      <title>Alberta&apos;s decisive decision to stay in Canada gives Carney backing to take on Trump</title>
+      <link>https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 22:22:17 GMT</pubDate>
+      <description>The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country&apos;s economy, writes the BBC&apos;s Lyse Doucet. </description>
+    </item>
+  
+    <item>
+      <title>Sudan army drones hit mourners and fuel market killing more than 300 people, sources say</title>
+      <link>https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 17:30:15 GMT</pubDate>
+      <description>A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.</description>
+    </item>
+  
+    <item>
+      <title>Swimmer, 65, killed in shark attack off South Africa&apos;s east coast</title>
+      <link>https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 15:58:57 GMT</pubDate>
+      <description>Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.</description>
+    </item>
+  
+    <item>
+      <title>Trump sued over Canadian tariffs in latest legal challenge</title>
+      <link>https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 19:30:05 GMT</pubDate>
+      <description>The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused &quot;immediate harm to American businesses&quot;.</description>
+    </item>
+  
+    <item>
+      <title>North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 11:45:49 GMT</pubDate>
+      <description>North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.</description>
+    </item>
+  
+    <item>
+      <title>Tourist found guilty after stealing Las Vegas flamingo from enclosure</title>
+      <link>https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Tue, 20 Oct 2026 03:10:39 GMT</pubDate>
+      <description>The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Seventh day of violent clashes between Albanian protesters and police]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.]]></description>
-      <pubDate>Tue, 20 Oct 2026 02:45:05 GMT</pubDate>
+      <title>Suspect arrested after historic town hall set alight - French media</title>
+      <link>https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 21:05:50 GMT</pubDate>
+      <description>The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds']]></title>
-      <link>https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.]]></description>
-      <pubDate>Tue, 20 Oct 2026 01:52:43 GMT</pubDate>
+      <title>Kenya cult leader&apos;s children still being starved weeks before trial, son says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 13:23:32 GMT</pubDate>
+      <description>Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.</description>
     </item>
+  
     <item>
-      <title><![CDATA[US church on front line of battle against drug known as 'tranq']]></title>
-      <link>https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.]]></description>
-      <pubDate>Tue, 20 Oct 2026 00:02:32 GMT</pubDate>
+      <title>Cornell Jane Doe says embattled university head doubted her gang-rape allegation</title>
+      <link>https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 19:08:06 GMT</pubDate>
+      <description>As a no-confidence vote looms, Cornell says the characterisation of the head&apos;s reaction is &quot;incorrect&quot;.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Morocco's first female prime minister caught between the king, clerics, and feminists]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Will Fatima El Mansouri advance women’s rights amid religious and political barriers?]]></description>
-      <pubDate>Mon, 19 Oct 2026 23:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Clean up begins after French riots but police remain]]></title>
-      <link>https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.]]></description>
-      <pubDate>Mon, 19 Oct 2026 21:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors]]></title>
-      <link>https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.]]></description>
-      <pubDate>Mon, 19 Oct 2026 21:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation]]></title>
-      <link>https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The two top tennis pros married in 2021 and have one child together.]]></description>
-      <pubDate>Mon, 19 Oct 2026 21:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ukraine says it carried out first drone airlift of wounded soldier from front line]]></title>
-      <link>https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.]]></description>
-      <pubDate>Mon, 19 Oct 2026 20:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Mission blasts off for Mars to grab a piece of its moon]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.]]></description>
+      <title>Mission blasts off for Mars to grab a piece of its moon</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Mon, 19 Oct 2026 19:45:46 GMT</pubDate>
+      <description>A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Vinted blocks French looters listing stolen goods for sale]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The platform said since the weekend it had "taken immediate action to identify and remove listings linked to looting".]]></description>
+      <title>Seventh day of violent clashes between Albanian protesters and police</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 02:45:05 GMT</pubDate>
+      <description>Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.</description>
+    </item>
+  
+    <item>
+      <title>Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation</title>
+      <link>https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Mon, 19 Oct 2026 21:02:33 GMT</pubDate>
+      <description>The two top tennis pros married in 2021 and have one child together.</description>
+    </item>
+  
+    <item>
+      <title>Vinted blocks French looters listing stolen goods for sale</title>
+      <link>https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Mon, 19 Oct 2026 16:46:35 GMT</pubDate>
+      <description>The platform said since the weekend it had &quot;taken immediate action to identify and remove listings linked to looting&quot;.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Obama blasts federal probe of Ilhan Omar as 'so appalling']]></title>
-      <link>https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.]]></description>
-      <pubDate>Mon, 19 Oct 2026 16:16:51 GMT</pubDate>
+      <title>Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors</title>
+      <link>https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Mon, 19 Oct 2026 21:12:30 GMT</pubDate>
+      <description>Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail. </description>
     </item>
+  
     <item>
-      <title><![CDATA[US airman dies as daredevil descent goes wrong before Texas college football game]]></title>
-      <link>https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The game continued after the incident. The American Conference said the decision was made before his death was known.]]></description>
-      <pubDate>Mon, 19 Oct 2026 14:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Exiled critic of Rwandan president found beheaded]]></title>
-      <link>https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.]]></description>
+      <title>Exiled critic of Rwandan president found beheaded</title>
+      <link>https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Mon, 19 Oct 2026 13:42:41 GMT</pubDate>
+      <description>Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.</description>
     </item>
-    <item>
-      <title><![CDATA[Watch: Shops looted and restaurants gutted in Paris riots]]></title>
-      <link>https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[Violence broke out across France, with more than half a million people taking to the streets over the weekend.]]></description>
-      <pubDate>Mon, 19 Oct 2026 06:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pope Leo XIV thanks wellwishers in first event after cancer surgery]]></title>
-      <link>https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.]]></description>
-      <pubDate>Sun, 18 Oct 2026 11:09:32 GMT</pubDate>
-    </item>
+  
   </channel>
 </rss>

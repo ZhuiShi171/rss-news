@@ -3,69 +3,78 @@
   <channel>
     <title>NPR News</title>
     <link>https://feeds.npr.org/1001/rss.xml</link>
-    <description>NPR News - latest news</description>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:50:02 GMT</lastBuildDate>
+    <description>RSS feed for NPR News</description>
+    <lastBuildDate>Wed, 21 Oct 2026 02:07:47 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive]]></title>
+      <title>Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive</title>
       <link>https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case</link>
-      <description><![CDATA[Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.]]></description>
       <pubDate>Tue, 20 Oct 2026 16:19:16 -0400</pubDate>
+      <description>Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Vanessa Kerry is the new WHO envoy for health resilience. What&apos;s on her to-do list?]]></title>
+      <title>Vanessa Kerry is the new WHO envoy for health resilience. What&apos;s on her to-do list?</title>
       <link>https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization</link>
-      <description><![CDATA[A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it&apos;s challenging but not &quot;daunting.&quot;]]></description>
       <pubDate>Tue, 20 Oct 2026 12:27:01 -0400</pubDate>
+      <description>A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it&apos;s challenging but not &quot;daunting.&quot;</description>
     </item>
+  
     <item>
-      <title><![CDATA[DOJ charges 28 with voting crimes. And, TikTok ignored staff&apos;s child safety concerns]]></title>
+      <title>DOJ charges 28 with voting crimes. And, TikTok ignored staff&apos;s child safety concerns</title>
       <link>https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok</link>
-      <description><![CDATA[The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.]]></description>
       <pubDate>Tue, 20 Oct 2026 07:04:49 -0400</pubDate>
+      <description>The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.</description>
     </item>
+  
     <item>
-      <title><![CDATA[What if an AI bubble bursts — and that accelerates AI job losses?]]></title>
+      <title>What if an AI bubble bursts — and that accelerates AI job losses?</title>
       <link>https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses</link>
-      <description><![CDATA[Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.]]></description>
       <pubDate>Tue, 20 Oct 2026 06:30:00 -0400</pubDate>
+      <description>Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Why these 5 everyday items fluctuate in price at the grocery store]]></title>
+      <title>Why these 5 everyday items fluctuate in price at the grocery store</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation</link>
-      <description><![CDATA[Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.]]></description>
       <pubDate>Tue, 20 Oct 2026 05:00:00 -0400</pubDate>
+      <description>Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Can the new federal voucher program help public schools? Democrats are torn]]></title>
+      <title>Can the new federal voucher program help public schools? Democrats are torn</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats</link>
-      <description><![CDATA[The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.]]></description>
       <pubDate>Tue, 20 Oct 2026 05:00:00 -0400</pubDate>
+      <description>The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.</description>
     </item>
+  
     <item>
-      <title><![CDATA[TikTok staff raised child safety alarms. Court records show executives failed to act]]></title>
+      <title>TikTok staff raised child safety alarms. Court records show executives failed to act</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering</link>
-      <description><![CDATA[The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&apos;t think the harms are severe enough,&quot; wrote one executive.]]></description>
       <pubDate>Tue, 20 Oct 2026 05:00:00 -0400</pubDate>
+      <description>The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&apos;t think the harms are severe enough,&quot; wrote one executive.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Morning news brief]]></title>
+      <title>Morning news brief</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief</link>
-      <description><![CDATA[Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes.]]></description>
       <pubDate>Tue, 20 Oct 2026 04:50:27 -0400</pubDate>
+      <description>Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Rays will face Brewers in World Series to produce a first-time champion]]></title>
+      <title>Rays will face Brewers in World Series to produce a first-time champion</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series</link>
-      <description><![CDATA[The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.]]></description>
       <pubDate>Tue, 20 Oct 2026 02:28:10 -0400</pubDate>
+      <description>The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Alberta voters reject a move toward independence in referendum backing Canadian unity]]></title>
+      <title>Alberta voters reject a move toward independence in referendum backing Canadian unity</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada</link>
-      <description><![CDATA[Voters in Canada&apos;s oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney&apos;s push for national unity.]]></description>
       <pubDate>Tue, 20 Oct 2026 02:02:40 -0400</pubDate>
+      <description>Voters in Canada&apos;s oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney&apos;s push for national unity.</description>
     </item>
+  
   </channel>
 </rss>

@@ -1,324 +1,720 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>International News Aggregated</title>
+    <title>国际新闻汇总</title>
     <link>https://zhuishi171.github.io/rss-news/</link>
-    <description>Aggregated international news from multiple sources</description>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:50:08 GMT</lastBuildDate>
+    <description>International News Aggregated Feed</description>
+    <lastBuildDate>Wed, 21 Oct 2026 02:07:52 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[SpaceX and Tesla boards explore potential merger]]></title>
-      <link>https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1</link>
-      <description><![CDATA[Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Australian data center operator NextDC&apos;s shares plunge 40% after it slashes earnings forecast]]></title>
-      <link>https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html</link>
-      <description><![CDATA[The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5" target="_blank"&gt;Russia, sensing victory, cheers Trump’s latest shift against Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Helen Haines live updates: police charge accused Brendan Nugent with additional offence; lawyer says he has rare neurological condition]]></title>
-      <link>https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb</link>
-      <description><![CDATA[&lt;p&gt;Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"&gt;‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb"&gt;Helen Haines, the principled MP respected across parliament&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Anthony&lt;/strong&gt; &lt;strong&gt;Albanese&lt;/strong&gt; has described the police interview on Tuesday with &lt;strong&gt;Brendan&lt;/strong&gt; &lt;strong&gt;Nugent&lt;/strong&gt; as “extensive” but that the motivation of the alleged “violent” attack against &lt;strong&gt;Helen Haines&lt;/strong&gt; is still unknown.&lt;/p&gt;&lt;p&gt;Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago.&lt;/p&gt;&lt;p&gt;But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake.&lt;/p&gt;&lt;p&gt;My side, every side included. We all have to recognise that politics has got more aggressive.&lt;/p&gt;&lt;p&gt;The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well.&lt;/p&gt; &lt;a href="https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb"&gt;Continue reading...&lt;/a&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[White House pitches $8 billion to farmers as midterms near - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNN25COW8tX1prUFZJblNYRmYyclR3MWVkSDR3bm5mSTlnbHljMGVIRkZHTGRGVU5QV3hWc2ZoaGI5QWZNc0FicG1hcTRCQjBNdlF4MTNVbUllbG5MdXg0ZnFwUlN3UzZMM1pJdHhOSmJHZG1Yb3ZTT1Z4S1pwbmZfVVlqSjVJSTFGR1d6M0ZjcER6dmxWQURlcnUwTjZSQ0NMOXNmZ1dR?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNN25COW8tX1prUFZJblNYRmYyclR3MWVkSDR3bm5mSTlnbHljMGVIRkZHTGRGVU5QV3hWc2ZoaGI5QWZNc0FicG1hcTRCQjBNdlF4MTNVbUllbG5MdXg0ZnFwUlN3UzZMM1pJdHhOSmJHZG1Yb3ZTT1Z4S1pwbmZfVVlqSjVJSTFGR1d6M0ZjcER6dmxWQURlcnUwTjZSQ0NMOXNmZ1dR?oc=5" target="_blank"&gt;White House pitches $8 billion to farmers as midterms near&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Taiwan admits paying for retired US general to observe largest annual war games]]></title>
-      <link>https://www.scmp.com/news/china/military/article/3371531/taiwan-admits-paying-retired-us-general-observe-largest-annual-war-games</link>
-      <description><![CDATA[Taiwan’s defence ministry has confirmed for the first time that it has allocated funding for the US Indo-Pacific Command to send a retired general and other personnel to observe the island’s largest annual war games.
-The disclosure sheds rare official light on military exchanges that Taipei and Washington have traditionally kept out of public view, as security cooperation between the two sides deepens amid growing pressure from Beijing.
-According to a defence ministry report submitted to the...]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Burnham’s Britain can learn from Trump in engaging with China]]></title>
-      <link>https://www.scmp.com/opinion/world-opinion/article/3371392/burnhams-britain-can-learn-trump-engaging-china</link>
-      <description><![CDATA[Getting relations with China right is widely seen as Britain’s epoch-defining challenge. It is also one it is woefully unprepared to face.
-So concluded a recent audit by the Inter-Parliamentary Alliance on China (IPAC), which highlighted that top negotiators lacked basic Chinese language skills. More critically, it exposed a deeper deficit: a poor grasp of China spanning political elites and the public alike. This is rooted in a desk-bound classroom sinology rather than a nuanced appreciation...]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Christina Applegate says she was misdiagnosed with multiple sclerosis]]></title>
-      <link>https://www.scmp.com/news/world/united-states-canada/article/3371569/christina-applegate-says-she-was-misdiagnosed-multiple-sclerosis</link>
-      <description><![CDATA[Christina Applegate, who has candidly shared raw details about her journey with multiple sclerosis for years, revealed on Monday her doctor says she does not have the autoimmune disease and was misdiagnosed.
-“I’m back at square one where I don’t know what’s going on with me,” the actor said on the latest edition of her podcast “MeSsy”, along with co-host Jamie-Lynn Sigler, who has been public about her own battle with MS.
-Applegate first publicly announced in 2021 that she had been diagnosed...]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:29:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terry McLaurin out for rest of season with torn patellar tendon - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQVl9wYnlSZHRnMFB0ek9sUGtrMTRfeHRJcGV2MlJINzdWbHp1c1FfTmYyTTRFTEstcHpMYzBMTklhZWNVaDVsdWJ2WXR1X3ZudExCdG0zU0VPNUFmb3ZHVXdWUF91cW1RY2hRMDFoZWlvRlZwVTBFNUt1N3dnNFBRRVFSeGVkVFpLVHR1MXVsSzBXRFNVVVhjLTF5SWRIYklYOGpWNFNsMlZ1LW05eU5DODZLVTdQWHBWRDZNY1Vn?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQVl9wYnlSZHRnMFB0ek9sUGtrMTRfeHRJcGV2MlJINzdWbHp1c1FfTmYyTTRFTEstcHpMYzBMTklhZWNVaDVsdWJ2WXR1X3ZudExCdG0zU0VPNUFmb3ZHVXdWUF91cW1RY2hRMDFoZWlvRlZwVTBFNUt1N3dnNFBRRVFSeGVkVFpLVHR1MXVsSzBXRFNVVVhjLTF5SWRIYklYOGpWNFNsMlZ1LW05eU5DODZLVTdQWHBWRDZNY1Vn?oc=5" target="_blank"&gt;Terry McLaurin out for rest of season with torn patellar tendon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[How China is breaking down the west’s battery walls]]></title>
+      <title>[Financial Times World] How China is breaking down the west’s battery walls</title>
       <link>https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1</link>
-      <description><![CDATA[Chinese groups are racing to build a global supply chain as protectionist barriers rise]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:23:53 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 02:06:42 GMT</pubDate>
+      <description>Chinese groups are racing to build a global supply chain as protectionist barriers rise</description>
     </item>
+  
     <item>
-      <title><![CDATA[France is divided over who to blame for and what to learn from weekend riots]]></title>
-      <link>https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;amp;at_campaign=rss</link>
-      <description><![CDATA[In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.]]></description>
+      <title>[Financial Times World] Australian data centre group falls 44% on profit warning</title>
+      <link>https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1</link>
+      <pubDate>Wed, 21 Oct 2026 02:00:40 GMT</pubDate>
+      <description>NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO</description>
+    </item>
+  
+    <item>
+      <title>[Financial Times World] SpaceX and Tesla boards explore potential merger</title>
+      <link>https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1</link>
+      <pubDate>Wed, 21 Oct 2026 01:49:39 GMT</pubDate>
+      <description>Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity</description>
+    </item>
+  
+    <item>
+      <title>[CNBC World] CNBC Daily Open: The Musk universe is planning its latest crossover</title>
+      <link>https://www.cnbc.com/2026/10/21/cnbc-daily-open-the-musk-universe-is-planning-its-latest-crossover.html</link>
+      <pubDate>Wed, 21 Oct 2026 01:47:38 GMT</pubDate>
+      <description>In the corporate world, Elon Musk is mulling a more ambitious merger of universes: SpaceX and Tesla.</description>
+    </item>
+  
+    <item>
+      <title>[CNBC World] Australian data center operator NextDC&apos;s shares plunge 40% after it slashes earnings forecast</title>
+      <link>https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html</link>
+      <pubDate>Wed, 21 Oct 2026 01:44:42 GMT</pubDate>
+      <description>The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.</description>
+    </item>
+  
+    <item>
+      <title>[Al Jazeera] UN experts call on India to stop using ‘excessive force’ against protesters</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 01:43:38 +0000</pubDate>
+      <description>UN experts press for an ⁠independent investigation into Indian authorities&amp;#039; conduct.</description>
+    </item>
+  
+    <item>
+      <title>[BBC World] France is divided over who to blame for and what to learn from weekend riots</title>
+      <link>https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Wed, 21 Oct 2026 01:22:51 GMT</pubDate>
+      <description>In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Musk confirms SpaceX and Tesla exploring merger]]></title>
+      <title>[Al Jazeera] Musk confirms SpaceX and Tesla exploring merger</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss</link>
-      <description><![CDATA[Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.]]></description>
       <pubDate>Wed, 21 Oct 2026 01:19:22 +0000</pubDate>
+      <description>Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Trump says he will have spent $400m to support Republicans in midterms – US politics live]]></title>
-      <link>https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates</link>
-      <description><![CDATA[&lt;p&gt;President also announces incentive program for people to report fraud, as administration continues attack on Minnesota&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;amp;utm_campaign=BN22326&amp;amp;utm_content=signup&amp;amp;utm_term=standfirst&amp;amp;utm_source=GUARDIAN_WEB"&gt;Sign up for the Breaking News US email&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a"&gt;Send us your questions about immigration and the midterms&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;A new &lt;a href="https://prri.org/research/darkening-mood-and-shifting-political-loyalties-ahead-of-midterm-elections-findings-from-the-2026-american-values-survey/"&gt;survey&lt;/a&gt; reveals a widening “empathy gap” between Republicans and white evangelicals and the rest of the American public.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;On Tuesday, the nonpartisan Public Religion Research Institute released its annual American Values Survey. The survey found that white evangelical Protestants are the only religious group in which a majority does not agree that empathy is foundational moral value (42%). Instead, a majority (54%) say empathy can be dangerous when it leads people away from a society guided by God’s truth, PRRI said.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates"&gt;Continue reading...&lt;/a&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[In Japan, Takaichi’s first-year leadership style threatens hold on power]]></title>
-      <link>https://www.scmp.com/news/asia/east-asia/article/3371567/japan-takaichis-first-year-leadership-style-threatens-hold-power</link>
-      <description><![CDATA[With her government entering its second year on Wednesday, Japanese Prime Minister Sanae Takaichi may face growing questions over whether her leadership style, oft-described as assertive, could fuel discontent within her Liberal Democratic Party (LDP).
-Bolstered by high public approval ratings and an overwhelming majority in the House of Representatives, Takaichi has pushed through divisive legislation and made personnel appointments heavily tinged with her will.
-Political analysts warn that...]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Musk chose to restrict Ukraine&#039;s access to SpaceX network, sources say]]></title>
+      <title>[CBS News World] Musk chose to restrict Ukraine&amp;#039;s access to SpaceX network, sources say</title>
       <link>https://www.cbsnews.com/news/elon-musk-ukraine-spacex-starshield-trump-administration/</link>
-      <description><![CDATA[A decision by Elon Musk led to restrictions on Ukraine&#039;s use of SpaceX&#039;s satellite communications network, people familiar with the matter told CBS News.]]></description>
       <pubDate>Tue, 20 Oct 2026 21:17:10 -0400</pubDate>
+      <description>A decision by Elon Musk led to restrictions on Ukraine&amp;#039;s use of SpaceX&amp;#039;s satellite communications network, people familiar with the matter told CBS News.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Mariah Carey wins dismissal of brother’s defamation lawsuit over her memoir]]></title>
-      <link>https://www.theguardian.com/music/2026/oct/21/mariah-carey-brother-morgan-carey-defamation-lawsuit-dismissed</link>
-      <description><![CDATA[&lt;p&gt;Morgan Carey sued his sister over claims in her 2020 memoir, The Meaning of Mariah Carey, which he said falsely portrayed him as a violent drug dealer&lt;/p&gt;&lt;p&gt;A judge has dismissed a lawsuit from Mariah Carey’s brother, five years after he accused her of defaming him in her 2020 memoir, &lt;a href="https://www.theguardian.com/books/2020/sep/29/the-meaning-of-mariah-carey-review-fascinating-memoir-by-a-misunderstood-star"&gt;The Meaning of Mariah Carey&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;In the memoir, Carey described Morgan as a “sometimes drug dealing, been-in-the-system, drunk-ass brother” and called him her “ex-brother”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/music/2026/oct/21/mariah-carey-brother-morgan-carey-defamation-lawsuit-dismissed"&gt;Continue reading...&lt;/a&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Analysis | Here’s what’s making the Kansas Senate race so competitive - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlyQktfa0NpVVJ2akROb2hCdG5lV0YyT3d0T0k3S25TMGVNaEhlTGktR1QzTVZ6bEFGY0cxZk9fTk5tZE1LenFscl9yVTlSYUswSTRzXzRDY3VjZlVqVUNBNEo5QUtGV3FuV284bl9kcl9weXJXQjBqWndMVmpWUlJpNkdveWVJNW9ISVNkbV9HN2dfZEhCNjd6S2EtdXBBRzNMRkVIWUNCcUE?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlyQktfa0NpVVJ2akROb2hCdG5lV0YyT3d0T0k3S25TMGVNaEhlTGktR1QzTVZ6bEFGY0cxZk9fTk5tZE1LenFscl9yVTlSYUswSTRzXzRDY3VjZlVqVUNBNEo5QUtGV3FuV284bl9kcl9weXJXQjBqWndMVmpWUlJpNkdveWVJNW9ISVNkbV9HN2dfZEhCNjd6S2EtdXBBRzNMRkVIWUNCcUE?oc=5" target="_blank"&gt;Analysis | Here’s what’s making the Kansas Senate race so competitive&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Boeing's 737 Max 10 finally wins FAA approval after years of delays]]></title>
+      <title>[France 24 English] Boeing&apos;s 737 Max 10 finally wins FAA approval after years of delays</title>
       <link>https://www.france24.com/en/technology/20261021-boeing-s-737-max-10-finally-wins-faa-approval-after-years-of-delays</link>
-      <description><![CDATA[Boeing's largest 737 Max jet has cleared a major regulatory hurdle, with US aviation authorities approving the Max 10 for passenger service on Tuesday after nearly a decade of delays. The certification marks a boost for the planemaker's recovery, with deliveries expected to begin in 2027.]]></description>
       <pubDate>Wed, 21 Oct 2026 01:11:26 GMT</pubDate>
+      <description>
+Boeing&apos;s largest 737 Max jet has cleared a major regulatory hurdle, with US aviation authorities approving the Max 10 for passenger service on Tuesday after nearly a decade of delays. The certification marks a boost for the planemaker&apos;s recovery, with deliveries expected to begin in 2027.
+</description>
     </item>
+  
     <item>
-      <title><![CDATA[Opinion | How should we talk to children after school shootings? - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHdhR21XNUJxNVViazVJWGF3S0VMZ1lsMlVHVjZFTV9PX1FHTUczc2Z1MHk5cVBIVEFSMjdaWGM4cjlPemJ4ckNSeUJpd3VLWUZBSEVWdlQzN2VUX0gwb2R3TkRmYXBUUWVfQ3hGTmQ1R1RJajV0dTJ1eE9XaWJzNFlZb0N0RzlQZEVZSGRNZ1dIdUNGWEEtN3g3QV9BejhleFFid2FrQWVZdw?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHdhR21XNUJxNVViazVJWGF3S0VMZ1lsMlVHVjZFTV9PX1FHTUczc2Z1MHk5cVBIVEFSMjdaWGM4cjlPemJ4ckNSeUJpd3VLWUZBSEVWdlQzN2VUX0gwb2R3TkRmYXBUUWVfQ3hGTmQ1R1RJajV0dTJ1eE9XaWJzNFlZb0N0RzlQZEVZSGRNZ1dIdUNGWEEtN3g3QV9BejhleFFid2FrQWVZdw?oc=5" target="_blank"&gt;Opinion | How should we talk to children after school shootings?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it - AP News]]></title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzRQcWN4VlVXYjQ2WEFmYzZ6V0g5cnQ3Q1A0eFBoMjltNFAxSXZjbUx2NFNJQW8tZEZudEpCN1VyUFNTZGlORGp4WWMwYk9OelpHbkZUdC05bEhXel9rNEdfLVpPVlI1em0zMzF2Z01MWldJOWZNZEI5LURGT1FGSGZvS3h6ZXYybmswSHNRX0p3UC1CaEhmb1NoS3hVeDJNeVBtMnhqSS03WEEtTjh3?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzRQcWN4VlVXYjQ2WEFmYzZ6V0g5cnQ3Q1A0eFBoMjltNFAxSXZjbUx2NFNJQW8tZEZudEpCN1VyUFNTZGlORGp4WWMwYk9OelpHbkZUdC05bEhXel9rNEdfLVpPVlI1em0zMzF2Z01MWldJOWZNZEI5LURGT1FGSGZvS3h6ZXYybmswSHNRX0p3UC1CaEhmb1NoS3hVeDJNeVBtMnhqSS03WEEtTjh3?oc=5" target="_blank"&gt;Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AP News&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Korean Data Center Firm Elice Jumps by Limit After Debut Slump]]></title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-21/korean-ai-supplier-elice-jumps-by-daily-limit-after-debut-slump</link>
-      <description><![CDATA[South Korean AI computing supplier Elice Inc. surged on Wednesday, recovering much of the ground lost after a 32% slump in its trading debut, as a string of upbeat US tech earnings lifted sentiment.]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Elice&apos;s huge stock swings show AI&apos;s spending boom is getting more investor scrutiny]]></title>
+      <title>[CNBC World] Elice&apos;s huge stock swings show AI&apos;s spending boom is getting more investor scrutiny</title>
       <link>https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html</link>
-      <description><![CDATA[The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.]]></description>
       <pubDate>Wed, 21 Oct 2026 01:02:36 GMT</pubDate>
+      <description>The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Nigeria Announces First Case of Ebola in Current Outbreak]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html</link>
-      <description><![CDATA[Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[US jails Guatemalan man for 30 years over deadly smuggling operation]]></title>
+      <title>[Al Jazeera] US jails Guatemalan man for 30 years over deadly smuggling operation</title>
       <link>https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss</link>
-      <description><![CDATA[The 2022 incident resulted in the deaths of 53 migrants trapped inside a tractor-trailer in dangerously high heat.]]></description>
       <pubDate>Wed, 21 Oct 2026 01:01:25 +0000</pubDate>
+      <description>The 2022 incident resulted in the deaths of 53 migrants trapped inside a tractor-trailer in dangerously high heat.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Brazil’s family farming backbone embraces Chinese AI to reverse vital sector’s decline]]></title>
-      <link>https://www.scmp.com/news/china/science/article/3371528/brazils-family-farming-backbone-embraces-chinese-ai-reverse-vital-sectors-decline</link>
-      <description><![CDATA[The family farmers who produce the lion’s share of Brazil’s staple foods are opening their arms to cutting-edge Chinese artificial intelligence in a bid to modernise operations and secure their future.
-Brazil and China agreed to a five-year cooperation programme in September aimed at giving smallholders – the backbone of the Brazilian agricultural sector – an AI boost after a decade of declining employment and limited access to affordable technology.
-Representatives of the Brazilian Agricultural...]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[From ideas to impact]]></title>
-      <link>https://www.scmp.com/presented/news/hong-kong/topics/bringing-innovation-community-trials/article/3371511/ideas-impact</link>
-      <description><![CDATA[[The content of this article has been produced by our advertising partner.]
-The HKUST-SINO One Million Dollar Entrepreneurship Competition and Impactathon take different approaches to helping promising ideas move from early concepts to practical applications in businesses and communities.
-Across these initiatives, Sino aims to connect innovators with communities, universities and businesses at critical stages when feedback, practical experience and industry connections can help their ideas gain...]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Man charged in ‘targeted’ vehicle attack on Australian legislator - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnRZQ2Zxa3Btd1Y4SVJEb2hhQ1RuSVRvLXpMQWVib0xkSnloYVA3ZkV3dVl3Rm51WFJleW02NV9Ccm9XaXE2dW1la0Z6VU01eWZLZTFZWVAtNXQyQlhQQnJWS09FakNtRFhjVmk2RGswN01lQnA0VWhOYnV1ZE51cm5Cb3VCQktoa0JEWE1ETTlLTjNsUFk0OEx6bzY5TkNZVHNBLXYxUUg2UQ?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnRZQ2Zxa3Btd1Y4SVJEb2hhQ1RuSVRvLXpMQWVib0xkSnloYVA3ZkV3dVl3Rm51WFJleW02NV9Ccm9XaXE2dW1la0Z6VU01eWZLZTFZWVAtNXQyQlhQQnJWS09FakNtRFhjVmk2RGswN01lQnA0VWhOYnV1ZE51cm5Cb3VCQktoa0JEWE1ETTlLTjNsUFk0OEx6bzY5TkNZVHNBLXYxUUg2UQ?oc=5" target="_blank"&gt;Man charged in ‘targeted’ vehicle attack on Australian legislator&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[U.S. restores intelligence sharing with Ukraine, Zelensky says - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0wxY3poUnJYUjFMa0xKb3lFTmZQNFNFM1pyWWg2Y09fSHBUSmpMS3BrVEVoRjZfNi16WGVKMkhvczh2LW1ENHIxMWdPY0hQc3JubTI4eU9jWWhraVBxb0hxZDA0YVcxZWJlc0dfTEFpR2lYVDJJdmttR0NLQ2Y5SXFkLUJoTUlySWpvRGFzRHBZbDQtZVJ5T0EwYnZKQUllbWFRT18xZm56M1JB?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0wxY3poUnJYUjFMa0xKb3lFTmZQNFNFM1pyWWg2Y09fSHBUSmpMS3BrVEVoRjZfNi16WGVKMkhvczh2LW1ENHIxMWdPY0hQc3JubTI4eU9jWWhraVBxb0hxZDA0YVcxZWJlc0dfTEFpR2lYVDJJdmttR0NLQ2Y5SXFkLUJoTUlySWpvRGFzRHBZbDQtZVJ5T0EwYnZKQUllbWFRT18xZm56M1JB?oc=5" target="_blank"&gt;U.S. restores intelligence sharing with Ukraine, Zelensky says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Citi's Luet Sees AI Infrastructure Theme Continuing]]></title>
-      <link>https://www.bloomberg.com/news/videos/2026-10-21/citi-s-luet-sees-ai-infrastructure-theme-continuing-video</link>
-      <description><![CDATA[Citi's Japan, Asia North and Australia Cluster and Banking Head Marc Luet expects AI infrastructure investment to remain a dominant theme, despite growing scrutiny. He speaks after data center firm Nextdc shares plunged following a public backlash. (Source: Bloomberg)]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Iran touts closest ever ties with Russia, contradicting Trump]]></title>
+      <title>[CBS News World] Iran touts closest ever ties with Russia, contradicting Trump</title>
       <link>https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/</link>
-      <description><![CDATA[Iran says its ties with Russia are stronger than ever after a visit by Putin&#039;s top envoy, challenging Trump&#039;s assertion that Moscow isn&#039;t helping Iran in the war.]]></description>
       <pubDate>Tue, 20 Oct 2026 20:58:40 -0400</pubDate>
+      <description>Iran says its ties with Russia are stronger than ever after a visit by Putin&amp;#039;s top envoy, challenging Trump&amp;#039;s assertion that Moscow isn&amp;#039;t helping Iran in the war.</description>
     </item>
+  
     <item>
-      <title><![CDATA[‘Trash Island?’ Golfers say course isn’t the dump Trump describes. - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFNfX0M1cXhNRHp6ZWNRclZhTGNfazc2WFd6bE9VSzNfbWpTeW02dlRMWjJmQ3dEc3kzTWZ1alBoRzdZSkZaSUVLSHA0WkNZMWRBeGhpME54NnpMaHRTRWFXN1NvTUh6S0cySEE2RkZ4eXloRVZoWm5KTElSUF9ON1JKbVhNZEVPd1dpWk5ZQjE3UjVKS0FBaHdQLUZzSjlCenJFdVhhMWZneDg?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFNfX0M1cXhNRHp6ZWNRclZhTGNfazc2WFd6bE9VSzNfbWpTeW02dlRMWjJmQ3dEc3kzTWZ1alBoRzdZSkZaSUVLSHA0WkNZMWRBeGhpME54NnpMaHRTRWFXN1NvTUh6S0cySEE2RkZ4eXloRVZoWm5KTElSUF9ON1JKbVhNZEVPd1dpWk5ZQjE3UjVKS0FBaHdQLUZzSjlCenJFdVhhMWZneDg?oc=5" target="_blank"&gt;‘Trash Island?’ Golfers say course isn’t the dump Trump describes.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html</link>
-      <description><![CDATA[The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Live: French PM Lecornu to meet with unions ahead of new protests]]></title>
+      <title>[France 24 English] Live: French PM Lecornu to meet with unions ahead of new protests</title>
       <link>https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests</link>
-      <description><![CDATA[After implementing curfews in cities across France to prevent a continuation of the weekend's violence and looting, French Prime Minister Sébastien Lecornu prepared to meet with trade union organisations on Wednesday to discuss protest security and responses to the high school students who began the now nationwide protests. Follow our liveblog for the latest updates.]]></description>
       <pubDate>Wed, 21 Oct 2026 00:45:06 GMT</pubDate>
+      <description>
+After implementing curfews in cities across France to prevent a continuation of the weekend&apos;s violence and looting, French Prime Minister Sébastien Lecornu prepared to meet with trade union organisations on Wednesday to discuss protest security and responses to the high school students who began the now nationwide protests. Follow our liveblog for the latest updates.
+</description>
     </item>
+  
     <item>
-      <title><![CDATA[Japan exports post huge miss in September as growth slows to 16.7%]]></title>
+      <title>[CNBC World] Japan exports post huge miss in September as growth slows to 16.7%</title>
       <link>https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html</link>
-      <description><![CDATA[Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters.]]></description>
       <pubDate>Wed, 21 Oct 2026 00:44:16 GMT</pubDate>
+      <description>Japan&apos;s imports grew 18.9%, also missing expectations of 19.6% from Reuters.</description>
     </item>
+  
     <item>
-      <title><![CDATA[Trump confirms U.S. seeking return of retired teacher held in Russia - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNd21XbTEtVGw5YjF1cndtQ2tGY016RkdDVk1kZE1DTEVYYUF0SHBTSHBWU2Z0azY3cXhPQzlhY3BwaFNTaG95VE1UUThpNlNRNkowY2tIblAtNmNGZ3BYM0hSNFpzOFREWDY1UjU4eE9TNFI5aWVlQXFla3ZycG55ZzlGcnJjaGI4X1Z2bWZfWmJYWGlTb3pOS2wyWERQeGdTTFA5VmJlV19xeHp4QmQ2NGN3?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNd21XbTEtVGw5YjF1cndtQ2tGY016RkdDVk1kZE1DTEVYYUF0SHBTSHBWU2Z0azY3cXhPQzlhY3BwaFNTaG95VE1UUThpNlNRNkowY2tIblAtNmNGZ3BYM0hSNFpzOFREWDY1UjU4eE9TNFI5aWVlQXFla3ZycG55ZzlGcnJjaGI4X1Z2bWZfWmJYWGlTb3pOS2wyWERQeGdTTFA5VmJlV19xeHp4QmQ2NGN3?oc=5" target="_blank"&gt;Trump confirms U.S. seeking return of retired teacher held in Russia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:42:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ohio governor’s race in uproar over video featuring Democrat’s estranged mother - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3dmcEk3N3ZMY1A1WVNEMVNmVkJxbVZmcmhzRkl1eTRKNU9BdmJyWVo0YnpJdW1TU3NueDRyZGlLTGxCT19tVGkzMTFsaF9wVnZOQ05YU0VoNkJsVjFoX2NWdW50Q3Z2WEtxUllYSDNVWll4NmptZEZfU1djdFYtT1RPTS1DTVZaNDA1Z09jdzhvS3dMZHczeWd6anRHLUthRFM5VmMtbUUxZWFWZExPSEVMalROQVZpUjJOdVFXcVlCbUtu?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3dmcEk3N3ZMY1A1WVNEMVNmVkJxbVZmcmhzRkl1eTRKNU9BdmJyWVo0YnpJdW1TU3NueDRyZGlLTGxCT19tVGkzMTFsaF9wVnZOQ05YU0VoNkJsVjFoX2NWdW50Q3Z2WEtxUllYSDNVWll4NmptZEZfU1djdFYtT1RPTS1DTVZaNDA1Z09jdzhvS3dMZHczeWd6anRHLUthRFM5VmMtbUUxZWFWZExPSEVMalROQVZpUjJOdVFXcVlCbUtu?oc=5" target="_blank"&gt;Ohio governor’s race in uproar over video featuring Democrat’s estranged mother&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CATL’s Slower Profit Growth Fans Fears for China Battery Rivals]]></title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals</link>
-      <description><![CDATA[Battery giant Contemporary Amperex Technology Co. Ltd.’s slower-than-expected quarterly profit growth has prompted analysts to warn that the company and its peers may struggle to manage pressure from a revived domestic consumption tax and the end of other fiscal benefits.]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Opinion | Farmers need free markets, not free money - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZDQ2xGajlhXzNCMTdrbzU4RC1keEhWNXh1WkZRS3o2MXVRTFEtbFg5TlJxaWNtVUgwYzhiT1Zra0pYYVE1dXVDREpqOUEyYmRuWTdUenBYRFV1WGpQN2JpN2Zta2RmaXY5Mnp2NWZ4bVV1QnlQWDVxeHk4T1JVUXloVVJQQnFlNE9VaA?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZDQ2xGajlhXzNCMTdrbzU4RC1keEhWNXh1WkZRS3o2MXVRTFEtbFg5TlJxaWNtVUgwYzhiT1Zra0pYYVE1dXVDREpqOUEyYmRuWTdUenBYRFV1WGpQN2JpN2Zta2RmaXY5Mnp2NWZ4bVV1QnlQWDVxeHk4T1JVUXloVVJQQnFlNE9VaA?oc=5" target="_blank"&gt;Opinion | Farmers need free markets, not free money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Trump to rally in North Carolina, even after GOP pulls its money - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNMU1JSmlVVnBuVllfeTNOcUhQTXRzS2JBc3RTNUZTR2Zhbnd1RG9mNldUY2JWTm0taTVYOU1TR1RjWFFqdFpDQ3djVGljWVREeFVOdGl6REZrNXdSUWZyZWVidXNnZkg4dVVjeVBsRlZrN1NsZUZhZkpZSHlDUkRPeGZUYUhtZm04blZVZkprVUhWajJuMGdkV09CUmtNQk5hUXBFTU5GM0RPZkxUTXpDQjR3?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNMU1JSmlVVnBuVllfeTNOcUhQTXRzS2JBc3RTNUZTR2Zhbnd1RG9mNldUY2JWTm0taTVYOU1TR1RjWFFqdFpDQ3djVGljWVREeFVOdGl6REZrNXdSUWZyZWVidXNnZkg4dVVjeVBsRlZrN1NsZUZhZkpZSHlDUkRPeGZUYUhtZm04blZVZkprVUhWajJuMGdkV09CUmtNQk5hUXBFTU5GM0RPZkxUTXpDQjR3?oc=5" target="_blank"&gt;Trump to rally in North Carolina, even after GOP pulls its money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Why foreign companies are still betting on Hong Kong’s culinary reputation]]></title>
-      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371385/why-foreign-companies-are-still-betting-hong-kongs-culinary-reputation</link>
-      <description><![CDATA[Despite a downturn in Hong Kong’s food and beverage sector, foreign enterprises are still betting on the city as a fine-dining destination, with a South Korean hydroponic ginseng grower and a 123-year-old Japanese confectioner choosing it for their first overseas ventures.
-Jack Kwon, founder and CEO of Seoul-based Biofx, signed a deal with Hong Kong hydroponics firm Farm66 last Thursday to grow Korean gourmet ginseng in the city and sell it to local consumers and restaurants.
-The deal marks the...]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Longtime Nevada Republican files complaint against GOP congressional candidate - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQUnk4bG9XdFdNVVpjXy13aDVQRWpuT1lmZkZjU1IyblExQzlDaVM4Q2dzRTVvYmpJbHV3UjMzTTJYRU8weVZzaElqS21hNnM0bVZwbm9icDZ0NFVKZktHUmJQUzBMUVNIMGlqeGhNQmY5QWZ6V2pFOWdMTEhzNUlqZm0yajd0a0ZxVzRpbzZoM0poYnZMR0s3dUE3a3NBMXRfa2xMR3VTZmgweVlLZGlUemticWVYTGJ5WnlfRWpsUXBhX0lLbGNldDJB?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQUnk4bG9XdFdNVVpjXy13aDVQRWpuT1lmZkZjU1IyblExQzlDaVM4Q2dzRTVvYmpJbHV3UjMzTTJYRU8weVZzaElqS21hNnM0bVZwbm9icDZ0NFVKZktHUmJQUzBMUVNIMGlqeGhNQmY5QWZ6V2pFOWdMTEhzNUlqZm0yajd0a0ZxVzRpbzZoM0poYnZMR0s3dUE3a3NBMXRfa2xMR3VTZmgweVlLZGlUemticWVYTGJ5WnlfRWpsUXBhX0lLbGNldDJB?oc=5" target="_blank"&gt;Longtime Nevada Republican files complaint against GOP congressional candidate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Why former FDLR fighters are returning to Rwanda]]></title>
+      <title>[Al Jazeera] Why former FDLR fighters are returning to Rwanda</title>
       <link>https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss</link>
-      <description><![CDATA[From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.]]></description>
       <pubDate>Wed, 21 Oct 2026 00:25:43 +0000</pubDate>
+      <description>From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.</description>
     </item>
+  
     <item>
-      <title><![CDATA[As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit]]></title>
-      <link>https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html</link>
-      <description><![CDATA[Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[One year on: Has Kenya’s opposition lost its way without Raila Odinga?]]></title>
+      <title>[Al Jazeera] One year on: Has Kenya’s opposition lost its way without Raila Odinga?</title>
       <link>https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss</link>
-      <description><![CDATA[Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.]]></description>
       <pubDate>Wed, 21 Oct 2026 00:22:19 +0000</pubDate>
+      <description>Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.</description>
     </item>
+  
     <item>
-      <title><![CDATA[LeBron James opens 24th NBA season hoping for his own banner night with the Philadelphia 76ers - AP News]]></title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWphUVZGeW9CZTJ1dzRQRm91bVk1NC1weEtCMTJ0aGszX25laW1xOHNHcl9pYUsxNnR6RkV4OTlaYjRsb3FkejZnTnM0SEtNUzJpTmo2Rm94aVg1czRjSkpBN3BjMmRQWTNlMDhySU1Vbk5ocGVqTnlxVzV5a0d4RXBFdEZWZ3VjUlFPMlNUVTk0cmtUY1l6MjJmU1o5ZEU5VVlRRUp0SWtzbWk4Tmo1bw?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWphUVZGeW9CZTJ1dzRQRm91bVk1NC1weEtCMTJ0aGszX25laW1xOHNHcl9pYUsxNnR6RkV4OTlaYjRsb3FkejZnTnM0SEtNUzJpTmo2Rm94aVg1czRjSkpBN3BjMmRQWTNlMDhySU1Vbk5ocGVqTnlxVzV5a0d4RXBFdEZWZ3VjUlFPMlNUVTk0cmtUY1l6MjJmU1o5ZEU5VVlRRUp0SWtzbWk4Tmo1bw?oc=5" target="_blank"&gt;LeBron James opens 24th NBA season hoping for his own banner night with the Philadelphia 76ers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AP News&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Trump to present YouTuber $10,000 check in new anti-fraud reward program - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFFRdkIzUW5jLUNqMDNOc3BUVHhuX0dhVWR1WjZUTzhwVVZUOUp6MnVlTVoyZTNVbi1aVU5ncWh0Y0JMNHNHZXc2cHJOUDhvUHpaczB2Mk5JTXVpaXJ2TlY5ZkFQX3YzMWtFYUZ2ZVdsa0ltQ1cyZU5sRTFEUllmNGtDY0JfM1gxMkFqZDVHeDJ4OEJGN2ZnTVpHOEI2aHFVUmlfM1A3YWQ0TkFVZmRfRzhRQzFvYTg?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFFRdkIzUW5jLUNqMDNOc3BUVHhuX0dhVWR1WjZUTzhwVVZUOUp6MnVlTVoyZTNVbi1aVU5ncWh0Y0JMNHNHZXc2cHJOUDhvUHpaczB2Mk5JTXVpaXJ2TlY5ZkFQX3YzMWtFYUZ2ZVdsa0ltQ1cyZU5sRTFEUllmNGtDY0JfM1gxMkFqZDVHeDJ4OEJGN2ZnTVpHOEI2aHFVUmlfM1A3YWQ0TkFVZmRfRzhRQzFvYTg?oc=5" target="_blank"&gt;Trump to present YouTuber $10,000 check in new anti-fraud reward program&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[University of North Carolina reaches deal with Trump administration - The Washington Post]]></title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWgxaFBIbHN5N1l1MHdnX1h3Z19qY0FjSllHaDN1bnpFLW50eFpzbXNGeFZaT0hvczg5QmpVUlpuT0czcFUtbEFGMmROallCQWU0YWg4TlBoU21YaTU1eUh1SGNSWUxGSDlVbkxIb2tMOFNZQnlnMHNGekg0OG83SlZGUzdVNlJrbGphUmdHZFpOR05wU0h0Qkx6WGNWTU5DOVZGQi0yN2VFUGE0VDhjWHRkaDM1blZp?oc=5</link>
-      <description><![CDATA[&lt;a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWgxaFBIbHN5N1l1MHdnX1h3Z19qY0FjSllHaDN1bnpFLW50eFpzbXNGeFZaT0hvczg5QmpVUlpuT0czcFUtbEFGMmROallCQWU0YWg4TlBoU21YaTU1eUh1SGNSWUxGSDlVbkxIb2tMOFNZQnlnMHNGekg0OG83SlZGUzdVNlJrbGphUmdHZFpOR05wU0h0Qkx6WGNWTU5DOVZGQi0yN2VFUGE0VDhjWHRkaDM1blZp?oc=5" target="_blank"&gt;University of North Carolina reaches deal with Trump administration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nigeria confirms Ebola case as outbreak spreads into western Africa]]></title>
+      <title>[Guardian World] Nigeria confirms Ebola case as outbreak spreads into western Africa</title>
       <link>https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest</link>
-      <description><![CDATA[&lt;p&gt;Case in Africa’s most populous country was detected in a woman who had travelled from Uganda&lt;/p&gt;&lt;p&gt;Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.&lt;/p&gt;&lt;p&gt;The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"&gt;Continue reading...&lt;/a&gt;]]></description>
       <pubDate>Wed, 21 Oct 2026 00:14:55 GMT</pubDate>
+      <description>&lt;p&gt;Case in Africa’s most populous country was detected in a woman who had travelled from Uganda&lt;/p&gt;&lt;p&gt;Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.&lt;/p&gt;&lt;p&gt;The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest&quot;&gt;Continue reading...&lt;/a&gt;</description>
     </item>
+  
     <item>
-      <title><![CDATA[Gold Steadies as Conflicting Iran Signals Cloud Path for Rates]]></title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates</link>
-      <description><![CDATA[Gold held a decline as conflicting signals on efforts to end the Iran war clouded the outlook for inflation and the Federal Reserve’s path for interest rates.]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:13:21 GMT</pubDate>
+      <title>[CBS News World] Prince Harry says he hopes to reconcile with royal family</title>
+      <link>https://www.cbsnews.com/video/prince-harry-says-hopes-reconcile-royal-family/</link>
+      <pubDate>Tue, 20 Oct 2026 19:54:38 -0400</pubDate>
+      <description>Prince Harry and his family returned to live in the U.K. six years after a very public split from the royals, including his father, King Charles. Harry is now hoping for a very public reconciliation to match. Leigh Kiniry reports.</description>
     </item>
+  
     <item>
-      <title><![CDATA[King Charles welcomes Omani sultan, hails peace efforts in UK state visit]]></title>
-      <link>https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss</link>
-      <description><![CDATA[King Charles III pays tribute to Muscat&#039;s &#039;noble efforts&#039; to help reopen the Strait of Hormuz.]]></description>
-      <pubDate>Wed, 21 Oct 2026 00:08:25 +0000</pubDate>
+      <title>[CBS News World] Italy agrees to send Texas man accused of killing pregnant wife back to U.S.</title>
+      <link>https://www.cbsnews.com/video/italy-agrees-send-texas-man-accused-killing-pregnant-wife-us/</link>
+      <pubDate>Tue, 20 Oct 2026 19:44:50 -0400</pubDate>
+      <description>A Texas man who was accused of killing his pregnant wife two years ago fled to Italy. Officials there have agreed to send him back to the U.S. to face charges on the condition that he faces a lesser charge, not capital murder. Skyler Henry reports.</description>
     </item>
+  
+    <item>
+      <title>[Reuters World] Netflix co-CEO Sarandos says &apos;we could do better&apos; after weak forecast - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 23:41:37 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5&quot; target=&quot;_blank&quot;&gt;Netflix co-CEO Sarandos says &apos;we could do better&apos; after weak forecast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[France 24 English] Italy announces new security measures after Milan riots, deploying 500 soldiers</title>
+      <link>https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers</link>
+      <pubDate>Tue, 20 Oct 2026 23:33:16 GMT</pubDate>
+      <description>
+Italy announced tougher security measures on Tuesday after weekend riots in Milan left more than 100 police officers injured and shops looted. The government will deploy 500 additional soldiers, impose harsher penalties for violent protesters and hold parents financially responsible for damage caused by minors.
+</description>
+    </item>
+  
+    <item>
+      <title>[BBC World] Elon Musk says Tesla-SpaceX merger being considered</title>
+      <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 23:24:47 GMT</pubDate>
+      <description>Musk says special committees within both companies have been formed to look at a possible mega-merger.</description>
+    </item>
+  
+    <item>
+      <title>[France 24 English] Nigeria records first Ebola case as outbreak spreads across Africa</title>
+      <link>https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa</link>
+      <pubDate>Tue, 20 Oct 2026 23:18:58 GMT</pubDate>
+      <description>
+Nigeria has confirmed its first Ebola case in Africa&apos;s latest outbreak, while Kenya reported its ninth infection, raising fears of further spread across the continent. Africa CDC chief Jean Kaseya warned of an “extremely serious threat” and urged the international community to send funding, medical supplies and health workers.
+</description>
+    </item>
+  
+    <item>
+      <title>[Financial Times World] Lula fast-tracks Brazil welfare payments days before run-off vote </title>
+      <link>https://www.ft.com/content/e2bce5a9-0cb2-4166-8a14-3adeb5af6545?syn-25a6b1a6=1</link>
+      <pubDate>Tue, 20 Oct 2026 23:13:35 GMT</pubDate>
+      <description>Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot</description>
+    </item>
+  
+    <item>
+      <title>[France 24 English] AI on the ballot? Voters in US midterms revolt against data centres</title>
+      <link>https://www.france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres</link>
+      <pubDate>Tue, 20 Oct 2026 22:45:33 GMT</pubDate>
+      <description>
+Two weeks out from the Midterm elections, there’s bipartisan pushback against data centers that suck the water and power out of communities. Just two years ago, ChatGPT was still a brand new thing, and AI was admired with awe by most voters. Like in 2024, the hot button issue in swing constituencies remains inflation or ‘the price of eggs’. But anxiety over the end of the month is now coupled with anxiety over the end of the world. In 2026, bots and large language models write papers and churn out campaign ads. We&apos;ll ask about calls for regulation despite fierce resistance from tech billionaires and whether the latest wobbles from the stock market signal that the race to corner the market and scale up at warp speed may be running out of road.
+</description>
+    </item>
+  
+    <item>
+      <title>[Reuters World] Trump administration says it has revoked over 300,000 visas - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 22:35:44 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5&quot; target=&quot;_blank&quot;&gt;Trump administration says it has revoked over 300,000 visas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[CBS News World] French government extends curfews after riots sweep across the country</title>
+      <link>https://www.cbsnews.com/news/france-extends-curfews-riots-sweep-country/</link>
+      <pubDate>Tue, 20 Oct 2026 18:33:57 -0400</pubDate>
+      <description>French authorities are extending curfews and increasing the police presence in public spaces as President Emmanuel Macron&amp;#039;s government tries to regain control after rioters torched buildings and looted thousands of businesses this weekend.</description>
+    </item>
+  
+    <item>
+      <title>[AP World] Brewers promised a ticket to any future game for $1,000. Some fans unhappy with World Series seats - AP News</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3FlZ0ladDhlWWlfOEgyWGI4YlQzemtOaTlCYTRoWnI1QmllLTRRczNXMEluMkRuMzhzZXBsb0NKZVhrMVE3b2k0anNJN0RRZnVjbmFPQnFva2MzVFFUY0xlZHRRN2JuaTlLVDBSUVVybDMwNkJoZmJ0LWJKZTVRcEIxenlVZDh3X19NNzVYaDhhSzBGbDVhWExRRUVzMTA0Z3hQQkxqOFNkSTU5WXRuSA?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 22:33:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3FlZ0ladDhlWWlfOEgyWGI4YlQzemtOaTlCYTRoWnI1QmllLTRRczNXMEluMkRuMzhzZXBsb0NKZVhrMVE3b2k0anNJN0RRZnVjbmFPQnFva2MzVFFUY0xlZHRRN2JuaTlLVDBSUVVybDMwNkJoZmJ0LWJKZTVRcEIxenlVZDh3X19NNzVYaDhhSzBGbDVhWExRRUVzMTA0Z3hQQkxqOFNkSTU5WXRuSA?oc=5&quot; target=&quot;_blank&quot;&gt;Brewers promised a ticket to any future game for $1,000. Some fans unhappy with World Series seats&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;AP News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Financial Times World] UK to approve development of Jackdaw gasfield in North Sea </title>
+      <link>https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1</link>
+      <pubDate>Tue, 20 Oct 2026 22:31:15 GMT</pubDate>
+      <description>Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen</description>
+    </item>
+  
+    <item>
+      <title>[NYT World] Robert Kabera, Rwandan Government Critic, Beheaded in Uganda</title>
+      <link>https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</link>
+      <pubDate>Tue, 20 Oct 2026 22:22:08 +0000</pubDate>
+      <description>The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.</description>
+    </item>
+  
+    <item>
+      <title>[Reuters World] Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 22:14:51 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5&quot; target=&quot;_blank&quot;&gt;Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Kyiv Independent] Zelensky confirms ballistic missile early warning systems operational after skipped alerts - The Kyiv Independent</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1U5d01GYkFvb0JtZEpuenJicFY1b2hjTERpMjZDUS1TVGZBcnZUY1dOR0tobGd1SXFOS1BUblpnNDJpbE9VQlV2TXBvaFhTa1N5RjF0T19pS0dfOC1RaTFNaWJjcFFneXhQNm1sQVFWZ2hSNlJfdGlsZkNQSkZ3SGwwSTdLVG9wNlU1c3ZuUXg1UVNDSlZ5N191SFY2eXRjaHVrVmVMU3ItZG9ULXhXOFY0elhMOGEyd0lr?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 21:34:57 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1U5d01GYkFvb0JtZEpuenJicFY1b2hjTERpMjZDUS1TVGZBcnZUY1dOR0tobGd1SXFOS1BUblpnNDJpbE9VQlV2TXBvaFhTa1N5RjF0T19pS0dfOC1RaTFNaWJjcFFneXhQNm1sQVFWZ2hSNlJfdGlsZkNQSkZ3SGwwSTdLVG9wNlU1c3ZuUXg1UVNDSlZ5N191SFY2eXRjaHVrVmVMU3ItZG9ULXhXOFY0elhMOGEyd0lr?oc=5&quot; target=&quot;_blank&quot;&gt;Zelensky confirms ballistic missile early warning systems operational after skipped alerts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Kyiv Independent&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[BBC World] Zelensky says US intelligence sharing &apos;works now&apos; after talks with Trump envoy in Oslo</title>
+      <link>https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 21:27:39 GMT</pubDate>
+      <description>Ukraine had accused the US of withholding key intelligence - a claim rejected as &quot;scandalous&quot; by Washington.</description>
+    </item>
+  
+    <item>
+      <title>[NYT World] Student Protesters in France Have a Strange New Slogan. What Does It Mean?</title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html</link>
+      <pubDate>Tue, 20 Oct 2026 21:21:15 +0000</pubDate>
+      <description>“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.</description>
+    </item>
+  
+    <item>
+      <title>[Reuters World] Musk ordered slowdown of Starlink service used by Ukraine&apos;s military, WSJ reports - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 21:09:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5&quot; target=&quot;_blank&quot;&gt;Musk ordered slowdown of Starlink service used by Ukraine&apos;s military, WSJ reports&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Newsweek] Trump May Be Paxton’s Best Weapon Against Talarico Despite GOP Concerns - Newsweek</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHRuOW9tNUtnN0FtekV2bU4tRXlJeFJmYXZCZE1WdXpoMTV6TlNyWkxLTWJkcmRTcGJFUzNtS3pHbGptUTBtZUJvZmtmM1BQYmFubnNZUTg0OGFXLTQteFlRY3ZlSTJjWVo1aTR3a0hNalQ2d2V5ZE5leFNTY1R6UEZpTF9GVnh5b0Z2RHFYaFJHOTRBVGxZ?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 20:42:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHRuOW9tNUtnN0FtekV2bU4tRXlJeFJmYXZCZE1WdXpoMTV6TlNyWkxLTWJkcmRTcGJFUzNtS3pHbGptUTBtZUJvZmtmM1BQYmFubnNZUTg0OGFXLTQteFlRY3ZlSTJjWVo1aTR3a0hNalQ2d2V5ZE5leFNTY1R6UEZpTF9GVnh5b0Z2RHFYaFJHOTRBVGxZ?oc=5&quot; target=&quot;_blank&quot;&gt;Trump May Be Paxton’s Best Weapon Against Talarico Despite GOP Concerns&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Newsweek&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NPR News] Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive</title>
+      <link>https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case</link>
+      <pubDate>Tue, 20 Oct 2026 16:19:16 -0400</pubDate>
+      <description>Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.</description>
+    </item>
+  
+    <item>
+      <title>[Reuters World] Musk says SpaceX-Tesla merger is &apos;a good idea&apos; as companies form deal committees - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 20:08:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5&quot; target=&quot;_blank&quot;&gt;Musk says SpaceX-Tesla merger is &apos;a good idea&apos; as companies form deal committees&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Newsweek] White House Correspondent Hits Back After Trump Brands Him a ‘Sick Person’ - Newsweek</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc09oekItY1J5MGg0UUpZMU1ISUktSjRDaFhrNzl5TThNOWlDVjlOai1FVXc3U1dMVGJlT0lLdkZMMWNhVzNzVnlaLTllemFvaG43TnJwN3Z0elNaSU1mZC15T2hMOEdkT04waFplQlpDbDM0aWhRWEZCLVFRQlBhelEyak4tMlg2UVVFa2IyYy1sX2YxX3VvX2xtZXYydE5qOTBzczdqYWI0dw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 20:04:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc09oekItY1J5MGg0UUpZMU1ISUktSjRDaFhrNzl5TThNOWlDVjlOai1FVXc3U1dMVGJlT0lLdkZMMWNhVzNzVnlaLTllemFvaG43TnJwN3Z0elNaSU1mZC15T2hMOEdkT04waFplQlpDbDM0aWhRWEZCLVFRQlBhelEyak4tMlg2UVVFa2IyYy1sX2YxX3VvX2xtZXYydE5qOTBzczdqYWI0dw?oc=5&quot; target=&quot;_blank&quot;&gt;White House Correspondent Hits Back After Trump Brands Him a ‘Sick Person’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Newsweek&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[BBC World] Trump and Zelensky appear at loggerheads despite Oslo optimism</title>
+      <link>https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 20:00:57 GMT</pubDate>
+      <description>The Ukrainian leader&apos;s hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.</description>
+    </item>
+  
+    <item>
+      <title>[CNBC World] Oil prices fall as traders hope for diplomatic progress in Middle East</title>
+      <link>https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html</link>
+      <pubDate>Tue, 20 Oct 2026 19:40:51 GMT</pubDate>
+      <description>Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.</description>
+    </item>
+  
+    <item>
+      <title>[NYT World] 178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It</title>
+      <link>https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html</link>
+      <pubDate>Tue, 20 Oct 2026 19:33:59 +0000</pubDate>
+      <description>In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slavery’s abolition.</description>
+    </item>
+  
+    <item>
+      <title>[Guardian World] RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau</title>
+      <link>https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau</link>
+      <pubDate>Tue, 20 Oct 2026 19:18:03 GMT</pubDate>
+      <description>&lt;p&gt;Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns&lt;/p&gt;&lt;p&gt;Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials &lt;a href=&quot;https://www.facebook.com/policiajudiciariaguinebissau/posts/pfbid02x8etNUtmPjenMNZA69EHECDBcz6U4VzxTvszdthBmFmJ1aaCMwoT9brgRNYyg1Jbl&quot;&gt;said&lt;/a&gt; on Facebook.&lt;/p&gt;&lt;p&gt;The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Newsweek] Trump To Rally in North Carolina as Thom Tillis Warns of GOP ‘Train Wreck’ - Newsweek</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTVycVVCbW5QaGRsOHBRcC1DTXZ3ZnpuaGNZYmdhTnlYdF9DU1lkeTg2TWRuRzliRW1yTW8wNDN6Q2ttQ1l4bERuSmt1RE05M293MC1RYVh4enpZWE15WW1FMm9ObS12MmJEemRQaFVCSEROUll2cjd0dFhPSlhoOVhLT3B2eW05VEFPX2RhUmc2NnhoWFo2SjZUMExkQWl5ZjRoTVhxeXNudw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 19:18:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTVycVVCbW5QaGRsOHBRcC1DTXZ3ZnpuaGNZYmdhTnlYdF9DU1lkeTg2TWRuRzliRW1yTW8wNDN6Q2ttQ1l4bERuSmt1RE05M293MC1RYVh4enpZWE15WW1FMm9ObS12MmJEemRQaFVCSEROUll2cjd0dFhPSlhoOVhLT3B2eW05VEFPX2RhUmc2NnhoWFo2SjZUMExkQWl5ZjRoTVhxeXNudw?oc=5&quot; target=&quot;_blank&quot;&gt;Trump To Rally in North Carolina as Thom Tillis Warns of GOP ‘Train Wreck’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Newsweek&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Times of Israel] 4 Israeli inventions feature in Time magazine’s 300 Best Inventions for 2026 - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUUxUTBQRkw3Zm9nRThhUW8zRWdEaG1KbmxtUjhBWWpzQXc2YzdBTE5NVUJmSUlXSW11ZlVhcnhTbWNLY0hWTWYyNDNPbHIzUS16NnB2NFM4VGNSV2pLTzhsRTRQd1lmQlZtSGxpSzlWcElLajU5Vnp5aUEzLVhMM0pqeDFpWFJEcG5oaE9SWTd4QkFqQ0lKVmY2dHJLelNVMk4zS2pOMlM5d9IBrwFBVV95cUxNTEd6NENrNHpwb0RLNFpzYzRvSEhMcXlSaG02RWxxWG1ETW85V005Rk1FRW1zdmlxZE9adlFhTzVhM1N1U1dPNEZjd3JHUk5ISFUzYlJSQ21kZjFPUTVGdXRTNmlSaF9qN2dLVTdaVG5VX3JKbG9LMm5TSlpJMnhKdXg4aXViVkhtOFBrRjIxRjhGc0FWc3dGaVItUC1RY0lOTlltSW5XNDlCSE9jUmxV?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 18:31:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUUxUTBQRkw3Zm9nRThhUW8zRWdEaG1KbmxtUjhBWWpzQXc2YzdBTE5NVUJmSUlXSW11ZlVhcnhTbWNLY0hWTWYyNDNPbHIzUS16NnB2NFM4VGNSV2pLTzhsRTRQd1lmQlZtSGxpSzlWcElLajU5Vnp5aUEzLVhMM0pqeDFpWFJEcG5oaE9SWTd4QkFqQ0lKVmY2dHJLelNVMk4zS2pOMlM5d9IBrwFBVV95cUxNTEd6NENrNHpwb0RLNFpzYzRvSEhMcXlSaG02RWxxWG1ETW85V005Rk1FRW1zdmlxZE9adlFhTzVhM1N1U1dPNEZjd3JHUk5ISFUzYlJSQ21kZjFPUTVGdXRTNmlSaF9qN2dLVTdaVG5VX3JKbG9LMm5TSlpJMnhKdXg4aXViVkhtOFBrRjIxRjhGc0FWc3dGaVItUC1RY0lOTlltSW5XNDlCSE9jUmxV?oc=5&quot; target=&quot;_blank&quot;&gt;4 Israeli inventions feature in Time magazine’s 300 Best Inventions for 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Times of Israel&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Kyiv Independent] Ukraine war latest: Drone strikes on Yandex data centers disrupt Russian court hearings, media reports - The Kyiv Independent</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUEVSWTJFam1kdG90aHNRMElQRUhrT3k3SWRFWGF0RjlPRV91V3RNampBS3dPRWNYTTNFU0V0T05Mc0R2c3l1dzdzemNPbUhNVGhkZFJuQXlhNk5RUERGd3NHSVlpQVlUVmlxOGVQMVI5bkU5djBJSUkxT09icTd6b3RDcFZ6OWppREZaYlc0TUtPVUQ1aGY3NDEwUWR5clV0eXRNc3ZBOS1HRTlFTUpRcXpuOWxzT0pSVk9BZXExdE1LbERIR2oyNQ?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 18:21:20 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUEVSWTJFam1kdG90aHNRMElQRUhrT3k3SWRFWGF0RjlPRV91V3RNampBS3dPRWNYTTNFU0V0T05Mc0R2c3l1dzdzemNPbUhNVGhkZFJuQXlhNk5RUERGd3NHSVlpQVlUVmlxOGVQMVI5bkU5djBJSUkxT09icTd6b3RDcFZ6OWppREZaYlc0TUtPVUQ1aGY3NDEwUWR5clV0eXRNc3ZBOS1HRTlFTUpRcXpuOWxzT0pSVk9BZXExdE1LbERIR2oyNQ?oc=5&quot; target=&quot;_blank&quot;&gt;Ukraine war latest: Drone strikes on Yandex data centers disrupt Russian court hearings, media reports&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Kyiv Independent&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[AP World] Small-ball Rays and their low payroll are four wins from their first World Series title - AP News</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlNMbS1jRF9SdHFhUW9peFR4WGtKcGZhbFV0QzNVaUNkV2dzV01pNG5MQmRPM3JGd2NtRlNwZXdaeDFMZjJwNHpEWmlvRDVkNXFGaGNSVTR1UXRpNndqZVVobjZBbWx5NDZ0MzZaekRzZ3lyY19OdlpZZDc1Wi1HdVR5aDJIUWJqWTZEUHdMLUp2OVZkLVlQbXhVSDJpZWVidlE?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 17:17:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlNMbS1jRF9SdHFhUW9peFR4WGtKcGZhbFV0QzNVaUNkV2dzV01pNG5MQmRPM3JGd2NtRlNwZXdaeDFMZjJwNHpEWmlvRDVkNXFGaGNSVTR1UXRpNndqZVVobjZBbWx5NDZ0MzZaekRzZ3lyY19OdlpZZDc1Wi1HdVR5aDJIUWJqWTZEUHdMLUp2OVZkLVlQbXhVSDJpZWVidlE?oc=5&quot; target=&quot;_blank&quot;&gt;Small-ball Rays and their low payroll are four wins from their first World Series title&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;AP News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[AP World] Brewers manager Pat Murphy&apos;s former college players say his MLB success hasn&apos;t surprised them - AP News</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEkzRHlWbDl6MWFPV3JsVG5Ld0t6Sk9xZmRfNWVQd3VieGRlV2ZRX29sUDBJUU05M09pRE9XNGVqdnc2bGZfSk1namV1S2t6NnFJZlBjSDR5TkY3ai1hX1MzR2hGVzQxOG5QdU5pX0gzank0dTJQZDdHR3V2OVZyOGlGVF96WW8?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 16:36:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEkzRHlWbDl6MWFPV3JsVG5Ld0t6Sk9xZmRfNWVQd3VieGRlV2ZRX29sUDBJUU05M09pRE9XNGVqdnc2bGZfSk1namV1S2t6NnFJZlBjSDR5TkY3ai1hX1MzR2hGVzQxOG5QdU5pX0gzank0dTJQZDdHR3V2OVZyOGlGVF96WW8?oc=5&quot; target=&quot;_blank&quot;&gt;Brewers manager Pat Murphy&apos;s former college players say his MLB success hasn&apos;t surprised them&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;AP News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NPR News] Vanessa Kerry is the new WHO envoy for health resilience. What&apos;s on her to-do list?</title>
+      <link>https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization</link>
+      <pubDate>Tue, 20 Oct 2026 12:27:01 -0400</pubDate>
+      <description>A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it&apos;s challenging but not &quot;daunting.&quot;</description>
+    </item>
+  
+    <item>
+      <title>[Newsweek] Who Was Kyle Kennedy? Granddaughter of Bobby and Ethel Kennedy Dies at 42 - Newsweek</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3VBelk1U2FFTFdOS3NuejdCdGVGMzYtQzRaOTc0MUVhODdKaWFZeE5rYnFHTHRCN3pXRnVGcDZZTGh5LWI4YnZ0VVp1dldVMjh1Mmh2bDh4Rkl3dTVacnBrRDhuV0R0RnpyX0l0MU9fWXVROUV2NU1VcVRwVUxaUzZnSEZXY2habXVpU19WLWtybmdXSWk0QW5SSQ?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 16:02:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3VBelk1U2FFTFdOS3NuejdCdGVGMzYtQzRaOTc0MUVhODdKaWFZeE5rYnFHTHRCN3pXRnVGcDZZTGh5LWI4YnZ0VVp1dldVMjh1Mmh2bDh4Rkl3dTVacnBrRDhuV0R0RnpyX0l0MU9fWXVROUV2NU1VcVRwVUxaUzZnSEZXY2habXVpU19WLWtybmdXSWk0QW5SSQ?oc=5&quot; target=&quot;_blank&quot;&gt;Who Was Kyle Kennedy? Granddaughter of Bobby and Ethel Kennedy Dies at 42&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Newsweek&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Times of Israel] Netanyahu spokesman confirms Hegseth meeting, says pair discussed ‘threats in region’ - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQREotNERkYm01R1dsaHlvN01YVWYwbFI5b2FSUS1IcGhHTmcxOFpta1NSQ0lsMmhPVUdQcEY0cy1fdnF6UEtnLVZ1QjduZGJ6b3poT0hYaUM5MlktcmZLUm01S1JmS29VOTVTUjZya3lwaXRqZ29DMGNJV3NPbmxwLWtranRHVEZPdHFWX2tCRTd1QlR6?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 15:59:39 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMilAFBVV95cUxQREotNERkYm01R1dsaHlvN01YVWYwbFI5b2FSUS1IcGhHTmcxOFpta1NSQ0lsMmhPVUdQcEY0cy1fdnF6UEtnLVZ1QjduZGJ6b3poT0hYaUM5MlktcmZLUm01S1JmS29VOTVTUjZya3lwaXRqZ29DMGNJV3NPbmxwLWtranRHVEZPdHFWX2tCRTd1QlR6?oc=5&quot; target=&quot;_blank&quot;&gt;Netanyahu spokesman confirms Hegseth meeting, says pair discussed ‘threats in region’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Times of Israel&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NYT World] Yemeni City of Taiz Running Out of Essentials as Houthis Close in</title>
+      <link>https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</link>
+      <pubDate>Tue, 20 Oct 2026 14:28:28 +0000</pubDate>
+      <description>The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.</description>
+    </item>
+  
+    <item>
+      <title>[Newsweek] Kim Jong Un Pictured As Unfounded Health Rumors Spread Online - Newsweek</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2hOV3RJYTFXWUUtNkhmVlRtUlNVSVZIWVdsaXRnT0tjaGI5NS1fYTRocEZ6bFJnSDFBYXllYkRMMUNITUZfZDhyZlE5S1ZWTTE0QUduR2VTTHRhYlRHZUd2M2lua2xPQV9LNU44aWhSc3hRLVItT0lZd3JENFREemtNTFNmbUoyMUlEY1R2dFE1Rkw0?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 13:41:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2hOV3RJYTFXWUUtNkhmVlRtUlNVSVZIWVdsaXRnT0tjaGI5NS1fYTRocEZ6bFJnSDFBYXllYkRMMUNITUZfZDhyZlE5S1ZWTTE0QUduR2VTTHRhYlRHZUd2M2lua2xPQV9LNU44aWhSc3hRLVItT0lZd3JENFREemtNTFNmbUoyMUlEY1R2dFE1Rkw0?oc=5&quot; target=&quot;_blank&quot;&gt;Kim Jong Un Pictured As Unfounded Health Rumors Spread Online&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Newsweek&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NYT World] France Protests Show Europe’s Shift Away From Centrist Politics</title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html</link>
+      <pubDate>Tue, 20 Oct 2026 12:59:23 +0000</pubDate>
+      <description>Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.</description>
+    </item>
+  
+    <item>
+      <title>[Guardian China] US bans use of China’s DeepSeek AI tools by government agencies</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies</link>
+      <pubDate>Tue, 20 Oct 2026 12:33:27 GMT</pubDate>
+      <description>&lt;p&gt;Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says&lt;/p&gt;&lt;p&gt;The &lt;a href=&quot;https://www.theguardian.com/us-news&quot;&gt;US&lt;/a&gt; government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup &lt;a href=&quot;https://www.theguardian.com/technology/deepseek&quot;&gt;DeepSeek&lt;/a&gt;, as the countries race for dominance in the fast-moving sector.&lt;/p&gt;&lt;p&gt;A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[CNN World] 25 must-visit destinations for 2027, according to National Geographic - CNN</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5FN3dyV09rQUlDMWY0YmV0aUM5UFNhcWwxRDNudTNZS3ZHN1VzVE03OHN6bVpwRXFmU2VLUjRZc09kczNuU1AzYjR3SnZ0WGlfNExGRWhBYXA0N0R4TUdMNTFGeWdka1VSNERGWE80blNkUGVWWTNBdDJ5SzZ4dw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 11:34:01 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMifkFVX3lxTE5FN3dyV09rQUlDMWY0YmV0aUM5UFNhcWwxRDNudTNZS3ZHN1VzVE03OHN6bVpwRXFmU2VLUjRZc09kczNuU1AzYjR3SnZ0WGlfNExGRWhBYXA0N0R4TUdMNTFGeWdka1VSNERGWE80blNkUGVWWTNBdDJ5SzZ4dw?oc=5&quot; target=&quot;_blank&quot;&gt;25 must-visit destinations for 2027, according to National Geographic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;CNN&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[BBC World] Man charged with attack on Australia MP to face court</title>
+      <link>https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 20 Oct 2026 11:25:35 GMT</pubDate>
+      <description>Brendan Nugent&apos;s family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.</description>
+    </item>
+  
+    <item>
+      <title>[CNN World] Google Cloud services face outage in London, Revolut services down too - CNN</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOMW5XeGQ3MHJjaW5keTk4XzZsX003eUFhczg0d2w3WFBXMFRGQ2VRUTlOMjlWbFBJT1pqRXkxc2dOY3ZpMXJ4U3h3UWtGb2tybVh4TjR1SS1XY0MtSmFNSjRmX3l3dUFOQlp6Qmlmd3RVYnBYS1VhT05zdWlDbE5JN2ZLcw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 11:20:18 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMigwFBVV95cUxOMW5XeGQ3MHJjaW5keTk4XzZsX003eUFhczg0d2w3WFBXMFRGQ2VRUTlOMjlWbFBJT1pqRXkxc2dOY3ZpMXJ4U3h3UWtGb2tybVh4TjR1SS1XY0MtSmFNSjRmX3l3dUFOQlp6Qmlmd3RVYnBYS1VhT05zdWlDbE5JN2ZLcw?oc=5&quot; target=&quot;_blank&quot;&gt;Google Cloud services face outage in London, Revolut services down too&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;CNN&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NPR News] DOJ charges 28 with voting crimes. And, TikTok ignored staff&apos;s child safety concerns</title>
+      <link>https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok</link>
+      <pubDate>Tue, 20 Oct 2026 07:04:49 -0400</pubDate>
+      <description>The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.</description>
+    </item>
+  
+    <item>
+      <title>[Kyiv Independent] Zelensky&apos;s trust rating surges amid Trump&apos;s pressure campaign, poll finds - The Kyiv Independent</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOaEpFTGFXTlBoVVd2V3JXTkRWY3l3M0pvcFlYa3NmV0tPQmcxZmZMUW43dGJIVm14LWtYZGE0VzFWNklMdXhBX3ZGaFNYa0F5SlNVYnJIU2lDYmdmTHdIN2ZYZUJmZUhuMFZKQ0NVbENubXlNejlZa3lkdFFQY1pReFZUQ2RBQnNubzJkYm9TaDd3T190eDFVcTJGTmZ3dFJ3?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 10:53:17 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMioAFBVV95cUxOaEpFTGFXTlBoVVd2V3JXTkRWY3l3M0pvcFlYa3NmV0tPQmcxZmZMUW43dGJIVm14LWtYZGE0VzFWNklMdXhBX3ZGaFNYa0F5SlNVYnJIU2lDYmdmTHdIN2ZYZUJmZUhuMFZKQ0NVbENubXlNejlZa3lkdFFQY1pReFZUQ2RBQnNubzJkYm9TaDd3T190eDFVcTJGTmZ3dFJ3?oc=5&quot; target=&quot;_blank&quot;&gt;Zelensky&apos;s trust rating surges amid Trump&apos;s pressure campaign, poll finds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Kyiv Independent&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NPR News] What if an AI bubble bursts — and that accelerates AI job losses?</title>
+      <link>https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses</link>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 -0400</pubDate>
+      <description>Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.</description>
+    </item>
+  
+    <item>
+      <title>[AP World] Photo highlights from the artistic gymnastics world championships in Rotterdam - AP News</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0paVVpzZnQtelEwT3Zmc3Q1UHp4NmtkcjJxbTljZ3VXYUtVUU5nSThwdXdvaHE2N2M5SG9ZcEw2cHE5dENidm9JSHlqc1FSeFZ3RDY4Qnp1QWxYZjhOVEhDN2EwM1Z6ZVVMbDVnNDBfMVdoYllZMDIwc0o2TmdKaGlONlIxOXNyT2Z2VG1nZy16aXFvS3hibHZPNDcxVUJYZjU4RjF2R21Rb1M0dkxCbzJEU29CanhOSnhVSkdBRUJfd1V4dHZnWnFOMFU?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 09:41:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0paVVpzZnQtelEwT3Zmc3Q1UHp4NmtkcjJxbTljZ3VXYUtVUU5nSThwdXdvaHE2N2M5SG9ZcEw2cHE5dENidm9JSHlqc1FSeFZ3RDY4Qnp1QWxYZjhOVEhDN2EwM1Z6ZVVMbDVnNDBfMVdoYllZMDIwc0o2TmdKaGlONlIxOXNyT2Z2VG1nZy16aXFvS3hibHZPNDcxVUJYZjU4RjF2R21Rb1M0dkxCbzJEU29CanhOSnhVSkdBRUJfd1V4dHZnWnFOMFU?oc=5&quot; target=&quot;_blank&quot;&gt;Photo highlights from the artistic gymnastics world championships in Rotterdam&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;AP News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NPR News] Why these 5 everyday items fluctuate in price at the grocery store</title>
+      <link>https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation</link>
+      <pubDate>Tue, 20 Oct 2026 05:00:00 -0400</pubDate>
+      <description>Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.</description>
+    </item>
+  
+    <item>
+      <title>[AP World] Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series - AP News</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGd2c2VleXhvVWE4V1VJVUV0QVlmMjRtOU5yLTdRTnpuSEk2cDFVTlVVMExDZjlRdDdTcjV1cWRncWZ6SGpmd2F3MGVJd0JIR0JKSzQ3UnJzUWFaRWhjTlVvWVllWThRMVJTQ3E1QUppN0tTMGZTZnlRaW9VU29JS19zb0tIYUgyZENFUHZn?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 06:43:52 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGd2c2VleXhvVWE4V1VJVUV0QVlmMjRtOU5yLTdRTnpuSEk2cDFVTlVVMExDZjlRdDdTcjV1cWRncWZ6SGpmd2F3MGVJd0JIR0JKSzQ3UnJzUWFaRWhjTlVvWVllWThRMVJTQ3E1QUppN0tTMGZTZnlRaW9VU29JS19zb0tIYUgyZENFUHZn?oc=5&quot; target=&quot;_blank&quot;&gt;Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;AP News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Kyiv Independent] The political calculus of peace in Ukraine - The Kyiv Independent</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBfQk51NEVybXdleHNGemR3ZDhGTzdid2VOTkN3OVBEN09JZExwdUsyeXJVcV94VVAtNDVTZ2lzWV9YZEk0MWdUZkFla2o5NzNoNENjQVBudTFJNFJUT0FSMVZvcDhwUzZvZ1FPUkNkNEVDaFBabUFfR0ZsZw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 05:57:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMie0FVX3lxTFBfQk51NEVybXdleHNGemR3ZDhGTzdid2VOTkN3OVBEN09JZExwdUsyeXJVcV94VVAtNDVTZ2lzWV9YZEk0MWdUZkFla2o5NzNoNENjQVBudTFJNFJUT0FSMVZvcDhwUzZvZ1FPUkNkNEVDaFBabUFfR0ZsZw?oc=5&quot; target=&quot;_blank&quot;&gt;The political calculus of peace in Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Kyiv Independent&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[CNN World] Alberta rejects secession referendum, chooses to remain part of Canada - CNN</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPTVZ4dnRUeXFwYlVPdHdhRVBWTFp2dG9VUHd1QS0xU0RhZ1h2dFdMNGllNEdoR0NqV3JYWEZWVDdlRXM2QUJuQkRybWRGX1lOMm9mczhnTFVVRnpzWUt3WVRMT0NQSGdLbXlKd0NhdXY2RktGYlVwMzRNMW5hdkNlRmMxSjBOcHBKWnBhQ2JOUV9oS3BWcmZDNW9TYVdFR2dPcDR3?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 05:36:26 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiowFBVV95cUxPTVZ4dnRUeXFwYlVPdHdhRVBWTFp2dG9VUHd1QS0xU0RhZ1h2dFdMNGllNEdoR0NqV3JYWEZWVDdlRXM2QUJuQkRybWRGX1lOMm9mczhnTFVVRnpzWUt3WVRMT0NQSGdLbXlKd0NhdXY2RktGYlVwMzRNMW5hdkNlRmMxSjBOcHBKWnBhQ2JOUV9oS3BWcmZDNW9TYVdFR2dPcDR3?oc=5&quot; target=&quot;_blank&quot;&gt;Alberta rejects secession referendum, chooses to remain part of Canada&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;CNN&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Times of Israel] Tehran’s foreign minister says Russia, Iran have ‘never’ worked so closely - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0txY3p4ZWpscXRtR0FVdG92VWw0M0ZLWk5QSzZ1QjdHZGdBME1SRFhJWnItMVVHakExQkJaMmc0MzBaSUQtSy1Xc0dRWTUweHBDUkdHM0w3VTdfc0ZIcExoNThGckY3bk93blE1eVFIVW5wd3Q0NGdVR2RzY2hicDZXY1JsZmc2NVFyTVppTkV4X2M5MVFHVWl2Y05tOTVfWGFCWHJSWDdUdUVSOTBLRkdaa2U5dUk?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 04:43:13 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0txY3p4ZWpscXRtR0FVdG92VWw0M0ZLWk5QSzZ1QjdHZGdBME1SRFhJWnItMVVHakExQkJaMmc0MzBaSUQtSy1Xc0dRWTUweHBDUkdHM0w3VTdfc0ZIcExoNThGckY3bk93blE1eVFIVW5wd3Q0NGdVR2RzY2hicDZXY1JsZmc2NVFyTVppTkV4X2M5MVFHVWl2Y05tOTVfWGFCWHJSWDdUdUVSOTBLRkdaa2U5dUk?oc=5&quot; target=&quot;_blank&quot;&gt;Tehran’s foreign minister says Russia, Iran have ‘never’ worked so closely&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Times of Israel&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[CNN World] She made an anti-war drawing as a child in Russia. Four years on, she’s still living with the fallout - CNN</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXhrU0o3X1VsWlhndThzYlIxWk5hdTFQeWZCclhnekF6UENidG9SRTU2MXdvbXBhU2JxQTFYZ1dORnNTUGR6MjJhMy1VanVWLVpvN3p3LTZKZWtxVU1mQVZEOWd2RFF1LWNnOUNnUXRnMmJyYmdHdmlTdkFidU1BWmVPa3BlQQ?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 04:01:45 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXhrU0o3X1VsWlhndThzYlIxWk5hdTFQeWZCclhnekF6UENidG9SRTU2MXdvbXBhU2JxQTFYZ1dORnNTUGR6MjJhMy1VanVWLVpvN3p3LTZKZWtxVU1mQVZEOWd2RFF1LWNnOUNnUXRnMmJyYmdHdmlTdkFidU1BWmVPa3BlQQ?oc=5&quot; target=&quot;_blank&quot;&gt;She made an anti-war drawing as a child in Russia. Four years on, she’s still living with the fallout&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;CNN&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NHK World] Crater lake north of Tokyo off-limits again | NHK WORLD-JAPAN News - NHKニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zX2NLdktoSDJmcW5uSjBrZ1EyaXdBVGs1TWcyVE0zXzJHVnU5bEVMenlhSVNRemNBNld0TEdWcHVNOXk5TF8zZXlPeUl2eUFGUGc0UlZkbjBFdlNtTi0xWDQyRQ?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 03:29:41 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zX2NLdktoSDJmcW5uSjBrZ1EyaXdBVGs1TWcyVE0zXzJHVnU5bEVMenlhSVNRemNBNld0TEdWcHVNOXk5TF8zZXlPeUl2eUFGUGc0UlZkbjBFdlNtTi0xWDQyRQ?oc=5&quot; target=&quot;_blank&quot;&gt;Crater lake north of Tokyo off-limits again | NHK WORLD-JAPAN News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NHKニュース&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NBC News World] Tampa Bay Rays advance to World Series, will face Milwaukee Brewers - NBC News</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUUyU2QtTXA1d24ybmY5cTFQQm9hQXI1aUNsWjgwZVRsWHdKeENaakliZVBOdXBrVHVMeTRCeFlyZFU5QkY5UEpVcHVxSWVrWXBRczFfWXFsNUlra1N4V09uR1N5UUpfLTBIN1pDZldIakpNdWJ5aUFfRWw3RFBHUGdLTWp0bHVvSWNhRXpDOEt5RFpKTTZvQ01yMWxUczQ1QVhPSG8zSks1cUpp?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 03:07:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUUyU2QtTXA1d24ybmY5cTFQQm9hQXI1aUNsWjgwZVRsWHdKeENaakliZVBOdXBrVHVMeTRCeFlyZFU5QkY5UEpVcHVxSWVrWXBRczFfWXFsNUlra1N4V09uR1N5UUpfLTBIN1pDZldIakpNdWJ5aUFfRWw3RFBHUGdLTWp0bHVvSWNhRXpDOEt5RFpKTTZvQ01yMWxUczQ1QVhPSG8zSks1cUpp?oc=5&quot; target=&quot;_blank&quot;&gt;Tampa Bay Rays advance to World Series, will face Milwaukee Brewers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NBC News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Washington Post World] Florida issues arrest warrant for Cuba’s Raúl Castro - The Washington Post</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNUENZNE1CbzNpRlFZVWN3V0ttVHk2emxGd2ZsV0JIaXB1X2hTTHM3RHRMMFFyR2NBTnRCbWxKOTJYRHA4VHJqMTZRS25fU2FZMFpuLXJ4WjgyMnJiNEJyV0RidU5abHRESk44R205eVpMaUFPanlhdDZLVjd5N1NjaEk3eTlCRmdiMGtRcmdnYWFmQXM5N25RY2RGZw?oc=5</link>
+      <pubDate>Tue, 20 Oct 2026 02:30:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMimwFBVV95cUxNUENZNE1CbzNpRlFZVWN3V0ttVHk2emxGd2ZsV0JIaXB1X2hTTHM3RHRMMFFyR2NBTnRCbWxKOTJYRHA4VHJqMTZRS25fU2FZMFpuLXJ4WjgyMnJiNEJyV0RidU5abHRESk44R205eVpMaUFPanlhdDZLVjd5N1NjaEk3eTlCRmdiMGtRcmdnYWFmQXM5N25RY2RGZw?oc=5&quot; target=&quot;_blank&quot;&gt;Florida issues arrest warrant for Cuba’s Raúl Castro&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Times of Israel] Vance declines to join Trump’s endorsement of Netanyahu - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXFIZ2pSOU9LMnRsUEMxNER4REtPaG1VbGNGMzdIRHpxRE1wMHBfM0Rxb2dpOTRfMlU2X3Y1ZkpDQVlBMV85MWJyNW44LUZTR2I3aUoxMkNyMkRCMkgwU20teHNDa1IwRDVkQXNwNVNEeUpkTHpoQ2RPaHRGZWlMNnNSVzUyUi1YZXEtc3ROUXVWMGxqa1ZBN2c5ejd3T2JEVHc?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 23:38:13 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXFIZ2pSOU9LMnRsUEMxNER4REtPaG1VbGNGMzdIRHpxRE1wMHBfM0Rxb2dpOTRfMlU2X3Y1ZkpDQVlBMV85MWJyNW44LUZTR2I3aUoxMkNyMkRCMkgwU20teHNDa1IwRDVkQXNwNVNEeUpkTHpoQ2RPaHRGZWlMNnNSVzUyUi1YZXEtc3ROUXVWMGxqa1ZBN2c5ejd3T2JEVHc?oc=5&quot; target=&quot;_blank&quot;&gt;Vance declines to join Trump’s endorsement of Netanyahu&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Times of Israel&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian World] US grants deportation reprieve to migrants from Ukraine and Sudan</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan</link>
+      <pubDate>Mon, 19 Oct 2026 22:34:43 GMT</pubDate>
+      <description>&lt;p&gt;DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a&quot;&gt;Send us your questions about immigration and the midterms&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.&lt;/p&gt;&lt;p&gt;Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement “will be made at the appropriate time”. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures “retain protection”. The department did not indicate how long they could stay or when a final announcement would be made on their status.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[CNN World] Gangs in Haiti target foreign troops in the biggest attack since a new force began operations - CNN</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOVng2RGNNRV9ZZXg0TERENjN2aHIwRW5yLVBuM01MV3BxTmFaOFRjNG9USmZPQk9kT3NRY3REZXV1MG93MmlLamJiMWkxcmFTUTh1V0c2bnJvMWgwYlozNXVIVHVQQ3FQZi05VnRmdWxVbUxubVUzLWVoX0dqZmFPRg?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 20:41:51 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMigAFBVV95cUxOVng2RGNNRV9ZZXg0TERENjN2aHIwRW5yLVBuM01MV3BxTmFaOFRjNG9USmZPQk9kT3NRY3REZXV1MG93MmlLamJiMWkxcmFTUTh1V0c2bnJvMWgwYlozNXVIVHVQQ3FQZi05VnRmdWxVbUxubVUzLWVoX0dqZmFPRg?oc=5&quot; target=&quot;_blank&quot;&gt;Gangs in Haiti target foreign troops in the biggest attack since a new force began operations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;CNN&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian China] The Guardian view on Trump and Putin: Ukraine’s future is not theirs to bargain away | Editorial</title>
+      <link>https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away</link>
+      <pubDate>Mon, 19 Oct 2026 17:25:02 GMT</pubDate>
+      <description>&lt;p&gt;Russia wants America and China to decide Ukraine’s future without Kyiv. Europe must challenge this dangerous return to diplomacy of the strong for the strong&lt;/p&gt;&lt;p&gt;Does Vladimir Putin know exactly how to play Donald&amp;nbsp;Trump? The history of &lt;a href=&quot;https://edition.cnn.com/2026/06/14/europe/trump-putin-phone-call-birthday&quot;&gt;chummy&lt;/a&gt; phone calls, high-profile &lt;a href=&quot;https://en.wikipedia.org/wiki/2025_Russia%E2%80%93United_States_summit&quot;&gt;meetings&lt;/a&gt; and attempts to bring Russia in from the cold certainly suggests that Moscow’s thuggish ruler has a hold on this American president. If Mr&amp;nbsp;Trump agrees to &lt;a href=&quot;https://www.politico.com/news/2026/10/19/russia-explores-putin-trump-xi-summit-on-ukraine-deal&quot;&gt;negotiate&lt;/a&gt; Ukraine’s future with Mr&amp;nbsp;Putin and China’s Xi Jinping without Ukraine at the&amp;nbsp;table, he will have handed the Russian leader a victory before talks begin. The message will be that strongmen are ruling the world and determining the fate of weaker nations.&lt;/p&gt;&lt;p&gt;Ukraine has the right to determine its future. That right cannot be waved away by a self-serving Russian proposal, however much it indulges Mr Trump’s belief that world affairs should be settled by powerful men. The scales are &lt;a href=&quot;https://www.bbc.co.uk/news/articles/c64g18ljjd8do&quot;&gt;falling&lt;/a&gt; from European eyes. Trumpian America is raising doubts about whether it will help deter aggression or even honour its Nato commitments. If Washington now rewards Moscow and pressures Ukraine to accept a raw deal, it would be a &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access&quot;&gt;betrayal&lt;/a&gt;. European governments would wonder where America might be in&amp;nbsp;the future when their own security is threatened.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our&lt;a href=&quot;https://www.theguardian.com/tone/letters&quot;&gt; letters&lt;/a&gt; section, please &lt;a href=&quot;mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.&quot;&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian World] Kenyan starvation cult leader guilty of murder of 190 children and one adult</title>
+      <link>https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children</link>
+      <pubDate>Mon, 19 Oct 2026 16:08:14 GMT</pubDate>
+      <description>&lt;p&gt;Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors&lt;/p&gt;&lt;p&gt;A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history.&lt;/p&gt;&lt;p&gt;Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Washington Post World] Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5&quot; target=&quot;_blank&quot;&gt;Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian World] Drone attack near market kills 80 in Sudan</title>
+      <link>https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan</link>
+      <pubDate>Mon, 19 Oct 2026 14:45:53 GMT</pubDate>
+      <description>&lt;p&gt;Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war&lt;/p&gt;&lt;p&gt;A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home.&lt;/p&gt;&lt;p&gt;Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NBC News World] Ukraine claims world’s first drone evacuation of wounded soldier - NBC News</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBQQTdRSW55VU9wYjREUGhkV0EwcW5RbFYzQXQwSXh6aWZGM0tFNkJHUEdpWjVZTE0yM3FwbkN3VHI1QllfMnVxcjNZQU5xSlZuUDgtOVduQ1lLbzJpTW96ZjliZVBHOUROTkl3VEdvbUpGRDJzUkdzV1I1RkI2TU04cVdLYlBTV0Z4bUpwV0pZeTBrd0N2RTNySE9JU1FrTWNfS3ltcGJGT1E3UUk5TjZoT1Vsa3FK?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 13:21:02 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBQQTdRSW55VU9wYjREUGhkV0EwcW5RbFYzQXQwSXh6aWZGM0tFNkJHUEdpWjVZTE0yM3FwbkN3VHI1QllfMnVxcjNZQU5xSlZuUDgtOVduQ1lLbzJpTW96ZjliZVBHOUROTkl3VEdvbUpGRDJzUkdzV1I1RkI2TU04cVdLYlBTV0Z4bUpwV0pZeTBrd0N2RTNySE9JU1FrTWNfS3ltcGJGT1E3UUk5TjZoT1Vsa3FK?oc=5&quot; target=&quot;_blank&quot;&gt;Ukraine claims world’s first drone evacuation of wounded soldier&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NBC News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian China] China’s economy grows faster than forecast after AI boom boosts exports</title>
+      <link>https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports</link>
+      <pubDate>Mon, 19 Oct 2026 09:27:04 GMT</pubDate>
+      <description>&lt;p&gt;Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand&lt;/p&gt;&lt;p&gt;Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.&lt;/p&gt;&lt;p&gt;China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NBC News World] World Food Program cuts aid to 500,000 Palestinians in Gaza, citing funding shortages - NBC News</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 08:56:42 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5&quot; target=&quot;_blank&quot;&gt;World Food Program cuts aid to 500,000 Palestinians in Gaza, citing funding shortages&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NBC News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NBC News World] Measles outbreak in Bangladesh is a ‘real warning’ to other countries, experts say - NBC News</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVNyUU54SFdWUUpkbGxTRjRsQ0JNcU5RVXFNU3BkSDhuX2dtcy1QTGlQcFZWSDBfYXk0VHp6VlgzQnRJdmVYckdvMVJHb3VhNDVmYTJQOE5rR05YU3h3R0wwbFVha2prUFQwWDRWaktBaHdfcnRid0h3QUx1allLWjQ4bzlRdklxV1l2bmdqMXFUQlZyOFJtV1E2MDNaNEJfM3c?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 08:17:57 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVNyUU54SFdWUUpkbGxTRjRsQ0JNcU5RVXFNU3BkSDhuX2dtcy1QTGlQcFZWSDBfYXk0VHp6VlgzQnRJdmVYckdvMVJHb3VhNDVmYTJQOE5rR05YU3h3R0wwbFVha2prUFQwWDRWaktBaHdfcnRid0h3QUx1allLWjQ4bzlRdklxV1l2bmdqMXFUQlZyOFJtV1E2MDNaNEJfM3c?oc=5&quot; target=&quot;_blank&quot;&gt;Measles outbreak in Bangladesh is a ‘real warning’ to other countries, experts say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NBC News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Times of Israel] WFP says it will end monthly aid to 500,000 Gazans due to lack of funding - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxORjRqcURaUFpST3pEdzc5ZEZUYi1MUEFfUXdDdGtkeElQMU5rM0Q0ZXhxZ3VEXzgzMUctd0w4Vi1vMm9PWmw5NDUyMEhYQVpkbkRNVFcwRTRKOF9aTkV5eDdndUp4YmZVZ1ZKcjdQN0I0dnVMU3BIRng2bGJad1VGQlQwU3hqbE5LQVYwZXZzRXZSUXEzQnJiZkFmOWtaNERlUUh6TDg0M1N5ZXo2SEwzZFlQS3FRVWlmaVE?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 07:10:17 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiugFBVV95cUxORjRqcURaUFpST3pEdzc5ZEZUYi1MUEFfUXdDdGtkeElQMU5rM0Q0ZXhxZ3VEXzgzMUctd0w4Vi1vMm9PWmw5NDUyMEhYQVpkbkRNVFcwRTRKOF9aTkV5eDdndUp4YmZVZ1ZKcjdQN0I0dnVMU3BIRng2bGJad1VGQlQwU3hqbE5LQVYwZXZzRXZSUXEzQnJiZkFmOWtaNERlUUh6TDg0M1N5ZXo2SEwzZFlQS3FRVWlmaVE?oc=5&quot; target=&quot;_blank&quot;&gt;WFP says it will end monthly aid to 500,000 Gazans due to lack of funding&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Times of Israel&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Washington Post World] Trump and Zelensky escalate feud as Ukraine war strains alliance - The Washington Post</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 06:34:27 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5&quot; target=&quot;_blank&quot;&gt;Trump and Zelensky escalate feud as Ukraine war strains alliance&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NHK World] Ukrainian drones strike St. Petersburg oil facilities | NHK WORLD-JAPAN News - NHKニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rRm8zZVdMWVdyc1NNLUZtN0lNMVdrZEFnUUdtazA1Wk1Sc2hmQ2hjQ0xPRDlLUENEQkZUTFQyN2hyRncyV3NxVTN5U2dISU15clpDU0R4eURQaU5LdW56bTVlZw?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 02:22:29 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rRm8zZVdMWVdyc1NNLUZtN0lNMVdrZEFnUUdtazA1Wk1Sc2hmQ2hjQ0xPRDlLUENEQkZUTFQyN2hyRncyV3NxVTN5U2dISU15clpDU0R4eURQaU5LdW56bTVlZw?oc=5&quot; target=&quot;_blank&quot;&gt;Ukrainian drones strike St. Petersburg oil facilities | NHK WORLD-JAPAN News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NHKニュース&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NHK World] Japan launches Martian moon mission | NHK WORLD-JAPAN News - NHKニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CcWtocE8xSEpOb2Z0NWlUYTdsbzVpM1cwMm9kTk00YVc2d1BGdzdWSy1uWW44TkhPdnk2YU03aG9kWHZWNnpmRXhDeUg0RnZHQ2c0am42UXhoeUppTVJxSmY5Yw?oc=5</link>
+      <pubDate>Mon, 19 Oct 2026 01:08:06 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CcWtocE8xSEpOb2Z0NWlUYTdsbzVpM1cwMm9kTk00YVc2d1BGdzdWSy1uWW44TkhPdnk2YU03aG9kWHZWNnpmRXhDeUg0RnZHQ2c0am42UXhoeUppTVJxSmY5Yw?oc=5&quot; target=&quot;_blank&quot;&gt;Japan launches Martian moon mission | NHK WORLD-JAPAN News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NHKニュース&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NHK World] Rift deepens between Trump and Zelenskyy over Russia - NHKニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUTE2WjFSSV9JSDFXRzE3WHRKa0Y0ZHdIdzFZaGNwUERBbnBZUTZwLW1lUEZEQzEydDRJSVhLRnlxWkJHRFlCdTdRbV9ZUlM1aENxU1ZHZnNyU0dZNHczSWdCZw?oc=5</link>
+      <pubDate>Sun, 18 Oct 2026 23:25:07 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUTE2WjFSSV9JSDFXRzE3WHRKa0Y0ZHdIdzFZaGNwUERBbnBZUTZwLW1lUEZEQzEydDRJSVhLRnlxWkJHRFlCdTdRbV9ZUlM1aENxU1ZHZnNyU0dZNHczSWdCZw?oc=5&quot; target=&quot;_blank&quot;&gt;Rift deepens between Trump and Zelenskyy over Russia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NHKニュース&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NHK World] Italy protests turn violent, rioting breaks out | NHK WORLD-JAPAN News - NHKニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kdzhVLWpYNUV6bFJDWnoyd18tMnpiT2xkQlhxNzlBcGZCWWFWZW9qVldDZ2hRa25NdEM4UWdMOXJJZnFGVERPV0I2LXVRYS1ZZ2s5TllQTTIzVzVkTUZBZnk1aw?oc=5</link>
+      <pubDate>Sun, 18 Oct 2026 19:30:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kdzhVLWpYNUV6bFJDWnoyd18tMnpiT2xkQlhxNzlBcGZCWWFWZW9qVldDZ2hRa25NdEM4UWdMOXJJZnFGVERPV0I2LXVRYS1ZZ2s5TllQTTIzVzVkTUZBZnk1aw?oc=5&quot; target=&quot;_blank&quot;&gt;Italy protests turn violent, rioting breaks out | NHK WORLD-JAPAN News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NHKニュース&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian China] The Guardian view on plague in Russia: what is most worrying is the lack of information | Editorial</title>
+      <link>https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information</link>
+      <pubDate>Sun, 18 Oct 2026 16:30:04 GMT</pubDate>
+      <description>&lt;p&gt;In the three weeks since a health worker’s death in Siberia, officials have stonewalled the WHO – setting a worrying precedent for future pandemics&lt;/p&gt;&lt;p&gt;Is there a plague outbreak in Russia? If the answer were a clear yes, there shouldn’t be much reason to worry. With swift medical intervention, plague is treatable. But in the nearly three weeks since &lt;a href=&quot;https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death&quot;&gt;a worker at a Siberian plague research unit&lt;/a&gt; died of a mysterious respiratory illness, state officials have been&amp;nbsp;consistently tight-lipped about what happened and whether there were any further cases.&lt;/p&gt;&lt;p&gt;It is this uncertainty that has the World Health Organization (WHO) and international community worried: partly because there is a – very small – risk of an outbreak, and partly because it is yet another warning that the international coordination we rely on&amp;nbsp;to prevent pandemics is fraying along with the rest&amp;nbsp;of international politics, and could easily fail to protect us in the future.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Washington Post World] The world’s best bad art is in Boston - The Washington Post</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPMk53Q3dfU2d4bm9lY1JiVWRvQXVrMWFOZGo3cVhla2VfQVNJQU92NENCZFVWOGswR2FMUXhIZ1pHRmJ6QWhtOEZuN0JXbjBKTFN5YV9KWVRXSl9BRDVVV3BQdm13VVI4TXdqOU5vNk5iUjlDbjYxdDRDb0ZvQmwyOWVLMmlPZw?oc=5</link>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMihgFBVV95cUxPMk53Q3dfU2d4bm9lY1JiVWRvQXVrMWFOZGo3cVhla2VfQVNJQU92NENCZFVWOGswR2FMUXhIZ1pHRmJ6QWhtOEZuN0JXbjBKTFN5YV9KWVRXSl9BRDVVV3BQdm13VVI4TXdqOU5vNk5iUjlDbjYxdDRDb0ZvQmwyOWVLMmlPZw?oc=5&quot; target=&quot;_blank&quot;&gt;The world’s best bad art is in Boston&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Washington Post World] As Iran war spills over, Saudis and Houthis see fighting as only path ahead - The Washington Post</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5</link>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5&quot; target=&quot;_blank&quot;&gt;As Iran war spills over, Saudis and Houthis see fighting as only path ahead&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Kyiv Independent] Massive Ukrainian drone attack hit oil facility, bridge, and data center in St. Petersburg - The Kyiv Independent</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGxLdnFHajJqbFBGQ3hHVVV1UThlNVpqajc0Wmg4OHVQUlU1X1JFMUl3UnpSRHhnT1dabjVQUGU5M192X2tXQ3Z4cWRfbEVkaDRKeG4wUlRXZDlFZmJtdXRJWVJ6QzVPZ1Bad0FrV0NJSXZaNWFTMnR6cHNlQVFmcDh2dzFGNVJOWXUwRHNfTVgzQkszRk1JR2pBQ252UllhV2c2ek96TWZEdw?oc=5</link>
+      <pubDate>Sun, 18 Oct 2026 01:34:01 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGxLdnFHajJqbFBGQ3hHVVV1UThlNVpqajc0Wmg4OHVQUlU1X1JFMUl3UnpSRHhnT1dabjVQUGU5M192X2tXQ3Z4cWRfbEVkaDRKeG4wUlRXZDlFZmJtdXRJWVJ6QzVPZ1Bad0FrV0NJSXZaNWFTMnR6cHNlQVFmcDh2dzFGNVJOWXUwRHNfTVgzQkszRk1JR2pBQ252UllhV2c2ek96TWZEdw?oc=5&quot; target=&quot;_blank&quot;&gt;Massive Ukrainian drone attack hit oil facility, bridge, and data center in St. Petersburg&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Kyiv Independent&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[Guardian China] Why Britain should reject the lure of cheap – and  scary – Chinese AI</title>
+      <link>https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai</link>
+      <pubDate>Sat, 17 Oct 2026 15:00:33 GMT</pubDate>
+      <description>&lt;p&gt;In the west the technology comes with at least some effort to provide security and a benign intent – not so from China&lt;/p&gt;&lt;p&gt;There is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.&lt;/p&gt;&lt;p&gt;Every month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to take the core software and use it without paying an expensive ongoing licence.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai&quot;&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+  
+    <item>
+      <title>[NBC News World] After a failed World Series attempt, Dodgers are left wondering what happened to their season, and their star - NBC News</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPVndTQ2dOVFRsRl9mbzdvSG1Ba0JtVE0xQmRkQnFSZ0pxaHBKeGowQzRmc0dkVGU2MW9CNzQ3X0d2ZzdhNE1rLU1QeGRjck5xT1NoZjF4N1NfbExuZUdrR2hhQ0F6aElfZnpHLURXY0ViellKb2RMVTNpU2trNzd5OVBVdlBHRFllTkJ3blpCdHl5WmN0RGFEakxiZkFQcllmU29fOVZOSlczeTVU?oc=5</link>
+      <pubDate>Fri, 16 Oct 2026 10:05:41 GMT</pubDate>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMirAFBVV95cUxPVndTQ2dOVFRsRl9mbzdvSG1Ba0JtVE0xQmRkQnFSZ0pxaHBKeGowQzRmc0dkVGU2MW9CNzQ3X0d2ZzdhNE1rLU1QeGRjck5xT1NoZjF4N1NfbExuZUdrR2hhQ0F6aElfZnpHLURXY0ViellKb2RMVTNpU2trNzd5OVBVdlBHRFllTkJ3blpCdHl5WmN0RGFEakxiZkFQcllmU29fOVZOSlczeTVU?oc=5&quot; target=&quot;_blank&quot;&gt;After a failed World Series attempt, Dodgers are left wondering what happened to their season, and their star&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;NBC News&lt;/font&gt;</description>
+    </item>
+  
+    <item>
+      <title>[BBC China] China tells Israel to stop &apos;forced establishment&apos; of West Bank settlements</title>
+      <link>https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Fri, 16 Oct 2026 08:45:54 GMT</pubDate>
+      <description>Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.</description>
+    </item>
+  
+    <item>
+      <title>[BBC China] North Korea and China open new bridge after 12-year delay</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 15 Oct 2026 06:24:45 GMT</pubDate>
+      <description>China is the North&apos;s largest trading partner and a lifeline against the sanctions Pyongyang faces.</description>
+    </item>
+  
+    <item>
+      <title>[BBC China] &apos;I&apos;d talk to the TV&apos;: The paid companions bringing warmth to China&apos;s lonely</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 13 Oct 2026 22:02:09 GMT</pubDate>
+      <description>As loneliness grows in China, a new industry is emerging to provide companionship and support.</description>
+    </item>
+  
+    <item>
+      <title>[BBC China] Why the lonely in China are hiring &apos;temporary children&apos;</title>
+      <link>https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Tue, 13 Oct 2026 22:00:20 GMT</pubDate>
+      <description>A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.</description>
+    </item>
+  
+    <item>
+      <title>[BBC China] How India became dangerously addicted to Chinese imports</title>
+      <link>https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Mon, 05 Oct 2026 01:42:11 GMT</pubDate>
+      <description>India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.</description>
+    </item>
+  
   </channel>
 </rss>
