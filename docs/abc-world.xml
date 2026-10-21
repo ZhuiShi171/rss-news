@@ -3,159 +3,338 @@
   <channel>
     <title>ABC News World</title>
     <link>https://abcnews.go.com/abcnews/internationalheadlines</link>
-    <description>ABC News World - latest news</description>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:50:05 GMT</lastBuildDate>
+    <description>RSS feed for ABC News World</description>
+    <lastBuildDate>Wed, 21 Oct 2026 02:20:39 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Pompeii's grandest house gets a $1.6 million restoration funded by private sponsor]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/pompeiis-grandest-house-gets-16-million-restoration-funded-137422838]]&gt;</link>
-      <description><![CDATA[A private home in Pompeii, believed to be the grandest, is being restored with 1.4 million euros ($1.6 million) from a private sponsor]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:43:26 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Italy's Meloni approves tougher measures to crack down on protests after Milan riots]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/italys-meloni-approves-tougher-measures-crack-protests-after-137424167]]&gt;</link>
-      <description><![CDATA[Italian Premier Giorgia Meloni has announced new security measures in response to violent protests in Milan after weekend riots caused significant damage to the city&rsquo;s central shopping district]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:43:21 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225]]&gt;</link>
-      <description><![CDATA[Tech giant Meta said on Tuesday it has complied with an order of Brazil&rsquo;s electoral court for it to give equal treatment in its platforms to President Luiz In&aacute;cio Lula da Silva and opposition candidate Fl&aacute;vio Bolsonaro ahead of the Oct. 25 runoff for t...]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:43:04 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/nigeria-confirms-ebola-case-abuja-woman-arrived-uganda-137420211]]&gt;</link>
-      <description><![CDATA[Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman arriving from Uganda tested positive]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:02:27 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pakistani authorities arrest man accused in $126 million US postage fraud scheme]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/pakistani-authorities-arrest-man-accused-126-million-us-137420213]]&gt;</link>
-      <description><![CDATA[Pakistan has arrested a man accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal Service]]></description>
-      <pubDate>Tue, 20 Oct 2026 14:16:10 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/2-men-rearrested-uk-suspicion-assisting-iran-suspected-137418182]]&gt;</link>
-      <description><![CDATA[British police have rearrested two men suspected of assisting Iran&rsquo;s intelligence service in a plot at a U.S.-run air base]]></description>
-      <pubDate>Tue, 20 Oct 2026 13:54:16 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Albanian police clash with anti-government protesters for an 8th day]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/albanian-police-clash-anti-government-protesters-8th-day-137417515]]&gt;</link>
-      <description><![CDATA[Police have fired tear gas and used water cannons to disperse protesters in Tirana, Albania]]></description>
-      <pubDate>Tue, 20 Oct 2026 12:42:25 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Attack by Islamic State-affiliated group in Mali kills 48 people, official says]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/attack-islamic-state-affiliated-group-mali-kills-48-137413904]]&gt;</link>
-      <description><![CDATA[Militants affiliated with the Islamic State group have killed 48 people in Mali's M&eacute;naka region]]></description>
-      <pubDate>Tue, 20 Oct 2026 12:00:20 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Drone strike on a market in disputed African region of Abyei kills at least 153]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/drone-strike-market-disputed-african-region-abyei-kills-137414992]]&gt;</link>
-      <description><![CDATA[A drone strike on a fuel depot at a market in South Sudan's disputed Abyei region has killed at least 153 people, an official said]]></description>
-      <pubDate>Tue, 20 Oct 2026 11:58:15 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Shark kills woman swimming off South Africa's Eastern Cape, beaches closed]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/shark-kills-woman-swimming-off-south-africas-eastern-137413529]]&gt;</link>
-      <description><![CDATA[A 65-year-old woman has died in a shark attack on South Africa's southeastern coast]]></description>
-      <pubDate>Tue, 20 Oct 2026 11:22:20 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Alberta rejects a move toward independence from Canada in a victory for Carney]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/canadian-broadcasting-corp-projects-alberta-voters-rejected-move-137402888]]&gt;</link>
-      <description><![CDATA[Voters in Alberta have overwhelmingly backed remaining in Canada, with early referendum results showing 76% support for staying]]></description>
+      <title> Alberta rejects a move toward independence from Canada in a victory for Carney</title>
+      <link>https://abcnews.com/International/wireStory/canadian-broadcasting-corp-projects-alberta-voters-rejected-move-137402888</link>
       <pubDate>Tue, 20 Oct 2026 10:02:15 -0400</pubDate>
+      <description>Alberta rejects a move toward independence from Canada in a victory for Carney
+
+Voters in Alberta have overwhelmingly backed remaining in Canada, with early referendum results showing 76% support for stayingByROB GILLIES Associated PressOctober 20, 2026, 12:13 AM
+
+Share
+
+EDMONTON, Alberta -- Voters in oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Mark Carney’s push for national unity amid U.S. President Donald Trump’s trade war and annexation threats.
+
+With more than 1.8 million votes counted, 76% supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.
+
+The referendum wasn&apos;t a direct vote on independence. Approval would have set Alberta on a path toward a future vote on separation from Canada.
+
+“Albertans made a clear choice,” Carney said. “They chose unity, to build together, and to take care of each other. Above all, Albertans chose Canada.”
+
+Carney said that the result would allow Canadians to move forward together and accelerate efforts to diversify trade, develop major infrastructure projects and make Canada a global energy powerhouse, with Alberta at its center.
+
+Alberta&apos;s separatists, however, saw a silver lining.
+
+“We don’t have the final results. I think the numbers are going to fluctuate, but it is fair to say that at least a quarter of Albertans feel that Alberta needs to be treated better,” said Keith Wilson, a leader of the separatist movement.
+
+Alberta Premier Danielle Smith welcomed the early results, saying they showed widespread support for remaining in Canada.
+
+“Albertans have voted for a stronger Alberta in a united Canada,” Smith posted on social media.
+
+Smith, who called the referendum amid pressure from separatists within her governing United Conservative Party, or UCP, despite opposing independence, said that she would address the province Tuesday even...</description>
     </item>
+  
     <item>
-      <title><![CDATA[Bosnian Serb authorities boost neighboring Serbia's populist leader ahead of a key election]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112]]&gt;</link>
-      <description><![CDATA[Serbia's populist leader Aleksandar Vucic faces a key parliamentary election this weekend]]></description>
-      <pubDate>Tue, 20 Oct 2026 10:00:32 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[EU unveils a new Arctic push as global warming and security threats reshape the region]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/eu-unveils-new-arctic-push-global-warming-security-137410994]]&gt;</link>
-      <description><![CDATA[The European Union has unveiled a plan to boost its presence in the Arctic]]></description>
-      <pubDate>Tue, 20 Oct 2026 10:00:12 -0400</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Driver charged with intentionally injuring Australian federal lawmaker]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/australian-lawmaker-critical-stable-after-hit-car-prime-137403404]]&gt;</link>
-      <description><![CDATA[Police have charged a driver with intentionally causing serious injury to Australian lawmaker Helen Haines]]></description>
+      <title> Driver charged with intentionally injuring Australian federal lawmaker</title>
+      <link>https://abcnews.com/International/wireStory/australian-lawmaker-critical-stable-after-hit-car-prime-137403404</link>
       <pubDate>Tue, 20 Oct 2026 09:54:20 -0400</pubDate>
+      <description>Driver charged with intentionally injuring Australian federal lawmaker
+
+Police have charged a driver with intentionally causing serious injury to Australian lawmaker Helen HainesByROD MCGUIRK Associated Press and CHARLOTTE GRAHAM-MCLAY Associated PressOctober 20, 2026, 1:56 AM
+
+ShareFollow ABC News on Google
+
+MELBOURNE, Australia -- Police on Tuesday charged a driver with intentionally causing serious injury to an Australian federal lawmaker who is in critical condition after being struck by a car in an apparent escalation in political violence that has shocked the nation.
+
+Helen Haines, a 65-year-old independent politician, was in hospital in critical but stable condition after being struck by a car outside her office in the city of Wangaratta, in Victoria state, on Monday in what police alleged was a “targeted” incident.
+
+Brendan Nugent, from nearby Tarrawingee, was charged with intentionally causing serious injury, dangerous driving causing serious injury and causing harm to a federal official, police said in a statement on Tuesday.
+
+Nugent has been in police custody since shortly after Haines was injured and a crowd of bystanders subdued him. He will appear in a Wangaratta court on Wednesday, when he could potentially be released on bail.
+
+His father, Rod Nugent, released a statement Tuesday describing Haines as a “deeply respected, valued and much-loved member of our local community.”
+
+“Helen has been our friend for more than 20 years and what happened to her yesterday is devastating and unfathomable,” the father said, adding that he would cooperate with police.
+
+The incident shocked Australians as political violence is rare here and politicians have always been accessible to the public. Most lawmakers are not accompanied by security officers and go about their work and personal lives on their own.
+
+Australian Prime Minister Anthony Albanese said he phoned local barber Ricky Jefferies, who had run from his store to help members of the public detain the suspect,...</description>
     </item>
+  
     <item>
-      <title><![CDATA[Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921]]&gt;</link>
-      <description><![CDATA[U.S. Secretary of State Marco Rubio has held talks with India's foreign minister in Mumbai]]></description>
-      <pubDate>Tue, 20 Oct 2026 09:30:35 -0400</pubDate>
+      <title> Attack by Islamic State-affiliated group in Mali kills 48 people, official says</title>
+      <link>https://abcnews.com/International/wireStory/attack-islamic-state-affiliated-group-mali-kills-48-137413904</link>
+      <pubDate>Tue, 20 Oct 2026 12:00:20 -0400</pubDate>
+      <description>Attack by Islamic State-affiliated group in Mali kills 48 people, official says
+
+Militants affiliated with the Islamic State group have killed 48 people in Mali&apos;s Ménaka regionByThe Associated PressOctober 20, 2026, 11:04 AM
+
+ShareFollow ABC News on Google
+
+BAMAKO, Mali -- A weekend attack by militants affiliated to the Islamic State group killed 48 people in the Ménaka region of eastern Mali, a lawmaker told The Associated Press Tuesday. 
+
+Fighters from the Islamic State in Sahel Province, or ISSP, attacked on Sunday night into Monday morning and casualties included children and elderly, Moussa Ag Acharatoumane, a Tuareg leader and member of the National Transitional Council, said.
+
+According to Moussa Ag Acharatoumane, the armed group attacked civilians, accusing them of revealing ISSP positions to the Malian army who had been conducting a drone strike on the group.
+
+ISSP operates mostly in the Ménaka region of Mali, where it faces stiff competition from another militant group, Jama’at Nusrat al-Islam wal-Muslimin (JNIM), and in the neighboring countries of Burkina Faso and Niger. It has not claimed responsibility for the attack.
+
+Couple charged in fatal shooting of 17-year-old on her way to zoo
+9 hours ago
+
+South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens
+19 hours ago
+
+Drone strike on a market in disputed African region of Abyei kills at least 153
+11 hours ago
+
+On Monday, the Malian army announced it had located a major base housing “several terrorist elements as well as military equipment and logistical supplies” 65 kilometers (40 miles) southwest of the town of Ménaka. 
+
+“After confirming the intelligence gathered and assessing the situation, the site was targeted and successfully struck,” an army statement said. 
+
+The vast Sahel region has become the deadliest place in the world for extremism. The military governments of Mali, Burkina Faso and Niger in recent years have struggled to turn the tide of armed attacks in the region d...</description>
     </item>
+  
     <item>
-      <title><![CDATA[A former South Africa deputy police chief facing sexual offense charges is denied bail]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/former-south-africa-deputy-police-chief-facing-sexual-137404814]]&gt;</link>
-      <description><![CDATA[A South African court has denied bail to former deputy police chief Shadrack Sibiya, who faces charges of sexual offenses]]></description>
+      <title> Pakistani authorities arrest man accused in $126 million US postage fraud scheme</title>
+      <link>https://abcnews.com/International/wireStory/pakistani-authorities-arrest-man-accused-126-million-us-137420213</link>
+      <pubDate>Tue, 20 Oct 2026 14:16:10 -0400</pubDate>
+      <description>Pakistani authorities arrest man accused in $126 million US postage fraud scheme
+
+Pakistan has arrested a man accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal ServiceByThe Associated PressOctober 20, 2026, 1:33 PM
+
+ShareFollow ABC News on Google
+
+LAHORE, Pakistan -- LAHORE, Pakistan (AP) — Pakistani authorities acting on intelligence arrested a man Tuesday accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal Service, Pakistan’s cybercrime investigation agency said.
+
+Faheem Akram, 33, was arrested after a weekslong search involving raids across several parts of the country, a senior official at the National Cyber Crime Investigation Agency, Atif Ameer, told reporters.
+
+Akram, a resident of Khanewal in eastern Punjab province, was indicted by a federal grand jury in the Southern District of Florida, the U.S. Attorney’s Office for the district said in a Sept. 28 statement. The office alleged that Akram operated LabelsBank.com, an unauthorized website that sold more than 5.1 million counterfeit postage labels to more than 5,200 customers. The labels typically cost $2 each, regardless of a package’s weight, size or destination.
+
+The counterfeit labels allowed customers to ship packages at prices far below legitimate postal rates, resulting in lost revenue and shipping costs for the Postal Service, according to the U.S. Attorney’s Office. Its estimate of more than $126 million represents alleged losses to the Postal Service rather than proceeds from the website’s sales.
+
+Airman killed rappelling from Alamodome&apos;s ceiling in Salute to Armed Forces ceremony
+2 days ago
+
+Iran updates: Trump admin prepares options, including &apos;mother of all bombs&apos;
+Oct 17
+
+Bend, Oregon, shooting: Suspect ID&apos;d, had attended elementary school, police say
+Oct 16
+
+Ameer said Pakistani investigators...</description>
+    </item>
+  
+    <item>
+      <title> A former South Africa deputy police chief facing sexual offense charges is denied bail</title>
+      <link>https://abcnews.com/International/wireStory/former-south-africa-deputy-police-chief-facing-sexual-137404814</link>
       <pubDate>Tue, 20 Oct 2026 05:54:22 -0400</pubDate>
+      <description>A former South Africa deputy police chief facing sexual offense charges is denied bail
+
+A South African court has denied bail to former deputy police chief Shadrack Sibiya, who faces charges of sexual offensesByMOGOMOTSI MAGOME Associated PressOctober 20, 2026, 4:32 AM
+
+JOHANNESBURG -- A South African court denied bail on Tuesday to a former deputy police chief facing sexual offense charges, ruling that he remain behind bars pending trial. 
+
+The officer, Shadrack Sibiya, resigned from the police service earlier this month following his arrest in September. He is accused of raping an 18-year-old woman, human trafficking and the sexual grooming of a minor. 
+
+There are also allegations made at the commission of inquiry probing criminality in the police that he has links to alleged members of criminal networks in the country. Sibiya denies the allegations.
+
+On Tuesday, the Randburg Magistrates Court denied him bail, saying he had failed to present exceptional circumstances on why he should be released and agreeing with prosecutors that his release would pose a threat to witnesses.
+
+Police say that Sibiya&apos;s departure from the police service is regarded as a dishonorable discharge.
+
+South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens
+19 hours ago
+
+Driver charged with intentionally injuring Australian federal lawmaker
+20 hours ago
+
+Alberta rejects a move toward independence from Canada in a victory for Carney
+1 day ago
+
+Sibiya has been the subject of a judicial commission of inquiry investigating wide-ranging allegations of corruption within the South African police and alleged ties to the country’s criminal networks.
+
+At the commission, which is chaired by retired Judge Mbuyiseni Madlanga, Sibiya has been accused of having close links to alleged members of the criminal networks and receiving large sums of cash and gifts from them.
+
+The National Prosecuting Authority said they will soon be ready for trial.
+
+“We are comfortable that the evi...</description>
     </item>
+  
     <item>
-      <title><![CDATA[South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/south-korea-withdraw-kyiv-embassy-staff-row-pow-137404006]]&gt;</link>
-      <description><![CDATA[South Korea says it will withdraw some staff from its embassy in Kyiv, deepening a diplomatic row over Ukraine&rsquo;s announcement last month of a transfer of two North Korean prisoners of war that Seoul says was meant to be secret]]></description>
-      <pubDate>Tue, 20 Oct 2026 05:22:25 -0400</pubDate>
+      <title> Drone strike on a market in disputed African region of Abyei kills at least 153</title>
+      <link>https://abcnews.com/International/wireStory/drone-strike-market-disputed-african-region-abyei-kills-137414992</link>
+      <pubDate>Tue, 20 Oct 2026 11:58:15 -0400</pubDate>
+      <description>Drone strike on a market in disputed African region of Abyei kills at least 153
+
+A drone strike on a fuel depot at a market in South Sudan&apos;s disputed Abyei region has killed at least 153 people, an official saidByDENG MACHOL Associated PressOctober 20, 2026, 11:31 AM
+
+JUBA, South Sudan -- A drone strike on a market in Abyei, a border region disputed by Sudan and South Sudan, hit a nearby fuel depot, killing at least 153 people and igniting a fire that was still burning Tuesday, a local official said.
+
+Yohanna Akol Ngor, the Abyei administration’s caretaker information minister, blamed Sudan ’s military for Monday&apos;s attack on Amiet Market, north of Abyei town.
+
+“We have recorded 153 deaths,” Akol told The Associated Press by phone Tuesday. He said the death toll continued to rise as the fire burned.
+
+The motive for the attack was not immediately clear, and the AP could not independently verify who carried it out.
+
+Sudan’s military did not respond to a request for comment.
+
+Doctors Without Borders, known by its French acronym MSF, said more than 20 wounded people were brought to Ameth Bek Hospital, where MSF teams were working alongside staff from South Sudan’s Health Ministry.
+
+“So far we received over 20 patients, including several critical cases. Patients with burns were also admitted,” said Dr. Christian Lindauer, MSF’s medical activities manager at the hospital.
+
+South Sudan’s Foreign Ministry also blamed Sudan’s military, saying the attack hit multiple locations within the market, causing civilian casualties and extensive property damage.
+
+The ministry said it had summoned Sudan’s ambassador to protest and urged Sudan to “refrain from any actions that endanger civilian lives and property.” It called for issues concerning Abyei to be addressed through diplomatic channels.
+
+Shark kills woman swimming off South Africa&apos;s Eastern Cape, beaches closed
+12 hours ago
+
+&apos;The Simpsons&apos; resurrects Apu after nearly a decade of silence
+1 day ago
+
+Google Clo...</description>
     </item>
+  
     <item>
-      <title><![CDATA[How France’s worst rioting in years erupted and how the government responded]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/frances-worst-rioting-years-erupted-government-responded-137390407]]&gt;</link>
-      <description><![CDATA[Rioters clashed with police, set cars on fire, stormed public buildings and engulfed a historic city hall in flames in France&rsquo;s worst civil unrest in years]]></description>
-      <pubDate>Tue, 20 Oct 2026 01:27:51 -0400</pubDate>
+      <title> Meta tells Brazil&apos;s electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote</title>
+      <link>https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225</link>
+      <pubDate>Tue, 20 Oct 2026 16:43:04 -0400</pubDate>
+      <description>Meta tells Brazil&apos;s electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote
+
+Tech giant Meta said on Tuesday it has complied with an order of Brazil’s electoral court for it to give equal treatment in its platforms to President Luiz Inácio Lula da Silva and opposition candidate Flávio Bolsonaro ahead of the Oct. 25 runoff for t...ByMAURICIO SAVARESE Associated PressOctober 20, 2026, 3:19 PM
+
+ShareFollow ABC News on Google
+
+SAO PAULO -- Tech giant Meta said on Tuesday it has complied with an order of Brazil&apos;s electoral court for it to give equal treatment in its platforms to President Luiz Inácio Lula da Silva and opposition candidate Flávio Bolsonaro ahead of the Oct. 25 runoff for the nation&apos;s top job.
+
+The case is the latest example of courts intervening to fix platform imbalances impacting politics and elections. 
+
+The suit was triggered by Lula’s campaign on Oct. 15, when it accused the tech company that owns Instagram, Facebook and WhatsApp of using biased algorithms and AI restrictions to favor Bolsonaro. On Monday, hundreds of people protested in front of the company’s office in metropolis Sao Paulo.
+
+Meta said it had “completed the implementation of measures to comply with the directive from the electoral court.” It added the restrictions ordered by the court “do not affect organic posts.” 
+
+Bolsonaro won the most votes in the first round of the elections on Oct. 4, with 47% to Lula&apos;s 45%, with polls and analysts suggesting they will be in a tight race for victory until the last minute.
+
+Meta said it has enforced comprehensive measures to enforce compliance with electoral advertisement regulations and safeguard the integrity of the nation’s democratic process. It also said it implemented a dedicated human review system, under which any automatic blocks or limitations placed on presidential campaign ad accounts must undergo manual evaluation within two hours. 
+
+Meta insisted its recent operational incidents come from te...</description>
     </item>
+  
     <item>
-      <title><![CDATA[Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/millions-dollars-unaccounted-ebola-response-officials-137386655]]&gt;</link>
-      <description><![CDATA[Africa&rsquo;s top public health agency and Congolese officials say $700 million in Ebola aid is unaccounted for]]></description>
-      <pubDate>Mon, 19 Oct 2026 23:30:15 -0400</pubDate>
+      <title> Italy&apos;s Meloni approves tougher measures to crack down on protests after Milan riots</title>
+      <link>https://abcnews.com/International/wireStory/italys-meloni-approves-tougher-measures-crack-protests-after-137424167</link>
+      <pubDate>Tue, 20 Oct 2026 16:43:21 -0400</pubDate>
+      <description>Italy&apos;s Meloni approves tougher measures to crack down on protests after Milan riots
+
+Italian Premier Giorgia Meloni has announced new security measures in response to violent protests in Milan after weekend riots caused significant damage to the city’s central shopping districtByCOLLEEN BARRY Associated PressOctober 20, 2026, 3:15 PM
+
+ShareFollow ABC News on Google
+
+MILAN -- Italy announced new security measures on Tuesday aimed at tackling the kind of violent protests that caused damage to Milan &apos;s central shopping district when weekend rioters, many of them minors, looted stores and set fire to property.
+
+A government decree calls for the deployment of an additional 500 soldiers to Milan through the end of the year, requiring parents to pay for damage caused by minors and making it easier to prosecute minors over 14.
+
+In a video posted on social media, Premier Giorgia Meloni said the presence of so many young rioters was “painful and frightening.” 
+
+“Young people … came to the square to smash things, steal and film themselves doing it,” Meloni said. “This is a phenomenon that we must address seriously, also to prevent those images from becoming a model for others to imitate.”
+
+The decree also creates a new criminal offense of violent participation in a demonstration, punishable by up to five years in prison and a fine of up to 20,000 euros ($22,500). Penalties increase if offenders cover their faces or someone is injured.
+
+Protesters will be responsible for paying for property damage, with parents liable for damage caused by minors, Meloni said.
+
+The decree, which must be converted to law by parliament within 60 days, also automatically presumes that anyone over age 14 is capable of understanding their own actions, unless proven otherwise. That until now was up to a judge to determine. 
+
+Iran updates: Trump admin prepares options, including &apos;mother of all bombs&apos;
+Oct 17
+
+College football player dies days after suffering traumatic injury during game
+...</description>
     </item>
+  
     <item>
-      <title><![CDATA[Colombia judge orders protection of historical artifacts amid protests]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/colombia-judge-orders-protection-historical-artifacts-after-museum-137399569]]&gt;</link>
-      <description><![CDATA[A Colombian judge ordered the nation&rsquo;s government to protect more than 30 historical artifacts that officials removed from exhibits in Bogota&rsquo;s national museum last week]]></description>
+      <title> Colombia judge orders protection of historical artifacts amid protests</title>
+      <link>https://abcnews.com/International/wireStory/colombia-judge-orders-protection-historical-artifacts-after-museum-137399569</link>
       <pubDate>Mon, 19 Oct 2026 21:54:24 -0400</pubDate>
+      <description>Colombia judge orders protection of historical artifacts amid protests
+
+A Colombian judge ordered the nation’s government to protect more than 30 historical artifacts that officials removed from exhibits in Bogota’s national museum last weekByMANUEL RUEDA Associated PressOctober 19, 2026, 8:24 PM
+
+ShareFollow ABC News on Google
+
+BOGOTA, Colombia -- A Colombian judge on Monday ordered the nation’s government to protect more than 30 historical artifacts that officials removed from exhibits in Bogota’s National Museum last week, as part of an effort by Colombia’s conservative government to change how the nation’s history is told in museums and schools. 
+
+The artifacts were related to the country&apos;s social movements and guerrilla fighters, which have led critics to describe the initiative as an attack on leftist movements and sexual minorities.
+
+In a ruling Monday, Bogota judge Cesar Enrique Osorio said that the objects, which include a copy of the first magazine published by Colombia’s LGBTQ+ community and a poster depicting a former guerrilla leader who later became a presidential candidate, should be preserved in a safe place while a ruling is made on whether they should once again be shown to the public.
+
+The judge also ordered officials to refrain from removing any more objects from the museum’s exhibits, alleging that the rights of Colombians to free expression and historical memory could be jeopardized.
+
+The removal of dozens of objects from the national museum’s exhibit halls last Thursday sparked protests outside the historical building over the weekend that lasted several hours and were eventually broken up by riot police.
+
+Feminist groups, left wing activists and members of Bogota’s LGBTQ+ community have accused the government of conservative president Abelardo de la Espriella of trying to erase their constituencies from the nation’s historical record.
+
+On Thursday, de la Espriella gave a speech in the country’s Ministry of Culture, where he urged officia...</description>
     </item>
+  
     <item>
-      <title><![CDATA[Gold mine collapse kills at least 6 in southwest Colombia]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/gold-mine-collapse-kills-6-southwest-colombia-137392944]]&gt;</link>
-      <description><![CDATA[At least 14 miners were killed Monday when an open pit gold mine collapsed in a remote corner of Colombia&rsquo;s Nari&ntilde;o province, authorities said]]></description>
-      <pubDate>Mon, 19 Oct 2026 21:14:19 -0400</pubDate>
+      <title> South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens</title>
+      <link>https://abcnews.com/International/wireStory/south-korea-withdraw-kyiv-embassy-staff-row-pow-137404006</link>
+      <pubDate>Tue, 20 Oct 2026 05:22:25 -0400</pubDate>
+      <description>South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens
+
+South Korea says it will withdraw some staff from its embassy in Kyiv, deepening a diplomatic row over Ukraine’s announcement last month of a transfer of two North Korean prisoners of war that Seoul says was meant to be secretByKIM TONG-HYUNG Associated PressOctober 20, 2026, 3:29 AM
+
+SEOUL, South Korea -- South Korea said Tuesday it will withdraw some staff from its embassy in Kyiv, deepening a diplomatic row over Ukraine&apos;s announcement last month of a transfer of two North Korean prisoners of war that Seoul says was meant to be secret.
+
+The diplomatic dispute between the countries began after Ukrainian President Volodymyr Zelenskyy disclosed the prisoners’ transfer during a Sept. 23 speech at the United Nations. South Korea has accused Ukraine of violating a nondisclosure agreement, but Ukraine denies the countries reached such a deal, further angering Seoul.
+
+South Korea recalled its ambassador to Ukraine earlier this month in protest. Ukrainian Foreign Ministry spokesperson Heorhii Tykhyi told local media at the time that Kyiv remains open to “constructive dialogue” and that “diplomacy must prevail over emotions.”
+
+South Korean Foreign Ministry spokesperson Park Doosoon said Tuesday that the withdrawal of additional embassy staff was due to Ukraine’s “lack of constructive steps” to address Seoul’s grievances as well as concerns about safety amid intensifying Russian attacks. 
+
+Park did not specify how many staff members would withdraw or when. He said South Korea would keep its charge d’affaires and essential personnel in Kyiv to maintain contact with Ukrainian authorities and assist South Korean citizens.
+
+“We are still maintaining communication, and, as I mentioned earlier, our goal is to seek an amicable resolution through close consultation with the Ukrainian side,” Park said. “We conveyed our clear position and requests over the pending issues between the two countries th...</description>
     </item>
+  
     <item>
-      <title><![CDATA[Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161]]&gt;</link>
-      <description><![CDATA[Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts]]></description>
-      <pubDate>Mon, 19 Oct 2026 20:21:57 -0400</pubDate>
+      <title> Bosnian Serb authorities boost neighboring Serbia&apos;s populist leader ahead of a key election</title>
+      <link>https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112</link>
+      <pubDate>Tue, 20 Oct 2026 10:00:32 -0400</pubDate>
+      <description>Serbia&apos;s populist leader Aleksandar Vucic faces a key parliamentary election this weekend</description>
     </item>
+  
     <item>
-      <title><![CDATA[Cuba says US-based suspects confessed in armed incursion and face terrorism charges]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/cuba-us-based-suspects-confessed-armed-incursion-face-137391517]]&gt;</link>
-      <description><![CDATA[Cuban authorities report that men captured in February after attempting to enter Cuba by force from the United States have confessed and cooperated with investigators]]></description>
-      <pubDate>Mon, 19 Oct 2026 15:54:23 -0400</pubDate>
+      <title> Albanian police clash with anti-government protesters for an 8th day</title>
+      <link>https://abcnews.com/International/wireStory/albanian-police-clash-anti-government-protesters-8th-day-137417515</link>
+      <pubDate>Tue, 20 Oct 2026 12:42:25 -0400</pubDate>
+      <description>Police have fired tear gas and used water cannons to disperse protesters in Tirana, Albania</description>
     </item>
+  
     <item>
-      <title><![CDATA[Bulgarian authorities seek arrests Germans in arson of Starlink antennas]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/bulgarian-authorities-seek-arrests-germans-arson-starlink-antennas-137391013]]&gt;</link>
-      <description><![CDATA[Bulgaria issued an international arrest warrant for two German citizens suspected of setting fire to Starlink antennas outside the Bulgarian capital]]></description>
-      <pubDate>Mon, 19 Oct 2026 15:50:17 -0400</pubDate>
+      <title> 2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base</title>
+      <link>https://abcnews.com/International/wireStory/2-men-rearrested-uk-suspicion-assisting-iran-suspected-137418182</link>
+      <pubDate>Tue, 20 Oct 2026 13:54:16 -0400</pubDate>
+      <description>British police have rearrested two men suspected of assisting Iran&amp;rsquo;s intelligence service in a plot at a U.S.-run air base</description>
     </item>
+  
     <item>
-      <title><![CDATA[Sudan drone attacks kill 3 children in Khartoum, dozens of civilians in Kordofan]]></title>
-      <link>&lt;![CDATA[https://abcnews.com/International/wireStory/sudan-drone-attacks-kill-3-children-khartoum-dozens-137387829]]&gt;</link>
-      <description><![CDATA[A drone attack killed three children in Sudan's capital, Khartoum, on Monday, according to Emergency Lawyers, a group that tracks violence against civilians]]></description>
-      <pubDate>Mon, 19 Oct 2026 14:42:21 -0400</pubDate>
+      <title> Pompeii&apos;s grandest house gets a $1.6 million restoration funded by private sponsor</title>
+      <link>https://abcnews.com/International/wireStory/pompeiis-grandest-house-gets-16-million-restoration-funded-137422838</link>
+      <pubDate>Tue, 20 Oct 2026 16:43:26 -0400</pubDate>
+      <description>A private home in Pompeii, believed to be the grandest, is being restored with 1.4 million euros ($1.6 million) from a private sponsor</description>
     </item>
+  
+    <item>
+      <title> Shark kills woman swimming off South Africa&apos;s Eastern Cape, beaches closed</title>
+      <link>https://abcnews.com/International/wireStory/shark-kills-woman-swimming-off-south-africas-eastern-137413529</link>
+      <pubDate>Tue, 20 Oct 2026 11:22:20 -0400</pubDate>
+      <description>A 65-year-old woman has died in a shark attack on South Africa&apos;s southeastern coast</description>
+    </item>
+  
   </channel>
 </rss>
