@@ -1,13 +1,13 @@
+const axios = require('axios');
+const xml2js = require('xml2js');
+const fs = require('fs');
+const path = require('path');
+
+// ========== RSS 源列表 ==========
 const RSS_SOURCES = [
+  // 直连源（媒体官方 RSS）
   { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', file: 'bbc-world' },
   { name: 'BBC China', url: 'https://feeds.bbci.co.uk/news/world/asia/china/rss.xml', file: 'bbc-china' },
-  { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en', file: 'reuters-world' },
-  { name: 'AP World', url: 'https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'ap-world' },
-  { name: 'CNN World', url: 'https://news.google.com/rss/search?q=site:cnn.com+world&hl=en-US&gl=US&ceid=US:en', file: 'cnn-world' },
-  { name: 'Washington Post World', url: 'https://news.google.com/rss/search?q=site:washingtonpost.com+world&hl=en-US&gl=US&ceid=US:en', file: 'wapo-world' },
-  { name: 'NBC News World', url: 'https://news.google.com/rss/search?q=site:nbcnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'nbc-world' },
-  { name: 'Newsweek', url: 'https://news.google.com/rss/search?q=site:newsweek.com&hl=en-US&gl=US&ceid=US:en', file: 'newsweek' },
-  { name: 'NHK World', url: 'https://news.google.com/rss/search?q=site:nhk.or.jp+world&hl=en-US&gl=US&ceid=US:en', file: 'nhk-world' },
   { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', file: 'aljazeera' },
   { name: 'Guardian World', url: 'https://www.theguardian.com/world/rss', file: 'guardian-world' },
   { name: 'Guardian China', url: 'https://www.theguardian.com/world/china/rss', file: 'guardian-china' },
@@ -21,12 +21,31 @@ const RSS_SOURCES = [
   { name: 'CBS News World', url: 'https://www.cbsnews.com/latest/rss/world', file: 'cbs-world' },
   { name: 'SCMP World', url: 'https://www.scmp.com/rss/91/feed', file: 'scmp-world' },
   { name: 'France 24 English', url: 'https://www.france24.com/en/rss', file: 'france24' },
+
+  // Google News 聚合版（国内直连失败的源用这个）
+  { name: 'Reuters World', url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en', file: 'reuters-world' },
+  { name: 'AP World', url: 'https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'ap-world' },
+  { name: 'CNN World', url: 'https://news.google.com/rss/search?q=site:cnn.com+world&hl=en-US&gl=US&ceid=US:en', file: 'cnn-world' },
+  { name: 'Washington Post World', url: 'https://news.google.com/rss/search?q=site:washingtonpost.com+world&hl=en-US&gl=US&ceid=US:en', file: 'wapo-world' },
+  { name: 'NBC News World', url: 'https://news.google.com/rss/search?q=site:nbcnews.com+world&hl=en-US&gl=US&ceid=US:en', file: 'nbc-world' },
+  { name: 'Newsweek', url: 'https://news.google.com/rss/search?q=site:newsweek.com&hl=en-US&gl=US&ceid=US:en', file: 'newsweek' },
+  { name: 'NHK World', url: 'https://news.google.com/rss/search?q=site:nhk.or.jp+world&hl=en-US&gl=US&ceid=US:en', file: 'nhk-world' },
   { name: 'Kyiv Independent', url: 'https://news.google.com/rss/search?q=site:kyivindependent.com&hl=en-US&gl=US&ceid=US:en', file: 'kyiv-independent' },
   { name: 'Times of Israel', url: 'https://news.google.com/rss/search?q=site:timesofisrael.com&hl=en-US&gl=US&ceid=US:en', file: 'times-of-israel' },
 ];
 
+// ========== XML 转义函数（先解码再编码，避免双重转义）==========
 function escapeXml(text) {
-  return text
+  if (!text) return '';
+  // 第一步：先把已有的 XML 实体解码回原始字符
+  let decoded = text
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'");
+  // 第二步：统一转义成标准 XML
+  return decoded
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
@@ -34,114 +53,116 @@ function escapeXml(text) {
     .replace(/'/g, '&apos;');
 }
 
+// ========== 抓取单个 RSS ==========
 async function fetchRSS(url) {
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 20000);
-    const response = await fetch(url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; RSS-Fetcher/1.0)' },
-      signal: controller.signal,
-    });
-    clearTimeout(timeout);
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return await response.text();
+    const response = await axios.get(url, { timeout: 30000 });
+    const result = await xml2js.parseStringPromise(response.data);
+    return result.rss.channel[0].item || [];
   } catch (error) {
-    console.error(`Failed to fetch ${url}: ${error.message}`);
-    return null;
+    console.error(`Failed to fetch ${url}:`, error.message);
+    return [];
   }
 }
 
-function parseItems(xml, sourceName) {
-  const items = [];
-  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-  let match;
-  while ((match = itemRegex.exec(xml)) !== null) {
-    const itemXml = match[1];
-    const titleMatch = itemXml.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>|<title>([\s\S]*?)<\/title>/);
-    const linkMatch = itemXml.match(/<link>([\s\S]*?)<\/link>/);
-    const descMatch = itemXml.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>|<description>([\s\S]*?)<\/description>/);
-    const dateMatch = itemXml.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
+// ========== 生成单个媒体的 RSS 文件 ==========
+function generateSingleRSS(source, items) {
+  const channel = {
+    title: source.name,
+    link: source.url,
+    description: `RSS feed for ${source.name}`,
+    lastBuildDate: new Date().toUTCString(),
+  };
 
-    if (titleMatch && linkMatch) {
-      items.push({
-        title: (titleMatch[1] || titleMatch[2] || '').trim(),
-        link: linkMatch[1].trim(),
-        description: (descMatch ? (descMatch[1] || descMatch[2] || '') : '').trim(),
-        pubDate: dateMatch ? dateMatch[1].trim() : new Date().toUTCString(),
-        source: sourceName,
-      });
-    }
-  }
-  return items;
-}
-
-function generateRSS(title, link, description, items) {
-  const itemsXml = items
-    .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-    .slice(0, 50)
-    .map(item => `
+  const itemsXml = items.slice(0, 20).map(item => `
     <item>
-      <title><![CDATA[${item.title}]]></title>
-      <link>${escapeXml(item.link)}</link>
-      <description><![CDATA[${item.description}]]></description>
-      <pubDate>${item.pubDate}</pubDate>
-    </item>`)
-    .join('');
+      <title>${escapeXml(item.title[0])}</title>
+      <link>${escapeXml(item.link[0])}</link>
+      <pubDate>${escapeXml(item.pubDate[0] || '')}</pubDate>
+      <description>${escapeXml((item.description && item.description[0]) || '')}</description>
+    </item>
+  `).join('');
 
-  return `<?xml version="1.0" encoding="UTF-8"?>
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>${escapeXml(title)}</title>
-    <link>${escapeXml(link)}</link>
-    <description>${escapeXml(description)}</description>
-    <language>en-us</language>
+    <title>${escapeXml(channel.title)}</title>
+    <link>${escapeXml(channel.link)}</link>
+    <description>${escapeXml(channel.description)}</description>
+    <lastBuildDate>${channel.lastBuildDate}</lastBuildDate>
+    ${itemsXml}
+  </channel>
+</rss>`;
+
+  const outputPath = path.join(__dirname, '../../docs', `${source.file}.xml`);
+  fs.writeFileSync(outputPath, xml, 'utf8');
+  console.log(`Generated ${source.file}.xml with ${items.length} items`);
+}
+
+// ========== 生成总汇总 RSS ==========
+function generateMasterRSS(allItems) {
+  // 按时间排序
+  allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  const itemsXml = allItems.slice(0, 100).map(item => `
+    <item>
+      <title>${escapeXml(`[${item.source}] ${item.title}`)}</title>
+      <link>${escapeXml(item.link)}</link>
+      <pubDate>${escapeXml(item.pubDate)}</pubDate>
+      <description>${escapeXml(item.description)}</description>
+    </item>
+  `).join('');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>国际新闻汇总</title>
+    <link>https://zhuishi171.github.io/rss-news/</link>
+    <description>International News Aggregated Feed</description>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     ${itemsXml}
   </channel>
 </rss>`;
+
+  const outputPath = path.join(__dirname, '../../docs', 'feed.xml');
+  fs.writeFileSync(outputPath, xml, 'utf8');
+  console.log(`Generated master feed.xml with ${allItems.length} total items`);
 }
 
+// ========== 主函数 ==========
 async function main() {
-  console.log('Starting news fetch...');
-  const fs = require('fs');
-  const path = require('path');
-
-  if (!fs.existsSync('docs')) {
-    fs.mkdirSync('docs', { recursive: true });
+  // 创建 docs 目录（如果不存在）
+  const docsDir = path.join(__dirname, '../../docs');
+  if (!fs.existsSync(docsDir)) {
+    fs.mkdirSync(docsDir, { recursive: true });
   }
 
   const allItems = [];
 
   for (const source of RSS_SOURCES) {
-    console.log(`Fetching: ${source.name}`);
-    const xml = await fetchRSS(source.url);
-    if (xml) {
-      const items = parseItems(xml, source.name);
-      console.log(`  Found ${items.length} items`);
+    console.log(`Fetching ${source.name}...`);
+    const items = await fetchRSS(source.url);
 
-      const sourceRSS = generateRSS(
-        source.name,
-        source.url,
-        `${source.name} - latest news`,
-        items
-      );
-      fs.writeFileSync(`docs/${source.file}.xml`, sourceRSS);
+    if (items.length > 0) {
+      generateSingleRSS(source, items);
 
-      allItems.push(...items);
+      // 提取条目加入总汇总
+      items.slice(0, 5).forEach(item => {
+        allItems.push({
+          source: source.name,
+          title: item.title[0],
+          link: item.link[0],
+          pubDate: item.pubDate[0] || '',
+          description: (item.description && item.description[0]) || '',
+        });
+      });
+    } else {
+      console.log(`No items from ${source.name}`);
     }
   }
 
-  console.log(`Total items: ${allItems.length}`);
-
-  const combinedRSS = generateRSS(
-    'International News Aggregated',
-    'https://zhuishi171.github.io/rss-news/',
-    'Aggregated international news from multiple sources',
-    allItems
-  );
-  fs.writeFileSync('docs/feed.xml', combinedRSS);
-
-  console.log(`Generated ${RSS_SOURCES.length + 1} feed files in docs/`);
+  generateMasterRSS(allItems);
+  console.log('Done!');
 }
 
 main().catch(console.error);
