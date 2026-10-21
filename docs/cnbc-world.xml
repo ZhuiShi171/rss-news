@@ -4,8 +4,15 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Wed, 21 Oct 2026 05:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:13:43 GMT</lastBuildDate>
     
+    <item>
+      <title>UK inflation jumps to 3.5% — cementing rate hike expectations</title>
+      <link>https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html</link>
+      <pubDate>Wed, 21 Oct 2026 06:09:26 GMT</pubDate>
+      <description></description>
+    </item>
+  
     <item>
       <title>U.S. eyes refining muscle of Indian billionaire Ambani&apos;s Reliance as Rubio visits Jamnagar plant  </title>
       <link>https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html</link>
@@ -18,6 +25,13 @@
       <link>https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html</link>
       <pubDate>Wed, 21 Oct 2026 05:27:19 GMT</pubDate>
       <description>Iran&apos;s Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz.</description>
+    </item>
+  
+    <item>
+      <title>Elon Musk ordered Starlink slowdown for Ukraine: Report</title>
+      <link>https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html</link>
+      <pubDate>Tue, 20 Oct 2026 23:06:56 GMT</pubDate>
+      <description>Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.</description>
     </item>
   
     <item>
@@ -42,6 +56,20 @@
     </item>
   
     <item>
+      <title>What’s making Europe so angry? The frustration behind the protests</title>
+      <link>https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html</link>
+      <pubDate>Tue, 20 Oct 2026 07:19:16 GMT</pubDate>
+      <description>Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.</description>
+    </item>
+  
+    <item>
+      <title>If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch</title>
+      <link>https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html</link>
+      <pubDate>Tue, 20 Oct 2026 19:11:36 GMT</pubDate>
+      <description>Elon Musk&apos;s planned SpaceX stock donation could come with strings attached if he uses Trump Accounts. New Treasury rules limit when shares can be sold.</description>
+    </item>
+  
+    <item>
       <title>CNBC Daily Open: The Musk universe is planning its latest crossover</title>
       <link>https://www.cnbc.com/2026/10/21/cnbc-daily-open-the-musk-universe-is-planning-its-latest-crossover.html</link>
       <pubDate>Wed, 21 Oct 2026 01:47:38 GMT</pubDate>
@@ -49,24 +77,10 @@
     </item>
   
     <item>
-      <title>Oil prices fall as traders hope for diplomatic progress in Middle East</title>
-      <link>https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html</link>
-      <pubDate>Tue, 20 Oct 2026 19:40:51 GMT</pubDate>
-      <description>Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.</description>
-    </item>
-  
-    <item>
       <title>In pictures: More than 500,000 took to the streets as France protests erupted into violence</title>
       <link>https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html</link>
       <pubDate>Mon, 19 Oct 2026 08:10:26 GMT</pubDate>
       <description>Over 500,000 people took part in protests in France over the weekend, which became marred by violence, amid demonstrations against rising living costs.</description>
-    </item>
-  
-    <item>
-      <title>Elon Musk ordered Starlink slowdown for Ukraine: Report</title>
-      <link>https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html</link>
-      <pubDate>Tue, 20 Oct 2026 23:06:56 GMT</pubDate>
-      <description>Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.</description>
     </item>
   
     <item>
@@ -95,20 +109,6 @@
       <link>https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html</link>
       <pubDate>Tue, 20 Oct 2026 23:34:14 GMT</pubDate>
       <description>Stronger net interest income and credit performance were the stars of the bank&apos;s earnings.</description>
-    </item>
-  
-    <item>
-      <title>What’s making Europe so angry? The frustration behind the protests</title>
-      <link>https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html</link>
-      <pubDate>Tue, 20 Oct 2026 07:19:16 GMT</pubDate>
-      <description>Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.</description>
-    </item>
-  
-    <item>
-      <title>Trump sued over 50% tariffs on Canada in latest trade challenge</title>
-      <link>https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html</link>
-      <pubDate>Tue, 20 Oct 2026 18:06:13 GMT</pubDate>
-      <description>A new lawsuit challenges President Donald Trump&apos;s tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.</description>
     </item>
   
   </channel>
