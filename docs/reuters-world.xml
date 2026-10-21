@@ -2,113 +2,98 @@
 <rss version="2.0">
   <channel>
     <title>Reuters World</title>
-    <link>https://news.google.com/rss/search?q=site:reuters.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en</link>
+    <link>https://feed.quanwenrss.com/feed/reuters-world.xml</link>
     <description>RSS feed for Reuters World</description>
-    <lastBuildDate>Wed, 21 Oct 2026 02:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:55:15 GMT</lastBuildDate>
     
     <item>
-      <title>Trump administration says it has revoked over 300,000 visas - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 22:35:44 GMT</pubDate>
-      <description>Google News</description>
+      <title>US envoy Witkoff to meet Putin, Trump presses Kyiv to settle</title>
+      <link>https://www.reuters.com/business/media-telecom/zelenskiy-meet-witkoff-trump-praises-russia-rebukes-ukraine-2026-10-20/</link>
+      <pubDate>Wed, 21 Oct 2026 04:30:37 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Musk ordered slowdown of Starlink service used by Ukraine&apos;s military, WSJ reports - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 21:09:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>France to deploy troops, admits to failures over weekend unrest</title>
+      <link>https://www.reuters.com/world/targeted-curfews-helped-keep-peace-overnight-france-pm-says-2026-10-20/</link>
+      <pubDate>Wed, 21 Oct 2026 04:27:37 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Musk says SpaceX-Tesla merger is &apos;a good idea&apos; as companies form deal committees - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 20:08:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>Iran prolongs talks in stalemate to influence midterms, officials say</title>
+      <link>https://www.reuters.com/world/us/iran-prolongs-talks-stalemate-influence-us-midterms-officials-say-2026-10-20/</link>
+      <pubDate>Tue, 20 Oct 2026 12:11:22 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Netflix co-CEO Sarandos says &apos;we could do better&apos; after weak forecast - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 23:41:37 GMT</pubDate>
-      <description>Google News</description>
+      <title>Trump administration says it has revoked over 300,000 visas</title>
+      <link>https://www.reuters.com/legal/government/trump-administration-says-it-has-revoked-over-300000-visas-2026-10-20/</link>
+      <pubDate>Tue, 20 Oct 2026 22:35:44 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 22:14:51 GMT</pubDate>
-      <description>Google News</description>
+      <title>Russian drones kill two people near Ukraine&amp;#39;s Kharkiv overnight, governor says</title>
+      <link>https://www.reuters.com/world/europe/russian-drones-kill-two-people-near-ukraines-kharkiv-overnight-governor-says-2026-10-21/</link>
+      <pubDate>Wed, 21 Oct 2026 04:27:41 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>FAA certifies Boeing&apos;s 737 MAX 10, clearing way for deliveries - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzBIbDI0eW5lNzFQYWJEODBXZkQ3MXpXZlJQdVY5X3Z6TGdwQjE1S0NnS0JFQ1RZUkZldjFUbjdndmpEejdtZkxtSDhHZi1VMTc2SGppcWMtTlE5U1haRlJXSEdrT2Rsc28zVGdMQzg5ZUJicW1IY3VwRTdqaC1yeEFqNDBSVkJiNS1wZjFtOUpvSi1ENlRhRncxMDI4bzZlTzJPYlFsNjZnYWx5U3JXRzd1M3ozVEo3RUtJ?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 22:59:36 GMT</pubDate>
-      <description>Google News</description>
+      <title>Suspect in vehicle attack on Australian lawmaker appears in court as police probe motive</title>
+      <link>https://www.reuters.com/world/asia-pacific/man-accused-ramming-car-into-australian-lawmaker-face-three-charges-court-2026-10-20/</link>
+      <pubDate>Wed, 21 Oct 2026 02:13:01 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>United Airlines profit outlook well below estimates, hit by fuel costs - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamVzdE52ZkRRLW1EdjMwNmI3YjV5T3ZIQTFiLWJ1MTZaUE90NWZ5d1RwTDRCWHF4MXpSa0paRlctMFRERG84OF84aWdBdEJYclZONkQ1cVNma0hNd3VjV2dYT25tOG1zZXNFdExMdXJyLVFyNExQdjFuMW9qdS1KSnI5V2FpQUdNNWZuSXBydGFZRl8xODlDWGh3VWdFTjZhTG85b3BoZi1hMmJPQ0NCUjdURkFOVnhRWmpXbnR2dXJydw?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 22:15:14 GMT</pubDate>
-      <description>Google News</description>
+      <title>Alberta votes by large majority to remain part of Canada in boost for Carney</title>
+      <link>https://www.reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19/</link>
+      <pubDate>Tue, 20 Oct 2026 17:20:18 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Trump says he asked Putin to release American Stephen Hubbard - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGhyM09wZ1l5S3NNU1JXanVibmYwN0h2S3hCNUltdDR6ZTk1T2FfdUlhd0dpOE05ZTZsNXA3eDJWTkVyRDNxc3Y0SWV1Wk1FMXMwVVVCd3FjaG1fMXplc2RVS3RKRE5EQTBQUjRocUZ1SVppRFN4c1dRY2VvN3kyQUNSeTQtdEFKTTROVjVDZlA?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 19:31:27 GMT</pubDate>
-      <description>Google News</description>
+      <title>China says it is &amp;#39;safeguarding order&amp;#39; around Taiwan-controlled South China Sea atoll</title>
+      <link>https://www.reuters.com/world/china/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-2026-10-21/</link>
+      <pubDate>Wed, 21 Oct 2026 03:46:26 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Nigeria confirms Ebola case in patient who arrived from Uganda - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOczRmaE4xM1NBWWl0dkZiUFNWc3gyR2pPU05ick11alhPNFpfanVNb3dJLWRCQmFNcDlyU1ZmTi1GQVBHN1VjdVprQ0pvMG8yNC1fYWF6QkpoRnFQY1ZSMlpaa2RZN1liNlJzbWFWNTA5MV9PTFF2RXpSTUFBRDJxaWhxcTNySWFEMnNhRXhHVWVGSldjZGcwOHdPWkJ2QUMtNk1VWTZTSV91VG9tMWo1cFQzd2ZtMVMwUDA0Rg?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 19:08:39 GMT</pubDate>
-      <description>Google News</description>
+      <title>UN experts urge Indian authorities to cease &amp;#39;use of excessive force&amp;#39; to curb protests</title>
+      <link>https://www.reuters.com/world/india/un-experts-urge-indian-authorities-cease-use-excessive-force-curb-protests-2026-10-20/</link>
+      <pubDate>Wed, 21 Oct 2026 00:30:42 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>WWE, McMahons must face sex abuse claims by former &apos;ring boys&apos; - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtScVEydDBkR1pKcXVER1RHMlo4QUFxemNBT1VyaF84MF9pWEFUajB1TmZiNG5Xanh5YjkyN29WVmpadV84Nm9vaGdBNEhnNEZOdm9oZVFxTjJvNjVNX2I0V0JaeXBKaXY4eTRrTTlCOHhTTV9UbHlnakdwbHpBZ2IzSnY4b3hLRFMzRjVsLWdkN2Rkbk9USWxCRm5DX1VDQXVCTERCVmFwcGR0THBKc21R?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 22:31:12 GMT</pubDate>
-      <description>Google News</description>
-    </item>
-  
-    <item>
-      <title>Explainer: Three issues defining the 2026 US midterm elections - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRpTF93cTF0cl9YYWU4bDBNcHRtSmlaR21FemFtZ3BFZkFOWng3NjhtTHhQNWhtSnRUbm5TZTNld3ZUTmxWSDFRVXRzQTNHUElfU0pibVAtQWxPc3NIcjNjWkVnNG5kb24tN0NvU0VCbDl4OFpxRjc3VC1pTlRXb2hrbkVpaGJjRTFSS1p3TTdSclhVX2NF?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 21:23:43 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRpTF93cTF0cl9YYWU4bDBNcHRtSmlaR21FemFtZ3BFZkFOWng3NjhtTHhQNWhtSnRUbm5TZTNld3ZUTmxWSDFRVXRzQTNHUElfU0pibVAtQWxPc3NIcjNjWkVnNG5kb24tN0NvU0VCbDl4OFpxRjc3VC1pTlRXb2hrbkVpaGJjRTFSS1p3TTdSclhVX2NF?oc=5&quot; target=&quot;_blank&quot;&gt;Explainer: Three issues defining the 2026 US midterm elections&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>Trump, Bloomberg ramp up spending ahead of midterms - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0tlOUZjcnFsUU9SS2hFTWtLaFA2Y2NVakM0alMwWEc5a1B0dVZETGNFckF0NWR3cTJsR0c3WDRyYVE4U0ZpWnF6Qjh1cEt2MkZNQ0lzaXRBWDIxNjBzbjBOZzdPZHA1cFoyYkVzdkZqZVpGdkstcVBnZTBpcFRfZUxwUTdveDhzSlFWX2ZqYlUta2xkbFdn?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 18:39:45 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0tlOUZjcnFsUU9SS2hFTWtLaFA2Y2NVakM0alMwWEc5a1B0dVZETGNFckF0NWR3cTJsR0c3WDRyYVE4U0ZpWnF6Qjh1cEt2MkZNQ0lzaXRBWDIxNjBzbjBOZzdPZHA1cFoyYkVzdkZqZVpGdkstcVBnZTBpcFRfZUxwUTdveDhzSlFWX2ZqYlUta2xkbFdn?oc=5&quot; target=&quot;_blank&quot;&gt;Trump, Bloomberg ramp up spending ahead of midterms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>SpaceX investors, ahead of results, press Musk on Tesla merger - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUluMVVLVk9ZUmpHeTZNSkduQVlaYWtydVZ3WEptUWc0SXpqUGZ4ckZmOGM4X3JwY0V0WjJfelhvdWRLRTdZRUdnYUxwM0NRZWZGY0M4blhETWlzVnlQY0JMSEdRZFBDaG5MNW1jck9zaEdQdUs4bzhRSjdaX0xsV0xqN1RjWmRuRzAwMFZxamVNTlNuanFhVExaV3RDMEw2RmtSODg4RzB1RzRERWFz?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 18:34:18 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUluMVVLVk9ZUmpHeTZNSkduQVlaYWtydVZ3WEptUWc0SXpqUGZ4ckZmOGM4X3JwY0V0WjJfelhvdWRLRTdZRUdnYUxwM0NRZWZGY0M4blhETWlzVnlQY0JMSEdRZFBDaG5MNW1jck9zaEdQdUs4bzhRSjdaX0xsV0xqN1RjWmRuRzAwMFZxamVNTlNuanFhVExaV3RDMEw2RmtSODg4RzB1RzRERWFz?oc=5&quot; target=&quot;_blank&quot;&gt;SpaceX investors, ahead of results, press Musk on Tesla merger&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>Revolut says some services back online after outage - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmtxU0llU3JkYXhuYzZuM21hMGt6cUxxM1JWMWFPRWF1UzdGQzk4MlVhYnV1OTRKU0pOWFhTNmRqdzJZU3lzeXF5MWE1RWoweEVSam9rMG5pQUFnX05INkFZRHpVWnVWRUY3OEF0U0NTS2lPVkc5aUNYSFkxbXc5OHFMV1psOTg3LWM1ZC1obkdUZDFTbTVrSXIyblZicFZqNmVCTW1LNA?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 17:21:50 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmtxU0llU3JkYXhuYzZuM21hMGt6cUxxM1JWMWFPRWF1UzdGQzk4MlVhYnV1OTRKU0pOWFhTNmRqdzJZU3lzeXF5MWE1RWoweEVSam9rMG5pQUFnX05INkFZRHpVWnVWRUY3OEF0U0NTS2lPVkc5aUNYSFkxbXc5OHFMV1psOTg3LWM1ZC1obkdUZDFTbTVrSXIyblZicFZqNmVCTW1LNA?oc=5&quot; target=&quot;_blank&quot;&gt;Revolut says some services back online after outage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>NATO to send planes and drones to Black Sea after attacks on shipping - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 16:39:21 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5&quot; target=&quot;_blank&quot;&gt;NATO to send planes and drones to Black Sea after attacks on shipping&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Reuters&lt;/font&gt;</description>
+      <title>UN sees higher global warming, even in best-case scenario</title>
+      <link>https://www.reuters.com/sustainability/cop/un-sees-higher-global-warming-even-best-case-scenario-2026-10-21/</link>
+      <pubDate>Wed, 21 Oct 2026 05:03:47 +0000</pubDate>
+      <description>reuters.com
+
+Please enable JS and disable any ad blocker</description>
     </item>
   
   </channel>

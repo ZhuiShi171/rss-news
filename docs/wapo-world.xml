@@ -2,113 +2,78 @@
 <rss version="2.0">
   <channel>
     <title>Washington Post World</title>
-    <link>https://news.google.com/rss/search?q=site:washingtonpost.com+world&amp;hl=en-US&amp;gl=US&amp;ceid=US:en</link>
+    <link>https://feed.quanwenrss.com/feed/wapo-world.xml</link>
     <description>RSS feed for Washington Post World</description>
-    <lastBuildDate>Wed, 21 Oct 2026 02:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:57:48 GMT</lastBuildDate>
     
     <item>
-      <title>Florida issues arrest warrant for Cuba’s Raúl Castro - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNUENZNE1CbzNpRlFZVWN3V0ttVHk2emxGd2ZsV0JIaXB1X2hTTHM3RHRMMFFyR2NBTnRCbWxKOTJYRHA4VHJqMTZRS25fU2FZMFpuLXJ4WjgyMnJiNEJyV0RidU5abHRESk44R205eVpMaUFPanlhdDZLVjd5N1NjaEk3eTlCRmdiMGtRcmdnYWFmQXM5N25RY2RGZw?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 02:30:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>Russia detains Japanese journalist, alleging espionage</title>
+      <link>https://www.washingtonpost.com/world/2026/10/14/russia-detains-japanese-journalist-alleging-espionage/</link>
+      <pubDate>Wed, 14 Oct 2026 19:15:58 +0800</pubDate>
+      <description>The arrest comes as bilateral relations have sharply deteriorated over the war in Ukraine and the territorial dispute over the Kuril Islands.</description>
     </item>
   
     <item>
-      <title>Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>These common infections can cause cancer. Here’s what can lower your risk.</title>
+      <link>https://www.washingtonpost.com/health/2026/10/13/these-common-infections-can-cause-cancer-heres-what-can-lower-risk/</link>
+      <pubDate>Wed, 14 Oct 2026 17:00:00 +0800</pubDate>
+      <description>Recent research indicates that infectious diseases cause around 12 percent of new cancer cases.</description>
     </item>
   
     <item>
-      <title>Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5</link>
-      <pubDate>Wed, 21 Oct 2026 02:19:31 GMT</pubDate>
-      <description>Google News</description>
+      <title>In which Winnie-the-Pooh turns 100 and Britain wants its bear back</title>
+      <link>https://www.washingtonpost.com/world/2026/10/14/which-winnie-pooh-turns-100-britain-wants-its-bear-back/</link>
+      <pubDate>Wed, 14 Oct 2026 17:06:51 +0800</pubDate>
+      <description>The original bear and his friends are being held at the New York Public Library, against the will of some British fans who say it’s time for them to come home.</description>
     </item>
   
     <item>
-      <title>The world’s best bad art is in Boston - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPMk53Q3dfU2d4bm9lY1JiVWRvQXVrMWFOZGo3cVhla2VfQVNJQU92NENCZFVWOGswR2FMUXhIZ1pHRmJ6QWhtOEZuN0JXbjBKTFN5YV9KWVRXSl9BRDVVV3BQdm13VVI4TXdqOU5vNk5iUjlDbjYxdDRDb0ZvQmwyOWVLMmlPZw?oc=5</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>What to know about pulmonary adenocarcinoma</title>
+      <link>https://www.washingtonpost.com/health/2026/10/13/what-know-about-pulmonary-adenocarcinoma/</link>
+      <pubDate>Wed, 14 Oct 2026 07:26:23 +0800</pubDate>
+      <description>Pope Leo XIV’s doctors discovered lung cancer, prompting the removal of a portion of his right lung.</description>
     </item>
   
     <item>
-      <title>Trump and Zelensky escalate feud as Ukraine war strains alliance - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 06:34:27 GMT</pubDate>
-      <description>Google News</description>
+      <title>Pope Leo enters hospital for surgery on lung nodule</title>
+      <link>https://www.washingtonpost.com/world/2026/10/13/pope-leo-enters-hospital-surgery-lung-nodule/</link>
+      <pubDate>Tue, 13 Oct 2026 19:30:27 +0800</pubDate>
+      <description>Several hundred people gathered at Rome&amp;#39;s Gemelli Hospital before the pope&amp;#39;s operation, news of which had caught many in Vatican City off guard.</description>
     </item>
   
     <item>
-      <title>As Iran war spills over, Saudis and Houthis see fighting as only path ahead - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>India’s Modi faces unprecedented challenge to power as youth mobilize</title>
+      <link>https://www.washingtonpost.com/world/2026/10/13/indias-modi-faces-unprecedented-challenge-power-youth-mobilize/</link>
+      <pubDate>Wed, 14 Oct 2026 00:40:03 +0800</pubDate>
+      <description>Until this month’s “cockroach” protests over changes to India’s voter rolls, the prime minister’s political might went all but unchallenged among the nearly billion-strong electorate.</description>
     </item>
   
     <item>
-      <title>U.K. cracks down on subway riders who crank up the beats - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUx6YzBRelUtSGd6YThpYUpBcjBoOTFYTG9xdmg3T3NsMVVOU2h5SDQ2bTZwTlNGRW1oSlphTGxnNzlfODJvcHdZdGk0RnQ2U3JDR2MtYWVGTzYtTGpZNGtFNi02RXZaSmgzVVMySUs4cEhRTUtUWHk1UUJGWXpial8wWkJLSm45UUlfVHZwUFRxamZSSGVxckJDY0c?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 19:59:23 GMT</pubDate>
-      <description>Google News</description>
+      <title>U.K. intelligence chief warns Iran is shifting plots to ‘harder targets’</title>
+      <link>https://www.washingtonpost.com/world/2026/10/13/uk-intelligence-chief-warns-iran-is-shifting-plots-harder-targets/</link>
+      <pubDate>Tue, 13 Oct 2026 20:58:36 +0800</pubDate>
+      <description>In annual speech on threats, Ken McCallum, the head of MI5, cited a “major shift” in Tehran’s “ambitions” to attack military sites and other high-security targets.</description>
     </item>
   
     <item>
-      <title>The Maya collapse was blamed on drought. The full story is more complicated. - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOVENUREZRaW9aZi10TGVhVW51d1NlVzVGdGFXUVdGSUk0YnJQTFlGaXFRNDNybkd3dHgtVjVyUlBEYTNRZWVHOHRIdFZKOUk2R3dyLTVnZE53cGJBcHI0b2w3WGNmbnhFdkhORUFhb0NyOC1XN05wWEluX1hrVGI2dlhOU1dXRzZHWjlLNm1WUjZnNGtLaXFzSnEyOXJSMHRsNUhSMW1EbkFRcVQzLU56NXN3?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran</title>
+      <link>https://www.washingtonpost.com/world/2026/10/13/saudi-arabia-faces-grave-question-fight-houthis-win-or-push-peace/</link>
+      <pubDate>Tue, 13 Oct 2026 19:39:31 +0800</pubDate>
+      <description>Deadly attacks by Yemen’s rebels have left Saudi leader Mohammed bin Salman juggling security risks and the kingdom’s economic ambitions.</description>
     </item>
   
     <item>
-      <title>World leaders that give me hope - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaEN1akZzSWkwdGRFSHhlRVZMd2t3M2RlV3hvejUzcWE4SGFXQzVNSEtrWTB2QlhYREY2MXB3bEpudU1WaUU3eVRqaEd4X2x1ZXlQWWVxSXE1VzhiVXRLWFVld05Ed2ZzYzh3Y3QtcVRkNG1OSHlkbjlWTzBxUnppMkF3R3IwSmN2TEZhWDVKTXN6cHg3blptbU9BTzM4RllXYTV5VmFZdklJVUpKNF90YkZ6MWc0eXZaV09ySlJtVVZjZ3gzZ2Nsb2NEbXBJdW1tblE?oc=5</link>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Google News</description>
+      <title>U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes</title>
+      <link>https://www.washingtonpost.com/world/2026/10/12/top-us-general-vows-thwart-russia-he-warns-kyiv-stop-attacks/</link>
+      <pubDate>Tue, 13 Oct 2026 07:19:29 +0800</pubDate>
+      <description>The mixed signals expose a split in President Donald Trump’s approach to Russia, amid strain on energy markets.</description>
     </item>
   
     <item>
-      <title>Saudi Arabia postpones ‘Davos of Desert’ conference amid Houthi attacks - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGJYY0p3YnVZTS0xVHVaZkJ0UVhUNl8za1hIcDRZNHNCUXpScUJHbEZRa29vQmtQNHF6aGhXaHBTY1dpOWRSZW12ejAwNjhjeTlOMDFWVC0yVFVSdEpsREVmcERyejU5UmprVVd5Z2FBaUJ2NndLM2pac3BBalZmYV9KLVdOQklPcnVtR3FPREZwRUFLYm1zenVVdkp0MmoxYXNFckptMGhNSjhfc0ttcWNwU0wtdw?oc=5</link>
-      <pubDate>Tue, 20 Oct 2026 02:00:00 GMT</pubDate>
-      <description>Google News</description>
-    </item>
-  
-    <item>
-      <title>Expedition fails to find Amelia Earhart’s plane - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNLW5sY1laR3pTUlN2RzBPQmF5MkdTT3J2a2pLc21QU19nTC1fYVh6RWVseDlXNWZicUZYdUM3cDdMNXprTEQ2WjY5Y3NENVU5SHh1ZXpJVm8wbnJSZVhySnZfeG1BZkt5RjM4WmVkb1drdWM3ZFZDRlNjQzJmUV9aZy1YUU9ndUl5MjRRbDRlOWtDLU43Y3RR?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 19:00:41 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMilwFBVV95cUxNLW5sY1laR3pTUlN2RzBPQmF5MkdTT3J2a2pLc21QU19nTC1fYVh6RWVseDlXNWZicUZYdUM3cDdMNXprTEQ2WjY5Y3NENVU5SHh1ZXpJVm8wbnJSZVhySnZfeG1BZkt5RjM4WmVkb1drdWM3ZFZDRlNjQzJmUV9aZy1YUU9ndUl5MjRRbDRlOWtDLU43Y3RR?oc=5&quot; target=&quot;_blank&quot;&gt;Expedition fails to find Amelia Earhart’s plane&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>4 service members killed, 39 injured in fire at Canadian military base - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTl1SEpmUm8xNExMSmI3UjdmNVMtUUdsUFpLMXU1LWZiVmo3NkFyWldnMWhqVkJiQnA1ZzcybGk0OGxMa0Y4ZUdEWmt1S0xrSU5VZmFoNkJoWnU4cmQ0cTVOV1RUa1hiTHBEb2puT2dndGZvSVFodGMwUV9ROHdqdWNWSUxIX3JrWG5GcEZtdnIxRndENXdDVUNMM2c4VndvS2liU3hmNW1YbnFYMmxPSUk2Y1MydmRYaTBr?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 04:59:52 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTl1SEpmUm8xNExMSmI3UjdmNVMtUUdsUFpLMXU1LWZiVmo3NkFyWldnMWhqVkJiQnA1ZzcybGk0OGxMa0Y4ZUdEWmt1S0xrSU5VZmFoNkJoWnU4cmQ0cTVOV1RUa1hiTHBEb2puT2dndGZvSVFodGMwUV9ROHdqdWNWSUxIX3JrWG5GcEZtdnIxRndENXdDVUNMM2c4VndvS2liU3hmNW1YbnFYMmxPSUk2Y1MydmRYaTBr?oc=5&quot; target=&quot;_blank&quot;&gt;4 service members killed, 39 injured in fire at Canadian military base&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>Israeli settlers attack Palestinians and Washington Post photographer in West Bank - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1p3QWNMcUlFQTQxMVgtX2U3YVhmMzBPcjg3U3RmSXFqc3ljOWxuc3h4MXRtQ0tYQkk5RjZYblBWdDVGM3hTcmlwaDRLZ1BRNWJOU1JTam80SmFWMTNYNks2X2V2TURDQmoxZWo1X1h5MnpocVdVRGpWUnI4dGRWM3BmTEh5WWU5cl9mdkhRTldqc2hSSlZrV3hKSE1rdFMzNENJbVdmeEZtWDFmRVE?oc=5</link>
-      <pubDate>Sat, 17 Oct 2026 00:09:55 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1p3QWNMcUlFQTQxMVgtX2U3YVhmMzBPcjg3U3RmSXFqc3ljOWxuc3h4MXRtQ0tYQkk5RjZYblBWdDVGM3hTcmlwaDRLZ1BRNWJOU1JTam80SmFWMTNYNks2X2V2TURDQmoxZWo1X1h5MnpocVdVRGpWUnI4dGRWM3BmTEh5WWU5cl9mdkhRTldqc2hSSlZrV3hKSE1rdFMzNENJbVdmeEZtWDFmRVE?oc=5&quot; target=&quot;_blank&quot;&gt;Israeli settlers attack Palestinians and Washington Post photographer in West Bank&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>Israeli police arrest 10 in connection with West Bank assaults - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW1fMXdJYklFMTZFQ0NtVHpyem0tMjJkeU1EVkNLeEVSLVBmZ2l0QVItaVRrUzA4eHZVVTh3ZTBHa0xJUU9LVHZ0alBaZEo4NDZzWS1qWU1EUU1zcGhjRklQV0ZkT1hvYXhLckxFLTNCNW8zbV9lOTBlSGRNWTRRMEdVaFhGb1ZNMXB2U2JtcVpZVlFDRzBranlpRTdCWF9YOFdTS21KdnlfSFdCWDY4UWlyNm5DbXQwcnpzd01ray1IOVI5SXBrZ2ln?oc=5</link>
-      <pubDate>Mon, 19 Oct 2026 17:35:41 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW1fMXdJYklFMTZFQ0NtVHpyem0tMjJkeU1EVkNLeEVSLVBmZ2l0QVItaVRrUzA4eHZVVTh3ZTBHa0xJUU9LVHZ0alBaZEo4NDZzWS1qWU1EUU1zcGhjRklQV0ZkT1hvYXhLckxFLTNCNW8zbV9lOTBlSGRNWTRRMEdVaFhGb1ZNMXB2U2JtcVpZVlFDRzBranlpRTdCWF9YOFdTS21KdnlfSFdCWDY4UWlyNm5DbXQwcnpzd01ray1IOVI5SXBrZ2ln?oc=5&quot; target=&quot;_blank&quot;&gt;Israeli police arrest 10 in connection with West Bank assaults&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
-    </item>
-  
-    <item>
-      <title>The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5</link>
-      <pubDate>Sun, 15 Feb 2009 07:10:00 GMT</pubDate>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5&quot; target=&quot;_blank&quot;&gt;The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Washington Post&lt;/font&gt;</description>
+      <title>U.K. prime minister accuses Russia of meddling in Brexit vote</title>
+      <link>https://www.washingtonpost.com/world/2026/10/12/uk-prime-minister-accuses-russia-meddling-brexit-vote/</link>
+      <pubDate>Tue, 13 Oct 2026 01:05:55 +0800</pubDate>
+      <description>Officials scrambled to clarify that Andy Burnham’s remarks did not mean the government rejected the outcome of the controversial 2016 referendum.</description>
     </item>
   
   </channel>

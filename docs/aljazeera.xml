@@ -4,17 +4,17 @@
     <title>Al Jazeera</title>
     <link>https://www.aljazeera.com/xml/rss/all.xml</link>
     <description>RSS feed for Al Jazeera</description>
-    <lastBuildDate>Wed, 21 Oct 2026 02:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:54:57 GMT</lastBuildDate>
     
     <item>
-      <title>UN experts call on India to stop using ‘excessive force’ against protesters</title>
-      <link>https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss</link>
-      <pubDate>Wed, 21 Oct 2026 01:43:38 +0000</pubDate>
+      <title>Anthropic posts $80bn loss in first half of 2026: WSJ</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 05:33:20 +0000</pubDate>
       <description>Listen
 
 Listen (3 mins)
 
-SaveShare UN experts call on India to stop using ‘excessive force’ against protesters on social mediashare-nodes
+SaveShare Anthropic posts $80bn loss in first half of 2026: WSJ on social mediashare-nodes
 
 Sharefacebook
 
@@ -28,362 +28,452 @@ google
 
 Add Al Jazeera on Googleinfo
 
-Police officers detain a demonstrator during a protest in New Delhi, India, on October 16, 2026 [Ritesh Shukla/Getty Images]By Al Jazeera Staff and ReutersPublished On 21 Oct 202621 Oct 2026
+Anthropic logo and a keyboard in this illustration taken on October 19, 2026 [Dado Ruvic/Illustration/Reuters]By Al Jazeera Staff and ReutersPublished On 21 Oct 202621 Oct 2026
 
-UN experts have called on the Indian government to stop the use of “excessive force” in the wake of the crackdown on opposition and student protests in India.
+Anthropic, the artificial intelligence (AI) company known for creating the chatbot Claude, recorded a net loss of more than $80bn in the first half of 2026, according to the Wall Street Journal, as the market anticipates its looming initial public offering (IPO).
 
-In a statement on Tuesday, the two dozen independent experts pressed for an impartial investigation into Indian authorities’ conduct, saying that demonstrators had sustained injuries and some reported being subjected to ill-treatment.
+The corporation also indicated it could spend up to $750bn in coming years to acquire more computing capacity, including potential deals currently under discussion, the Journal said on Tuesday.
 
 Recommended Stories 
-list of 3 itemslist 1 of 3At least 19 killed in stampede at religious gathering in Indialist 2 of 3AI tool helps stranded protesters find their way home in the Indian capitallist 3 of 3Indian court extends detention of ‘Cockroach’ leadersend of list
+list of 3 itemslist 1 of 3Why are eight US states suing OpenAI?list 2 of 3AI tool helps stranded protesters find their way home in the Indian capitallist 3 of 3Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutorend of list
 
-“Protesters have sustained injuries, with some reporting being subjected to ill-treatment. The experts expressed particular concern about reports of sexual violence and other forms of gender-based abuse in the protests and related detentions,” according to the statement.
+The main driver for the loss was the $72bn in accounting charges related to changes in the value of convertible notes and other financial instruments Anthropic issued to raise funding, the report said.
 
-UN experts are appointed by the UN Human Rights Council to monitor and document specific human rights crises but are independent of the organisation itself.
+The loss figure was up from $13bn a year earlier, according to a draft prospectus, a legal document corporations submit to financial regulators, for its IPO.
 
-India’s Cockroach Janta Party (CJP), along with other opposition parties and student organisations, has led protests this month demanding Chief Election Commissioner Gyanesh Kumar’s resignation, after 130 million names were removed from voter lists.
+The figures show the hefty costs of the AI race, even as investors look more closely at whether the money companies are pouring into chips and data centres will pay off.
 
-The protesting groups said the removal disproportionately affected poor and homeless people as well as ethnic minorities including Muslims, who are unlikely to vote for Prime Minister Narendra Modi’s Hindu nationalist Bharatiya Janata P...</description>
+Anthropic also shared a list of potential risk factors, including uncertainty over how to prevent its products from doing harm, whether through sophisticated cyberattacks or blackmail by uncontrolled models.
+
+Anthropic did not respond to a request for comment, and the report on the non-public information could not be immediately verified.
+
+		
+
+						
+
+Invest...</description>
+    </item>
+  
+    <item>
+      <title>OpenAI says its agents turned off own safeguards</title>
+      <link>https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 05:30:50 +0000</pubDate>
+      <description>Listen
+
+Listen (3 mins)
+
+SaveShare OpenAI says its agents turned off own safeguards on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+Attendees gather at OpenAI DevDay 2026 in San Francisco, the United States, on September 29, 2026 [File: Jeff Chiu/AP Photo]By John PowerPublished On 21 Oct 202621 Oct 2026
+
+OpenAI has revealed that its AI agents disabled monitoring for unsanctioned behaviour during internal use in the latest incident of the frontier technology going rogue.
+
+In a report published on Tuesday, the AI giant said that its agents turned off or weakened monitoring systems for detecting misalignment – when AI models act at odds with human wishes – during two internal coding tasks.
+
+Recommended Stories 
+list of 4 itemslist 1 of 4Musk confirms SpaceX and Tesla exploring mergerlist 2 of 4UN experts call on India to stop using ‘excessive force’ against protesterslist 3 of 4Drone strike on Abyei market near Sudan-South Sudan border kills 150list 4 of 4Portugal cost-of-living protesters pour back into camps cleared by policeend of list
+
+The incidents involved a GPT-6.1 Sol agent disabling automatic alerts to the company’s security team, and a GPT-6 Astra agent removing a monitoring system and falsely claiming it had not done so, OpenAI said.
+
+The ChatGPT creator said neither case met the threshold for a highest-priority incident necessitating immediate review by its security team.
+
+OpenAI said it updated its systems to better detect attempts to disable misalignment monitoring and began investigating the cause.
+
+“It is possible that this behavior is simply an example of ‘benign’ overpersistence, with models not understanding why monitoring is important or insisting that instructions be executed beyond what a reasonable person might expect,” the San Francisco-based firm said.
+
+“We are also developing evaluations to test whether models might have a propensity to evade misalignment monitoring in particular a...</description>
+    </item>
+  
+    <item>
+      <title>Which countries and players have won the most Ballon d’Or awards?</title>
+      <link>https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 05:29:28 +0000</pubDate>
+      <description>Listen
+
+Listen (7 mins)
+
+SaveShare Ballon d’Or: Which countries and players have won the most awards? on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+The 2026 Ballon d&apos;Or&apos;s 30-player shortlist features three former winners: eight-time winner and Argentinian icon Messi, holder Ousmane Dembele of France, and 2024 winner and Spanish midfielder Rodri. [Benoit Tessier/Reuters]By Al Jazeera StaffPublished On 21 Oct 202621 Oct 2026
+
+With less than a week until the winners of the Ballon d’Or awards are announced, speculation is growing over who will claim this year’s coveted prize in the star-studded men’s category.
+
+While veteran stars like Harry Kane, record-breaking winner Lionel Messi and teen talent Lamine Yamal are favourites, the award has been notoriously unpredictable.
+
+Recommended Stories 
+list of 4 itemslist 1 of 4UEFA demands FIFA release key documents on World Cup sell-off planlist 2 of 4Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticismlist 3 of 4Champions League: PSG host Barcelona as tensions run high in Parislist 4 of 4Ronaldo banned for 30 days, fined $285 over spat with coach Jesusend of list
+
+Organisers say the trophy is awarded based on three criteria, in order of importance:
+Individual performances, decisive and impressive character
+Collective performances and titles won
+Class and fair play
+
+Shortlisted candidates will be judged for their performances between August 3, 2025 and July 19, 2026 – the day of this year’s World Cup final.
+
+The 30-player shortlist features three former winners: eight-time winner and Argentinian icon Messi, holder Ousmane Dembele of France, and 2024 winner and Spanish midfielder Rodri.
+
+Al Jazeera Sport takes a look at which countries have won the most Ballon d’Or awards since the men’s prize was created in 1956:
+
+Argentina — 8
+
+All of Argentina’s Ballon d’Or trophies have been won by one of the all-time football greats, Messi, who announced...</description>
+    </item>
+  
+    <item>
+      <title>Far from fringe: How Israel’s mainstream parties vote with the far right</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 05:24:49 +0000</pubDate>
+      <description>Listen
+
+Listen (10 mins)
+
+SaveShare Far from fringe: How Israel’s mainstream parties vote with the far right on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+By Hanna Duggal and Mohammed HaddadPublished On 21 Oct 202621 Oct 2026
+
+Israelis head to the polls on October 27 in the first election since the genocide in Gaza and the wars on Lebanon and Iran, a vote widely seen as a referendum on Prime Minister Benjamin Netanyahu’s rule.
+
+Since the start of the war on Gaza in October 2023, Israel’s parliament, known as the Knesset, has passed or advanced a wave of laws and motions affecting Palestinians, from rejecting their statehood and backing annexation of the occupied West Bank to cutting off the aid they receive.
+
+Israel’s Jewish-led opposition casts itself as the alternative to Netanyahu’s right-wing government, but when it comes to Palestinians, the two often vote as one.
+
+What do left and right mean in Israel?
+
+Left and right are the most common way of mapping where parties stand on a political spectrum. The left generally favours more state spending and is more liberal on immigration and minority rights. The right generally favours lower taxes, tighter borders and a cohesive national identity.
+
+In Israel, the labels work differently. They are defined less by economics than by the conflict with Palestinians. Broadly, the left has been associated with territorial compromise and negotiations, and the right with opposing a Palestinian state and supporting the growth of illegal settlements.
+
+Israel’s political spectrum as a whole has shifted right, with once-fringe positions on Palestinians now very much the mainstream view. According to Palestinian political analyst Ehab Jabareen, much of Jewish Israeli politics now works from “assumptions that would have been treated as right-wing a generation ago”. Advertisement 
+
+The chart below shows generally where each party sits on that spectrum today.(Al Jazeera)
+
+I...</description>
+    </item>
+  
+    <item>
+      <title>Pro-Modi leader burns cockroach effigy to taunt youth protesters</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 05:18:08 +0000</pubDate>
+      <description>Toggle Play
+
+Pro-Modi leader burns cockroach effigy to taunt youth protesters
+
+A cockroach effigy was burnt in New Delhi marking the Hindu festival of Dussehra, which celebrates the triumph of good over evil. The ruling BJP party event, attended by Prime Minister Modi, coincides with nationwide protests by the Cockroach Janta Party.Published On 21 Oct 202621 Oct 2026
+
+SaveShare Pro-Modi leader burns cockroach effigy to taunt youth protesters on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo</description>
+    </item>
+  
+    <item>
+      <title>Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 04:58:03 +0000</pubDate>
+      <description>Listen
+
+Listen (2 mins)
+
+SaveShare Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+play video
+
+play video
+
+Video Duration 02 minutes 28 seconds play-arrow
+
+02:28
+
+Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debateBy Al Jazeera Staff and AFPPublished On 21 Oct 202621 Oct 2026
+
+Both candidates for the Brazilian presidency have called for the disqualification of their rivals over allegations of social media interference, ramping up political drama ahead of the close-fought October 25 runoff election.
+
+Brazil’s right-wing presidential candidate Flavio Bolsonaro has requested the annulment of the candidacy of his rival, President Luiz Inacio Lula da Silva, over what he called unlawful propaganda.
+
+Recommended Stories 
+list of 3 itemslist 1 of 3Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debatelist 2 of 3Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatmentlist 3 of 3Lula challenges Bolsonaro to release personal records before electionend of list
+
+Lawyers for Bolsonaro filed a request with the Superior Electoral Court on Tuesday, alleging Lula’s “abuse of power” in the mass dissemination of government postings during the campaign period via WhatsApp.
+
+Bolsonaro’s camp claimed the Brazilian government sent mass messages to millions of Brazilians via the messaging service, promoting social programmes, benefits and government initiatives in the midst of the presidential race, Brazilian media reported.
+
+The request to the electoral court seeks to declare Lula and Social Communications Minister Sidonio Palmeira ineligible to hold public office for a period of eight years.
+
+		
+
+						
+
+‘Algorithmic manipulation’
+
+In the other camp, Lula’s campaign said on Tuesday that it would request the disqualification of Bolsonaro on Wednesday over alleged election interference by WhatsApp ...</description>
+    </item>
+  
+    <item>
+      <title>Italy approves sweeping security measures in response to protests</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 04:13:00 +0000</pubDate>
+      <description>Listen
+
+Listen (3 mins)
+
+SaveShare Italy approves sweeping security measures in response to protests on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+Anti-riot police clash with demonstrators during an anti-government protest organised by the Italia in Piazza movement at Piazza Duomo in Milan on October 17, 2026 [Piero Cruciatti/AFP]By AFP and ReutersPublished On 21 Oct 202621 Oct 2026
+
+Italy has approved the deployment of troops and tougher legal penalties in a bid to quell cost-of-living protests in the north of the country that occasionally turned violent over the weekend.
+
+The Italian cabinet on Tuesday approved sending 500 troops to Milan, a new legal offence covering violent participation in a demonstration, tougher penalties for rioters and financial liability for parents whose children take part in vandalism and looting.
+
+Recommended Stories 
+list of 3 itemslist 1 of 3How has the cost of living changed in France, Italy, Spain and Portugal?list 2 of 3France’s growing debt woes: How bond markets set countries’ borrowing costslist 3 of 3Portugal cost-of-living protesters pour back into camps cleared by policeend of list
+
+Italy’s Ministry of Defence said the military will help reinforce security at key sites, step up surveillance of sensitive locations and enhance monitoring.
+
+Unrest swept northern Italian cities at the weekend, including the financial capital Milan, where groups of mainly young people looted shops, smashed windows and clashed with the police. The demonstrations were driven by anger over soaring fuel and energy prices, high rents, low wages and the state of public services.
+
+Public safety
+
+As part of the new legal measures, which take effect immediately, anyone who takes part in a group of at least five people and endangers public safety during protests faces up to five years in prison and a maximum fine of €20,000 ($22,460).
+
+Penalties increase if faces are concealed or people are in...</description>
+    </item>
+  
+    <item>
+      <title>Elon Musk says SpaceX and Tesla exploring largest merger in history</title>
+      <link>https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 03:51:39 +0000</pubDate>
+      <description>Listen
+
+Listen (3 mins)
+
+SaveShare Elon Musk says SpaceX and Tesla exploring largest merger in history on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+Elon Musk speaks at the Viva Technology conference dedicated to innovation and startups at the Porte de Versailles exhibition centre in Paris, France, on June 16, 2023 [Gonzalo Fuentes/Reuters]By John PowerPublished On 21 Oct 202621 Oct 2026
+
+Elon Musk has revealed that SpaceX and Tesla are exploring a possible merger, a tie-up that would create a corporate colossus worth more than $3 trillion.
+
+Musk said on Tuesday that his two largest companies had established special committees to explore a merger.
+
+Recommended Stories 
+list of 4 itemslist 1 of 4NATO to send additional patrol planes to Black Sea after drone attackslist 2 of 4Moment plane crashes on a busy highway in the USlist 3 of 4King Charles welcomes Omani sultan, hails peace efforts in UK state visitlist 4 of 4One year on: Has Kenya’s opposition lost its way without Raila Odinga?end of list
+
+The SpaceX and Tesla CEO said the idea had a “lot of merit”, given the companies’ complementary work on artificial intelligence, but the committees had not come to any agreement on a proposal.
+
+“They’ve got to come up with something, and then that’s got to be put to the shareholders as a vote,” Musk said on a SpaceX earnings call.
+
+Musk, the world’s richest man with a net worth of more than $900bn, said that a merger would need to clear the “high hurdle” of a 50 percent vote among Tesla shareholders
+
+“Some people out there assume that a SpaceX and Tesla merger is a certainty, and I think that would be overstating it,” Musk said.
+
+“Do I think it would be a good idea? Yes. But at the end of the day, the shareholders have to be supportive of this.”
+
+Biggest corporate merger ever
+
+A SpaceX-Tesla merger would rank as the biggest corporate tie-up in history, far exceeding the $1.25 trillion union between SpaceX and x...</description>
+    </item>
+  
+    <item>
+      <title>Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 03:02:29 +0000</pubDate>
+      <description>Listen
+
+Listen (4 mins)
+
+SaveShare Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+Yucatan state, Mexico [File: Lorenzo Hernandez/Reuters]By Al Jazeera Staff and ReutersPublished On 21 Oct 202621 Oct 2026
+
+Faecal bacteria are contaminating water in wells and sinkholes in Mexico’s Yucatan state, which are a vital source of drinking water, according to a report by Greenpeace, a global environmental organisation.
+
+The report, published on Tuesday, said nearby pig farms and municipal wastewater were likely sources of the pollution in the southeastern coastal state.
+
+Recommended Stories 
+list of 3 itemslist 1 of 3Mexico prison clash in strife-torn Sinaloa state leaves 10 deadlist 2 of 3How AI is helping Mexico detect breast cancer earlierlist 3 of 3Brazil’s Amazon deforestation hits lowest level on recordend of list
+
+“A range of chemical and microbiological indicators reveal a complex mosaic of severe, localised organic pollution,” it said.
+
+Greenpeace called for an immediate moratorium on new industrial livestock operations and farm expansions in the peninsular state, which was once home to the ancient Maya civilisation.
+
+With no above-ground rivers, groundwater is the Yucatan’s only freshwater source, and the area’s porous limestone bedrock lets pollutants quickly seep into the aquifer.
+
+Laboratory results
+
+The global environmental watchdog group commissioned an independent laboratory to test water at 17 sites near the state capital, Merida, in August.
+
+The sites included household and farm wells, community water points and cenotes, the natural sinkholes that dot the Yucatan Peninsula, which is one of Mexico’s most popular tourist destinations.
+
+According to the report, every sample showed some degree of contamination likely linked to faecal waste, and several sites appeared heavily polluted. Total coliform bacteria reached the test’s...</description>
+    </item>
+  
+    <item>
+      <title>Portugal cost-of-living protesters pour back into camps cleared by police</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 02:19:06 +0000</pubDate>
+      <description>Listen
+
+Listen (3 mins)
+
+SaveShare Portugal cost-of-living protesters pour back into camps cleared by police on social mediashare-nodes
+
+Sharefacebook
+
+x
+
+whatsapp-stroke
+
+copylink
+
+google
+
+Add Al Jazeera on Googleinfo
+
+Dozens of tents are pictured during a protest against a housing shortage at Rossio Square in central Lisbon late on October 19, 2026 [AFP]By Al Jazeera Staff and ReutersPublished On 21 Oct 202621 Oct 2026
+
+Thousands of protesters have returned to two central squares in Portugal for demonstrations against an intensifying housing crisis, hours after police cleared their camps in the capital, Lisbon, and the city of Porto, arresting 55 people.
+
+Activists have demanded the centre-right government withdraw a bill that makes evictions easier and ends rent caps on new leases, which passed a first parliamentary reading.
+
+Recommended Stories 
+list of 3 itemslist 1 of 3Protests spread across France as ‘yellow vests’ set to joinlist 2 of 3Cost of living protests hit Belgium, Italy, Portugal and Francelist 3 of 3How has the cost of living changed in France, Italy, Spain and Portugal?end of list
+
+The demonstrators in Lisbon sought to rebuild their sit-in camp at Rossio Square on Tuesday, while those in Porto were returning to the northern city’s Dom Joao I Square.
+
+Organisers said more than 1,000 people had gathered at each square. Activists have occupied Lisbon’s Rossio Square since Saturday, pitching around 200 tents, and Porto’s Dom Joao I Square for around 10 days.A picture taken on October 19, 2026, shows a tent with a sign reading “Evicted by the State – Evicted by the climate – End to the evictions” at Rossio Square in central Lisbon [AFP]
+
+‘Enough is enough’
+
+Debora Miranda, 41, a communications consultant, told Reuters she joined the Rossio Square protest to represent generations struggling with soaring costs. “If people don’t feel at home, in every sense of the word, they can’t move forward with their lives…enough is enough.”
+
+The camps mirrored housing...</description>
+    </item>
+  
+    <item>
+      <title>Drone strike on Abyei market near Sudan-South Sudan border kills 150</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 02:18:10 +0000</pubDate>
+      <description>Drone strike on Abyei market near Sudan-South Sudan border kills 150</description>
+    </item>
+  
+    <item>
+      <title>UN experts call on India to stop using ‘excessive force’ against protesters</title>
+      <link>https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 01:43:38 +0000</pubDate>
+      <description>UN experts press for an ⁠independent investigation into Indian authorities&apos; conduct.</description>
     </item>
   
     <item>
       <title>Musk confirms SpaceX and Tesla exploring merger</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss</link>
       <pubDate>Wed, 21 Oct 2026 01:19:22 +0000</pubDate>
-      <description>Toggle Play
-
-Musk confirms SpaceX and Tesla exploring merger
-
-Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company. He confirmed special committees have been formed to consider the idea.Published On 21 Oct 202621 Oct 2026
-
-SaveShare Musk confirms SpaceX and Tesla exploring merger on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo</description>
+      <description>Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.</description>
     </item>
   
     <item>
       <title>US jails Guatemalan man for 30 years over deadly smuggling operation</title>
       <link>https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss</link>
       <pubDate>Wed, 21 Oct 2026 01:01:25 +0000</pubDate>
-      <description>Listen
-
-Listen (4 mins)
-
-SaveShare US jails Guatemalan man for 30 years over deadly smuggling operation on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo
-
-Police and first responders at the scene of an abandoned tractor-trailer filled with migrants on June 27, 2022, in San Antonio, Texas [File: Eric Gay/AP Photo]By The Associated PressPublished On 21 Oct 202621 Oct 2026
-
-A Guatemalan man has been sentenced to 30 years in a United States prison for his role in a human-smuggling operation that killed 53 migrants trapped in a truck – a disaster that had been described as one of the deadliest such incidents along the US-Mexico border in recent history.
-
-US District Judge Orlando Garcia handed 39-year-old Rigoberto Ramon Miranda-Orozco a 30-year prison term on Tuesday, more than a year after his extradition from Guatemala in March 2025.
-
-Recommended Stories 
-list of 4 itemslist 1 of 4Two more men plead guilty in US for deadly 2021 human-smuggling truck crashlist 2 of 4The deadly business of migrant smugglinglist 3 of 4Texas migrant deaths: Families anxious amid efforts to ID victimslist 4 of 4‘Horrific tragedy’: At least 50 people found dead in Texas truckend of list
-
-He was first arrested in Guatemala in August 2024, as part of a cross-border effort to dismantle the human-smuggling network.
-
-The charges stem from a fatal incident on June 27, 2022. According to the US Department of Justice, emergency crews discovered dozens of people trapped inside an abandoned truck in a remote area on the southern outskirts of San Antonio, Texas.
-
-A total of 64 migrants had endured a lengthy journey that began in Guatemala and continued through Mexico across the border into the US.
-
-By the time the truck was driving from Laredo, Texas, to San Antonio – a distance of 250km (155 miles) – prosecutors say the air conditioning had stopped functioning. When the truck was discovered, temperatures were approaching 32C (90F).
-
-Forty-ei...</description>
+      <description>The 2022 incident resulted in the deaths of 53 migrants trapped inside a tractor-trailer in dangerously high heat.</description>
     </item>
   
     <item>
       <title>Why former FDLR fighters are returning to Rwanda</title>
       <link>https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss</link>
       <pubDate>Wed, 21 Oct 2026 00:25:43 +0000</pubDate>
-      <description>Listen
-
-Listen (7 mins)
-
-SaveShare Why former FDLR fighters are returning to Rwanda on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo
-
-The Mutobo Demobilisation and Reintegration Centre in northern Rwanda, where former fighters undergo rehabilitation and prepare to return to civilian life [Layth Mushtaq/Al Jazeera]By Layth MushtaqPublished On 21 Oct 202621 Oct 2026
-
-Musanze, Rwanda – Jean Claude Hategekimana feared that returning to Rwanda could cost him his life. After years with the Democratic Forces for the Liberation of Rwanda (FDLR), he decided to leave the armed group and return home. At Rwanda’s Mutobo Demobilisation and Reintegration Centre, he began preparing for civilian life.
-
-Born in 1996 in Rutsiro District, in western Rwanda, Hategekimana moved to the Democratic Republic of the Congo (DRC) with his parents and grew up in an area controlled by the FDLR. He joined the group in 2018, underwent military training and eventually reached the rank of captain.
-
-“I arrived at the Mutobo Centre after fighting to defend Goma. Following our defeat, I fled to Masisi. After realising that I was fighting for nothing, I decided to return to Rwanda. I came back on February 24,” he told Al Jazeera.Captain Jean-Claude Hategekimana, a former FDLR fighter who returned to Rwanda in February 2026 and entered the Mutobo Demobilisation and Reintegration Centre [Layth Mushtaq/Al Jazeera]
-
-Hategekimana said FDLR members had been taught that anyone who returned to Rwanda would be killed.
-
-“Upon arriving in Rwanda, I realised that the FDLR had been lying to us. For me, returning home felt like embarking on a suicide mission,” he said.
-
-His experience illustrates the challenge of reintegrating former fighters whose beliefs and fears have been shaped by years in an armed group.
-
-Rebuilding civilian life
-
-Francis Musoni, secretary-general of the Rwanda Demobilisation and Reintegration Commission, said the Mutobo centre, locat...</description>
-    </item>
-  
-    <item>
-      <title>One year on: Has Kenya’s opposition lost its way without Raila Odinga?</title>
-      <link>https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss</link>
-      <pubDate>Wed, 21 Oct 2026 00:22:19 +0000</pubDate>
-      <description>Listen
-
-Listen (9 mins)
-
-SaveShare One year on: Has Kenya’s opposition lost its way without Raila Odinga? on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo
-
-Raila Odinga’s legacy continues to shape debates over ODM’s cooperation with President William Ruto and the future of Kenya’s opposition [Ben Curtis/AP] (AP)By Vivianne WanderaPublished On 21 Oct 202621 Oct 2026
-
-Nairobi, Kenya – One year after Raila Odinga’s death, the political movement he led for decades is struggling to define its future. Within the Orange Democratic Movement (ODM), a bitter dispute over cooperation with President William Ruto has exposed divisions over the party’s identity and independence. The struggle raises a question that extends beyond ODM’s leadership: Can Kenya’s opposition remain a credible force without the man who helped shape it?
-
-Raila’s death prompted tributes and commemorations celebrating a political career defined by the struggle for multiparty democracy, constitutional reform, freedom of expression and social justice. Yet the divisions now confronting his party reveal the difficulty of sustaining a political movement built around one dominant figure. His legacy remains a source of inspiration, but also a point of contention over what ODM should stand for and how it should exercise power.
-
-At the centre of the dispute is ODM’s relationship with Ruto’s administration. The removal of Secretary-General Edwin Sifuna, who opposed closer cooperation with the president, has become a flashpoint in a wider struggle over the party’s direction. The disagreement is about more than personalities: It raises questions about whether ODM can work with the government while retaining the independence to challenge it.
-
-A vacuum at the heart of the opposition
-
-For decades, Raila occupied a central place in Kenya’s reform movements, challenging successive governments and campaigning for political change. To his supporters, he represented...</description>
-    </item>
-  
-    <item>
-      <title>King Charles welcomes Omani sultan, hails peace efforts in UK state visit</title>
-      <link>https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss</link>
-      <pubDate>Wed, 21 Oct 2026 00:08:25 +0000</pubDate>
-      <description>Listen
-
-Listen (2 mins)
-
-SaveShare King Charles welcomes Omani sultan, hails peace efforts in UK state visit on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo
-
-Britain’s King Charles III delivers a speech at a state banquet at Windsor Castle on October 20, 2026, the first day of the sultan of Oman’s three-day state visit to the United Kingdom [AFP]By Al Jazeera Staff and AFPPublished On 21 Oct 202621 Oct 2026
-
-Britain’s King Charles III has welcomed Oman’s Sultan Haitham bin Tariq for a state visit, praising the Gulf Arab monarch’s efforts to broker peace in the region.
-
-Haitham bin Tariq said his country has chosen the path of diplomacy in a region rife with conflict, following a day of ceremonies including a reception by a red-uniformed military honour guard at Windsor Castle.
-
-Recommended Stories 
-list of 3 itemslist 1 of 3Tourists face legal action over turtle-riding video in Omanlist 2 of 3US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’list 3 of 3Oman evacuates injured crew from attacked tanker in Strait of Hormuzend of list
-
-“In a region that has known too much conflict, Oman has chosen a different path, an independent path,” the Omani ruler said during a state banquet on Tuesday.
-
-“Britain has been a friend on this path and has stood beside us in this duty,” he added.
-
-King Charles III praised Oman’s peacemaking attempts in the Middle East, paying tribute to Muscat’s “noble efforts” to help reopen the choked Strait of Hormuz.
-
-“I would especially like to recognise, at a time when conflict has returned so painfully to the region, Oman’s enduring commitment as a trusted interlocutor to all parties,” Charles told about 160 guests at the lavish dinner.
-
-“Oman’s role across the Gulf and her ‘constructive neutrality’, as you put it, matters far beyond Hormuz, and is worthy of our utmost respect,” Britain’s king added in a toast to the Omani sultan.
-
-First in 44 years
-
-The sultan’s visit...</description>
-    </item>
-  
-    <item>
-      <title>Iran war live: US warns peace deal with Tehran is extremely difficult</title>
-      <link>https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.</description>
-    </item>
-  
-    <item>
-      <title>Moment plane crashes on a busy highway in the US</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 23:54:50 +0000</pubDate>
-      <description>Toggle Play
-
-Moment plane crashes on a busy highway in the US
-
-Newly released dashcam video captured the moment a plane crashed on a busy highway in San Jose, California. The three passengers on the plane walked away with minor injuries.Published On 20 Oct 202620 Oct 2026
-
-SaveShare Moment plane crashes on a busy highway in the US on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo</description>
-    </item>
-  
-    <item>
-      <title>NATO to send additional patrol planes to Black Sea after drone attacks</title>
-      <link>https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 23:19:52 +0000</pubDate>
-      <description>Listen
-
-Listen (2 mins)
-
-SaveShare NATO to send additional patrol planes to Black Sea after drone attacks on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo
-
-A cargo ship is pictured in the Black Sea off Krapets, Bulgaria, on October 14, 2026, a day after suspected Russian drones struck two cargo ships off the country&apos;s coast [AFP]By Al Jazeera Staff, AFP and ReutersPublished On 20 Oct 202620 Oct 2026
-
-NATO is deploying additional patrol aircraft and intelligence personnel to the Black Sea, a spokesman for the alliance said, after a series of deadly drone attacks in the region widely blamed on Russia but denied by the Kremlin.
-
-“Allies have or will send additional maritime patrol aircraft, radar systems, explosive exploitation teams, intelligence personnel, drones and more to the Black Sea,” said Colonel Martin O’Donnell on Tuesday.
-
-Recommended Stories 
-list of 3 itemslist 1 of 3NATO says will do ‘anything and everything’ if alliance is attackedlist 2 of 3‘Block, blunt, break’: What’s in NATO’s new Russia war plan?list 3 of 3Will NATO’s ‘theory of victory’ work?end of list
-
-“The most important thing we can do, however, is to increase our situational awareness in the region through increased sensors and data sharing,” he added.
-
-NATO, along with Bulgaria and Romania, has not directly attributed the recent spate of attacks to any country. Military analysts have said Russia almost certainly carried out the attacks but Moscow has not acknowledged any responsibility.
-
-In an attack on October 5, Romania reported two people dead after their ship caught fire and sank in Black Sea waters. Ukraine’s President Volodymyr Zelenskyy accused Moscow of being responsible.
-
-The announcement came after NATO’s main decision-making body, the North Atlantic Council, discussed security in the Black Sea at the alliance’s Brussels headquarters.
-
-“NATO has already strengthened our posture along the eastern flank, including with coun...</description>
-    </item>
-  
-    <item>
-      <title>The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion</title>
-      <link>https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 22:51:35 +0000</pubDate>
-      <description>Listen
-
-Listen (2 mins)
-
-SaveShare The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion on social mediashare-nodes
-
-Sharefacebook
-
-x
-
-whatsapp-stroke
-
-copylink
-
-google
-
-Add Al Jazeera on Googleinfo
-
-The Gambia’s former leader Yahya Jammeh, top, wearing white, waves to supporters at Banjul airport as he leaves the country for exile [File: Jerome Delay/AP]By AFP and APPublished On 20 Oct 202620 Oct 2026
-
-Gambian authorities have announced that funds from the sale of the country’s former president’s mansion in the United States would be used to pay reparations to victims of his rule.
-
-The Gambia Reparations Commission confirmed Tuesday that it received just more than $2.5m from the sale of a property in the wealthy Washington, DC suburb of Potomac, Maryland, belonging to ex-President Yahya Jammeh.
-
-Recommended Stories 
-list of 3 itemslist 1 of 3Gambian leader pledges halt to rolling blackouts as protests turn violentlist 2 of 3Former ‘death squad’ leader appears in military trial in The Gambialist 3 of 3Protests turn violent in The Gambia over rolling blackoutsend of list
-
-The commission, which was set up to compensate victims of abuses committed during Jammeh’s 22-year rule ending in 2017, said in a statement that “the funds were deposited directly into the Reparations Fund account at the Central Bank of The Gambia and shall only be utilized for the payment of reparations”.
-
-“The Commission is committed to ensuring that the funds are managed responsibly, transparently and accountably, with due regard to the rights and needs of victims and survivors,” it added.
-
-Jammeh currently lives in Equatorial Guinea, after he was forced out under pressure from The Gambia’s West African neighbours following his 2016 election loss to current President Adama Barrow.
-
-He is accused of presiding over the murder of political opponents, disappearances, rape and torture.
-
-A commission of inquiry estimated that between 240 and 250 victims were killed by Jammeh’s ...</description>
-    </item>
-  
-    <item>
-      <title>‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal</title>
-      <link>https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 22:20:13 +0000</pubDate>
-      <description>The US president&apos;s remarks come amid a deepening feud with Ukraine&apos;s President Volodymyr Zelenskyy.</description>
-    </item>
-  
-    <item>
-      <title>Trump commits more than $400m ahead of high-stakes midterm elections</title>
-      <link>https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 21:27:38 +0000</pubDate>
-      <description>The president&apos;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.</description>
-    </item>
-  
-    <item>
-      <title>PSG score late to sink Barcelona 4-2 in Champions League blockbuster</title>
-      <link>https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-      <description>Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.</description>
-    </item>
-  
-    <item>
-      <title>US food importer sues Trump over 50 percent tariffs on Canadian goods</title>
-      <link>https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 21:19:12 +0000</pubDate>
-      <description>The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.</description>
-    </item>
-  
-    <item>
-      <title>Why do the US midterms matter for Trump and Congress?</title>
-      <link>https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss</link>
-      <pubDate>Tue, 20 Oct 2026 21:00:42 +0000</pubDate>
-      <description>Republicans and Democrats jockey for control of Congress, which will set course for Trump&apos;s final two years in office. </description>
+      <description>From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.</description>
     </item>
   
   </channel>
