@@ -4,76 +4,214 @@
     <title>BBC World</title>
     <link>https://feeds.bbci.co.uk/news/world/rss.xml</link>
     <description>RSS feed for BBC World</description>
-    <lastBuildDate>Thu, 22 Oct 2026 05:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:25:09 GMT</lastBuildDate>
     
     <item>
-      <title>Websites taken down worldwide as critical cyber-security update issued</title>
-      <link>https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 19:54:57 GMT</pubDate>
-      <description>Image source, Getty ImagesByTom Gerken and Laura Cress, Technology reporters and Joe Tidy, Cyber correspondent, BBC World ServicePublished21 October 2026
+      <title>How Arab parties could hold critical balance of power in Israeli election</title>
+      <link>https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 05:30:22 GMT</pubDate>
+      <description>Image caption, 
 
-International governments and agencies have urged websites to address two critical cyber-security flaws in a programming language which powers much of the internet.
+Students in Nazareth are handing out leaflets encouraging Arab Israelis to vote in next week&apos;s electionByYolande KnellMiddle East correspondent, Reporting fromNazarethPublished4 hours ago
 
-The vulnerabilities were found within the PHP programming language, with a fix issued on Wednesday afternoon. 
+At rush hour in Nazareth, the largest Arab-majority city in Israel, students are handing out leaflets by the roadside urging motorists to vote in next week&apos;s closely fought, general election. Polls indicate that Arab parties could be left holding a critical balance of power.
 
-Multiple cyber-security agencies have urged organisations unable to apply fixes in time to consider taking their sites down, leaving bodies such as the Finnish government, Edinburgh council and the BBC to take pages offline.
+Disaffection has often driven down past turnout among Arab Israelis - who account for about a fifth of the population and often describe themselves as Palestinian citizens of Israel. But this election, there is a strong push to get rid of the most right-wing governing coalition in the country&apos;s history - an alliance between veteran Prime Minister Benjamin Netanyahu and far-right and ultra-Orthodox parties.
 
-The flaws were discovered by AI, with cyber-security firm Wiz saying they were the &quot;most severe vulnerabilities ever discovered&quot; by the tech, which is reshaping the cyber landscape.
+&quot;I see it as our duty to bring down this extremist government. They treat us as second-class,&quot; says Arkan Badran, 23, who is with the students giving out flyers. &quot;I call on all young men and women to vote for Arab lists, which represent us, because this is our future.&quot;
 
-Finland has temporarily shut down the government&apos;s public web services, while the Netherlands&apos; cyber-security agency said it was taking its own website offline due to the vulnerabilities.
+Image caption, 
 
-The US National Security Agency issued similar advice on X, external for organisations to take their systems offline if they were unable to update with the fix. 
+All but one of the leading Jewish parties have ruled out forming a coalition government with Arab parties
 
-&quot;These vulnerabilities often provide a direct path to the server&apos;s file system or database,&quot; it wrote.
+Most opinion polls indicate that neither Netanyahu and his partners nor the main &quot;Change Bloc&quot;, led by centre-right former military chief Gadi Eisenkot, has a clear path to a parliamentary majority.
 
-Meanwhile, the White House said federal agencies were working with leading AI labs to speed up a fix to the issue.
+If they are right, after the election anti-Netanyahu parties wanting to form a governing coalition would either have to go back on pledges not to work with the prime minister or make a deal with Arab-majority lists.
 
-And in a post on X, external, Japan&apos;s Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+A major sticking point is that Eisenkot has so far ruled out forming a government with Arab parties, citing a lack of shared values.
 
-The Wikimedia Foundation, which runs the online encyclopedia Wikipedia, said it was addressing the security vulnerabilities.
-
-&quot;We have taken down a number of other systems as a precautionary measure until they can be safely patched,&quot; it said.
-
-That led some people to be unable to access parts of Wikipedia on Wednesday.
-
-Edinburgh council&apos;s website has also become inaccessible, as well as the online homes for several B...</description>
+Israel&apos;s politics and society have been changed by the deadly, unprecedented Hamas-led assault on the country on 7 October 2023, and subsequ...</description>
     </item>
   
     <item>
-      <title>What is PHP and why did it spark a global cyber-security scramble?</title>
-      <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Thu, 22 Oct 2026 03:48:50 GMT</pubDate>
-      <description>Image source, ReutersByOsmond ChiaBusiness reporterPublished1 hour ago
+      <title>Celebrity shark guided out of South Korea canal refuses to swim out to sea</title>
+      <link>https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 10:16:35 GMT</pubDate>
+      <description>To play this video you need to enable JavaScript in your browser.
 
-For more than a decade, serious flaws had gone undetected in technology underpinning much of the internet. 
+This video can not be playedFigure caption, 
 
-It took artificial intelligence (AI) to bring them to light and caused a global cyber-security alert.
+Watch: BBC follows operation to rescue shark stranded in South Korean canalByJake Kwon, Reporting fromBusan, and Koh EwePublished22 October 2026, 05:12 BSTUpdated 7 minutes ago
 
-The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites.
+A famed dusky shark in South Korea is still lingering near a canal that it was guided out of on Wednesday.
 
-Governments and cyber-security agencies around the world scrambled to contain the fallout of this discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline.
+The shark, nicknamed Bukangi, became an unlikely sensation after it was spotted swimming in a canal in the south-eastern port city of Busan last month. For weeks, rescuers tried in vain to get it back to the open sea using large nets. 
 
-Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the &quot;most severe&quot; ever detected by AI.
+On Thursday, authorities said they had reinforced barriers to prevent Bukangi from returning. But it has yet to swim out into the open sea, and has been circling back repeatedly to the mouth of the waterway.
 
-OpenAI, whose technology was used to find the flaws, called the discovery &quot;one of the most impactful security issues in recent memory&quot;.
+Its rescue prompted mixed reactions in Busan, where some said the shark should stay while others felt it was better for it to go.
 
-What is the flaw?
+In a livestreamed operation on Wednesday, rescue workers took more than eight hours to delicately guide the three-metre-long (10ft) shark with a net towards open water in a harbour.
 
-Most people may not have heard of PHP - short for PHP: Hypertext Preprocessor - but they most certainly interact with it daily.
+Hundreds of adoring fans gathered at the park overlooking the canal, cheering and waving goodbye to the shark.
 
-PHP powers a vast number of platforms, including online shops, Wikipedia and WordPress – the content management system behind many websites like blogs.
+But then, on Thursday morning, Bukangi reportedly swam back into the canal after breaking through a barrier installed by authorities.
 
-When you visit a website like Wikipedia, PHP is the code that collects information you need and presents it in a way you can read on the web, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.
+For some time, Bukangi was trapped in a tight space between two layers of nets in the canal. 
 
-But due to a flaw that could allow attackers to take control of affected web servers without authentication and steal sensitive data, everything built on PHP was left exposed.
+Rescuers freed it by removing the outer layer, and have since fortified the remaining layer of nets to prevent it from going back in.
 
-AI could make such attacks easier and faster, Spain said, estimating that the flaw could affect &quot;millions and millions&quot; of websites.
+Since then, authorities said, Bukangi has been swimming further out but keeps circling back.
 
-It would be &quot;disastrous&quot; if hackers or countries weaponised the flaw and seized private data from websites, said cyber-security researcher Jill Slay from the University of Adelaide.
+A government official told the BBC on Thursday afternoon that rescuers had concluded their operations to free the shark.
 
-What websites have been affected?
+Image source, ReutersImage caption, 
 
-The aler...</description>
+Authorities had attempted to lead the shark out of the canal
+
+It is thought that Bukangi might have been drawn...</description>
+    </item>
+  
+    <item>
+      <title>Two killed in attack on airport in eastern Saudi Arabia, authorities say</title>
+      <link>https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 09:14:48 GMT</pubDate>
+      <description>Image source, ReutersImage caption, 
+
+Dammam is the largest city in Saudi Arabia&apos;s oil-rich Eastern ProvinceByDavid GrittenPublished1 hour ago
+
+Two people were killed and eight others injured in an attack on an airport in Dammam, eastern Saudi Arabia on Wednesday evening, the kingdom&apos;s General Authority of Civil Aviation (GACA) says.
+
+Those killed at King Fahd International Airport were a Saudi citizen and an Indian resident, while the injured were Saudi, Indian, Yemeni, Bangladeshi and Nepalese nationals.
+
+The GACA did not say what type of attack occurred, but Yemen&apos;s Iran-backed Houthi movement has repeatedly targeted the kingdom&apos;s airports with drones and missiles.
+
+On Wednesday morning, two people were killed by debris from a drone that was intercepted over Eastern Province, where Dammam is located, the Saudi energy ministry said.
+
+The ministry said the drone was intercepted as it attempted to target a processing facility owned by Saudi Arabia&apos;s state oil company Aramco in the Shaybeh oil field, where a contractor&apos;s vehicle was set ablaze.
+
+It identified the dead as residents from the Philippines and Nepal. 
+
+Another four drones were also intercepted on Wednesday night, according to the Saudi-led coalition that is supporting the Yemeni government in its war against the Houthis.
+
+There was no immediate comment from the Houthis, but they have previously said they are attacking Saudi airports, energy facilities and military bases in retaliation for deadly Saudi air strikes on the territory they control in western Yemen.
+
+US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate
+
+Published9 hours ago
+
+UK to deploy jets to defend Saudi Arabia from Houthi attacks
+
+Published1 day ago
+
+On Yemen&apos;s desert battlefield, a war with global consequences is being waged
+
+Published12 October
+
+At least 21 people have been killed in Houthi attacks on Saudi airports since the start of October, according to Saudi authorities.
+
+One mi...</description>
+    </item>
+  
+    <item>
+      <title>Police investigate Married at First Sight Australia after &apos;inappropriate&apos; allegations</title>
+      <link>https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 09:47:54 GMT</pubDate>
+      <description>Image source, Getty ImagesByNoor NanjiCulture correspondentPublished35 minutes ago
+
+Married at First Sight Australia is facing fresh controversy after police launched an investigation into the hit reality TV show.
+
+New South Wales told BBC News that inquiries had taken place &quot;following a report of inappropriate content being shared&quot;.
+
+Channel Nine, which broadcasts Married at First Sight Australia, confirmed that it was &quot;aware of a police investigation&quot; involving the show&apos;s production company.
+
+It is the latest blow for the show, after a BBC News investigation earlier this year into MAFS Australia revealed cast members said they had not been told their partners had previous drug and violence convictions.
+
+Those revelations led to a warning from Australia&apos;s media watchdog, which called them &quot;serious and disturbing&quot;.
+
+The British version of Married at First Sight, known to many as MAFS UK, was separately plunged into crisis in May after BBC Panorama reported rape allegations from two female cast members - allegations the men involved have denied.
+
+MAFS UK is made by a different production company to the Australian version.
+
+The Dark Side of Married at First Sight
+
+Panorama investigates allegations that raise serious concerns that welfare procedures on Married at First Sight UK have failed contributors, leaving them at risk of harm.
+
+Watch on iPlayer now
+
+Watch on iPlayer
+
+Married at First Sight shows single people agreeing to &quot;marry&quot; total strangers after meeting for the first time at their mock weddings.
+
+The marriages are not legally binding, but viewers see the couples go on &quot;honeymoons&quot;, before moving in together and navigating their relationships - all while being filmed, almost every day.
+
+According to industry news website TV Blackbox, external, a male cast member on the current series of MAFS Australia made a formal complaint to the police after producers allegedly shared private information about him with his on-screen bride.
+
+Married at First Sight...</description>
+    </item>
+  
+    <item>
+      <title>El Salvador&apos;s president threatens Haitian gangs over military hostages</title>
+      <link>https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 10:17:48 GMT</pubDate>
+      <description>Image source, Getty ImagesByJamie Whitehead Published5 minutes ago
+
+El Salvador&apos;s president has said he has launched a military operation to rescue four air force personnel who have been missing in Haiti since Sunday. 
+
+Nayib Bukele wrote in a post on X that Wednesday&apos;s attack was &quot;nothing&quot; compared with what would happen if all the hostages - who he said were not combatants - were not returned alive. 
+
+They went missing after being ambushed by &quot;heavily armed criminal groups,&quot; El Salvador&apos;s armed forces said. The ambush occurred in Croix-des-Bouquets, an area controlled by armed groups. 
+
+They were part of the so-called Gang Suppression Force (GSF), approved by the United Nations Security Council earlier this month, to tackle escalating gang violence in Haiti. 
+
+According to Bukele, the mission consisted of pilots and technical personnel, whose primary jobs were to &quot;carry out medical evacuations and save lives, not to wage war&quot;. 
+
+His post said the Salvadoran military operation&apos;s single objective was to bring the four men back home alive. 
+
+He added that if all four were returned alive, without being harmed, &quot;everything will go back to how it was before the kidnapping&quot;.  
+
+Bukele added they were kidnapped &quot;in a cowardly manner&quot; while returning after buying food at a market in the area.
+
+A statement released by the Armed Forces of El Salvador on Sunday said the group was ambushed while travelling back to its camp in an armoured vehicle, which caught fire after being hit by explosives. 
+
+So far, no gang has claimed responsibility for the attack.
+
+Salvadoran helicopters were deployed to assist, with multiple attempts to make an approach by land and air hampered by fighting and local security conditions, the armed forces said. 
+
+On Wednesday, before Bukele announced the launch of the military operation, the GSF said it was searching for the four missing personnel following the attack. 
+
+It added that it had &quot;engaged armed gang elements, with helicopt...</description>
+    </item>
+  
+    <item>
+      <title>Two European women held captive for more than a year in Niger freed in Libya </title>
+      <link>https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 08:21:13 GMT</pubDate>
+      <description>Image source, Christoph GreztmacherImage caption, 
+
+Eva Greztmacher, 76, had spent many years in Niger as an aid workerByBasillioh RukangaPublished2 hours ago
+
+Two women - a Swiss and an Austrian – have been freed after more than a year in captivity in Niger and handed over to authorities in the Libyan city of Benghazi.
+
+Austrian national Eva Gretzmacher, 76, and Swiss Claudia Abbt, 69, were kidnapped separately in the northern Nigerien city of Agadez in January and April last year.
+
+No details have been given about who was holding them or their demands, although some reports have previously linked the kidnapping to Islamic State militants. The circumstances of their release were not disclosed.
+
+Libyan officials were reported as saying the women would be handed over to authorities in their respective countries after necessary procedures were completed.
+
+Libya&apos;s al-Masar TV showed the two women entering what looks like an ambulance and later being attended to by a health worker.
+
+Speaking in French, the women thanked Khalifa Haftar, military commander of eastern Libya, and his son, Saddam Haftar, for their release.
+
+Gretzmacher was an aid worker who had lived for many years in Niger, while Abbt had spent several years living and working as a community worker in Agadez.
+
+A plane was expected to leave Benghazi on Thursday, first stopping in Vienna to transfer Gretzmacher to Austrian authorities before continuing to Switzerland with Abbt, privately owned Air Info Agadez news outlet reported.
+
+Libya has struggled to recover from the chaos that followed the 2011 Nato-backed uprising that toppled long-time ruler Muammar Gaddafi.
+
+It is split between two administrations - one in the east backed by Haftar, and the other in the west in the capital Tripoli, led by Prime Minister Abdulhamid Dbeibah. 
+
+Niger and the broader Sahel region have faced years of jihadist violence, including kidnappings and deadly attacks, carried out by different groups linked to al-Qaeda and Isl...</description>
     </item>
   
     <item>
@@ -98,7 +236,7 @@ The US president has so far failed to bring the Russia-Ukraine war to an end des
 
 Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace
 
-Published9 hours ago
+Published14 hours ago
 
 Trump&apos;s special envoy Witkoff went to St Petersburg after meeting Ukraine&apos;s President Volodymyr Zelensky as well as the leaders of Norway and Finland in the Norwegian capital, Oslo, on Tuesday. 
 
@@ -108,118 +246,34 @@ Putin&apos;s aide Yuri Ushakov said their ideas were not very &quot;useful&quot;
 
 Top officials from Russia, Ukraine and the US have held several rounds of talks aimed at ending the war. 
 
-Russia blamed last month&amp;#x27...</description>
+Russia blamed last month&amp;#x2...</description>
     </item>
   
     <item>
-      <title>Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace</title>
-      <link>https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 19:58:06 GMT</pubDate>
-      <description>Image source, Getty ImagesImage caption, 
+      <title>How do Israel&apos;s elections work and who are the main contenders?</title>
+      <link>https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Thu, 22 Oct 2026 09:27:10 GMT</pubDate>
+      <description>Image source, Reuters / AFPImage caption, 
 
-Witkoff (R) said there was still important work to do after the meeting with Putin (L)BySteve RosenbergRussia Editor, Reporting fromMoscowPublished9 hours ago
+Current polling suggests Gadi Eisenkot (left) is in a tight race with incumbent Benjamin Netanyahu (right) to become Israel&apos;s prime ministerPublished56 minutes ago
 
-After two days of diplomacy – in Norway&apos;s capital and Russia&apos;s St Petersburg – is the war in Ukraine any closer to ending?
+Israel&apos;s general election takes place on Tuesday 27 October.
 
-&quot;Good and constructive&quot; is how Norway&apos;s prime minister described Tuesday&apos;s talks between Ukrainian President Volodymyr Zelensky, US President Trump&apos;s special envoy Steve Witkoff and European representatives.
+It&apos;s the first election since the 7 October 2023 Hamas-led attacks on Israel and its subsequent conflicts in Gaza and with Iran, Hezbollah and the Houthis.
 
-In Oslo, the idea of a trilateral meeting at leaders&apos; level was floated. The hope was that Steve Witkoff&apos;s trip to Russia would pave the way for President Vladimir Putin, Zelensky and Trump to meet and agree an end to the fighting.
+Many view it as one of the most pivotal elections in Israel&apos;s history, with global implications.
 
-But Putin has shown little desire to share a table with Zelensky - unless that table is in Moscow.
+Who are the main contenders?
 
-The Kremlin says it may be willing to resume trilateral talks next month in Abu Dhabi, but only at the technical level.
+Current polling puts incumbent Benjamin Netanyahu in a tight race with Gadi Eisenkot, a former head of the Israel Defense Forces, to become prime minister.
 
-In a post on X, Steve Witkoff himself conceded that &quot;there is still important work to do&quot;, though he claimed &quot;President Trump remains committed to seeing this war end...&quot;
+Eisenkot&apos;s popularity stems partly from his military credentials and his relative newness in politics, having formed his Yashar Party only last year.
 
-Russia says it is ready to resume talks with Ukraine and US to end war
+He lost his son, a soldier, in the first months of the Gaza war, and served in Israel&apos;s war cabinet under Netanyahu until resigning in 2024 over disagreements about the conflict. He has built his campaign on calls for accountability over the security failures that led to 7 October.
 
-Published7 hours ago
+Other opposition leaders include former prime minister Naftali Bennett and Avigdor Lieberman - both right-wingers who take hardline positions on security and advocate permanent Israeli control over much of the occupied West Bank - and Yair Golan, a left-winger who supports Israel&apos;s withdrawal from large parts of the territory. Despite their differences, they could work with Eisenkot to form a government.
 
-Trump and Zelensky at loggerheads despite new optimism
-
-Published1 day ago
-
-US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin
-
-Published8 hours ago
-
-For me, the most telling statement of the day was from Vladimir Putin&apos;s foreign policy aide Yuri Ushakov. He took part in the St Petersburg talks.
-
-Ushakov said that Steve Witkoff had told President Putin about the discussions in Oslo and (as Witkoff viewed them) &quot;new approaches from the Europeans and Kyiv&quot;.
-
-The Kremlin adviser was clearly unimpressed by what he heard.
-
-&quot;In terms of resolving the Ukraine crisis, there wasn&apos;t much there that was useful,&quot; commented Ushakov.
-
-Later Russian state TV asked him about the prospect...</description>
-    </item>
-  
-    <item>
-      <title>US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate</title>
-      <link>https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Thu, 22 Oct 2026 01:07:34 GMT</pubDate>
-      <description>Image source, ReutersImage caption, 
-
-Yemen&apos;s Iran-backed Houthis also attacked the airport in Saudi Arabia&apos;s capital Riyadh earlier this monthByToby MannPublished4 hours ago
-
-The US State Department has ordered some diplomats and their families to leave Saudi Arabia as attacks escalate, with three people killed in strikes across the country. 
-
-Saudi authorities said debris from a drone intercepted during an attempted attack on an oil field killed two people, while one person died after a strike at the King Fahd International Airport in Dammam.
-
-Conflict between Yemen&apos;s Iran-backed Houthis and Saudi Arabia has been rising in the past month.
-
-The Houthis have responded to Saudi strikes by launching missiles and drones at airports, energy facilities and military bases in Saudi Arabia. A recent strike on Riyadh&apos;s international airport was the deadliest in the kingdom in years.
-
-To play this video you need to enable JavaScript in your browser.
-
-This video can not be playedFigure caption, 
-
-Watch: Who are the Houthis, and why are they so hard to fight?
-
-&quot;The US Department of State issued an ordered departure for non-emergency US government employees and their family members in Saudi Arabia,&quot; a state department spokesperson said in a statement. 
-
-&quot;Iranian-supported Houthis have increasingly engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions,&quot; it added.
-
-The spokesperson also warned &quot;the hostilities have the potential to escalate rapidly&quot;.
-
-In the latest attack on the King Fahd International Airport eight people sustained injuries that ranged from &quot;minor to serious&quot;, officials said.
-
-No details of the attack have yet been given, but the strike comes after airports in Saudi Arabia have been repeatedly targeted by Houthi forces.
-
-The energy ministry has also not said who had launched the drone aimed at the Shaybah oil field nea...</description>
-    </item>
-  
-    <item>
-      <title>Airbnb hosts can no longer make guests strip beds and wash dishes under new rules</title>
-      <link>https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 22:54:58 GMT</pubDate>
-      <description>Image source, Getty ImagesImage caption, 
-
-Washing and putting away dishes are examples of chores that Airbnb says guests should generally not be asked to doBySareen HabeshianPublished6 hours ago
-
-Airbnb has changed its rules to limit what property hosts may ask guests to do - including when it comes to cleaning. 
-
-The updated guidelines state that hosts can now set seven standard house rules and can also add other &quot;reasonable&quot; requests.
-
-Airbnb states that guests - who are required to pay a cleaning fee - should not be asked to complete tasks normally done by a cleaner, including washing dishes and stripping beds.
-
-The new rules will apply to all reservations booked on or after 20 November on the accommodation marketplace.
-
-&quot;House rules help guests understand what hosts expect, but we&apos;ve heard from our community that they can be confusing, onerous and hard to manage,&quot; Airbnb told the BBC. 
-
-&quot;So, we&apos;ve redesigned them to make them easier to discover and clearer to set, alongside a new policy that keeps requests reasonable, with no surprises.&quot;
-
-According to the new requirements on the Airbnb website, hosts are generally not allowed to ask guests to complete tasks that &quot;require significant effort or time, or would typically be performed by a cleaner, including stripping the bed, taking trash offsite, or washing and putting away dishes&quot;.
-
-The company said it may grant exceptions in some circumstances. For example, guests can be asked to limit shower time if there are local drought-related water restrictions.
-
-A property&apos;s rules will be displayed to guests more prominently moving forward and  will appear in the guests&apos; reservation reminders.
-
-Contracts will only be allowed in limited circumstances, including when required by law or homeowners association rules. 
-
-While a host will not be able to impose fines, they remain in control of their house rules and requests, the company said.
-
-If a host&apos;s request does not follow Airbnb policies, the issu...</description>
+Netanyahu&apos;s current government is the most right-wing in Israel&apos;s history. In order to remain in power, he will likely have to rely on the support of some of his existing far-right coalition partners. Some hold ultra-nationalist positions, such as calling for Israel to annex the West Bank and for the &quot;migration&quot; of Palestinians from Gaza - which could amount to the forced displacement of civilia...</description>
     </item>
   
     <item>
@@ -258,100 +312,66 @@ Published1 day ago
 
 Katya Adler: France divided over who to blame for riots and what to learn from them
 
-Published22 hours ago
+Published1 day ago
 
-In pictures: French landmarks damaged and destroyed by violent pro...</description>
+In pictures: French landmarks damaged and destroyed by violent protes...</description>
     </item>
   
     <item>
-      <title>No purchase, no seats: Starbucks China rolls out new policy</title>
+      <title>Meta fined $25bn for &apos;lies&apos; over user data privacy</title>
+      <link>https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Wed, 21 Oct 2026 21:49:07 GMT</pubDate>
+      <description>Image source, EPAImage caption, 
+
+Meta has been hit with numerous legal fines this yearByKali HaysTechnology reporterPublished21 October 2026
+
+Meta, the company behind Facebook, Instagram and WhatsApp has been hit with its largest fine ever for its business practices.
+
+A judge in New Mexico on Wednesday ordered the company to pay $25bn (£18.6bn) following a two-week trial earlier this year that found it had spent years lying to the public about how it handled Facebook user data.
+
+&quot;The lies extend beyond Facebook&apos;s data practices as well,&quot; the judge said, adding they went to &quot;the heart of Facebook&apos;s core business practices&quot;.
+
+Meta&apos;s head lawyer CJ Mahoney said the ruling made it &quot;all but impossible to do business in the state of New Mexico&quot;. The company intends to appeal, a move Mahoney said will be successful.
+
+The fine is the largest to date against Meta, which has either been fined or agreed to settle several other lawsuits this year, including an $18bn deal with California over child safety.
+
+New Mexico&apos;s lawsuit stemmed from the role of Meta, then still doing business as Facebook, in what became known as the Cambridge Analytica scandal.
+
+That firm utilised data and information from millions of Facebook users as part of its work in political consulting, including on work related to the 2016 US Presidential election, which saw Donald Trump elected for the first time.
+
+New Mexico had also accused Meta of intentionally misleading the public on how it benefitted from content that included hate speech, and how such rules against it were enforced. The jury found the company had intentionally misled the public on those claims, too. 
+
+Meta disputed those accusations. &quot;At its core, this lawsuit seeks to impose a tax on speech to enforce new rules for what people can say online,&quot; Mahoney added.
+
+Lawyers for New Mexico sued the company over many statements Meta executives had made over the years that user data was never shared with or accessed by third p...</description>
+    </item>
+  
+    <item>
+      <title>No order, no seat: Starbucks China rolls out new store policy</title>
       <link>https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Thu, 22 Oct 2026 04:02:29 GMT</pubDate>
-      <description>Image source, Getty ImagesImage caption, 
-
-&quot;Purchase to sit&quot; signs are popping up in Starbucks stores around ChinaByKoh EwePublished1 hour ago
-
-Taking a seat at a Starbucks in China? Just make sure you&apos;re also ordering something there.
-
-A new policy by Starbucks China takes effect across all its 8,000 stores on Thursday, making it mandatory for people to purchase items if they want to sit in its cafes.
-
-Starbucks China said the move was part of efforts to improve the &quot;in-store experience&quot; for customers. The company is facing stiff competition from homegrown brands such as Luckin Coffee.
-
-Reports of the new policy circulated this week, along with social media videos of what appear to be &quot;purchase to sit&quot; signs in Starbucks stores.
-
-Many on Chinese social media welcomed the new policy.
-
-&quot;Finally, there won&apos;t be peak periods where people are just sitting there not ordering anything, drinking Luckin coffee, playing games and yelling on the phone,&quot; reads one of the top-liked comment on Weibo. &quot;Every time I walk around, there&apos;s nowhere to sit,&quot; 
-
-&quot;There&apos;s nothing wrong with it. I&apos;d feel awkward sitting there if I didn&apos;t make a purchase. I&apos;d rather leave the seats for those who made purchases and need the seats,&quot; another Weibo user commented.
-
-Starbucks stores around the world have been wrestling with non-paying seat-hoggers and other undesirable behaviour from customers.
-
-Last month, a Starbucks store in Sichuan province sparked debate after video of its chained-up outdoor seats and tables were circulated on social media. It appeared to be an attempt to block people from sitting there without paying.
-
-In South Korea, Starbucks has told customers to stop bringing &quot;bulky items&quot; into their stores, after some patrons reportedly hogged seats with printers and desktop computers in tow.
-
-In North America, Starbucks reversed its open-door policy which for years allowed people to use their seats and toilets without buying anything, saying that it...</description>
+      <description>Starbucks says it is improving customers&apos; in-store experience as it competes with homegrown rivals.</description>
+    </item>
+  
+    <item>
+      <title>Airbnb hosts can no longer make guests strip beds and wash dishes under new rules</title>
+      <link>https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <pubDate>Wed, 21 Oct 2026 22:54:58 GMT</pubDate>
+      <description>The updated policy will apply to all reservations booked on the accommodation site on or after 20 November. </description>
     </item>
   
     <item>
       <title>US embassy accuses Canada of election meddling ahead of midterms</title>
       <link>https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Thu, 22 Oct 2026 03:05:28 GMT</pubDate>
-      <description>Image source, AFP via Getty ImagesImage caption, 
-
-Canadian Prime Minister Mark Carney, right, and Ontario Premier Doug Ford deny that their country is interfering in the US midterm electionsByNardine SaadPublished2 hours ago
-
-The US Embassy in Ottawa has accused Canadian officials of election meddling ahead of the November midterms. 
-
-The embassy said Canadian leaders have brushed off concerns over &quot;potential interference&quot;, and that ministers and premiers &quot;openly describe plans to influence American politics in official documents and public appearances&quot;.
-
-Canadian leaders, including Prime Minister Mark Carney, have dismissed the claims. Relations between the North American neighbours have hardened during second Trump administration.
-
-The midterms will determine which political party controls both branches of the US Congress, which could have a significant impact on the rest of Donald Trump&apos;s presidency.
-
-The fact sheet released by the US Embassy on Wednesday alleges the Canadian government &quot;brushes off concerns about potential interference in U.S. elections, even as its ministers and premiers openly describe plans to influence American politics in official documents and public appearances&quot;.
-
-It cites comments and actions, like meetings with US Democrats and calling for retaliatory tariffs against the US. 
-
-For example, it says that when Industry Minister Mélanie Joly was asked what she expected regarding tariffs if Democrats were to win midterm elections, she responded, &quot;That&apos;s exactly why I&apos;m meeting so many governors and potential presidential candidates.&quot;
-
-Ontario Premier Doug Ford pushed Canada&apos;s federal government, it states, to consider additional retaliatory tariffs on imports from &quot;politically significant states to the current administration&apos;s base of support&quot;.
-
-Asked on Wednesday about the allegations, Carney noted that it was the US that first initiated trade actions against Canada. 
-
-&quot;We&apos;ve responded to those to protect Cana...</description>
+      <description>Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada. </description>
     </item>
   
     <item>
       <title>New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes</title>
       <link>https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Wed, 21 Oct 2026 22:20:22 GMT</pubDate>
-      <description>Image source, ReutersImage caption, 
-
-Prosecutors say Epstein abused victims at his Zorro Ranch in New Mexico with the help of key aidesByMax MatzaPublished6 hours ago
-
-Prosecutors in the US state of New Mexico have filed a civil lawsuit against two longtime aides of Jeffrey Epstein, accusing the men of profiting from the late financier&apos;s sex trafficking ring. 
-
-Lawyer Darren Indyke and accountant Richard Kahn are the sole executors of Epstein&apos;s estate, controlling all his wealth and possessions. They have denied any role in his crimes.
-
-New Mexico Attorney General Raúl Torrez says they played a key role in concealing abuse at Epstein&apos;s remote Zorro Ranch near the city of Santa Fe, and that they continue to earn money while victims seek accountability.
-
-The lawsuit is separate to the state&apos;s ongoing criminal probe into Epstein, which was re-launched in February.
-
-An attorney representing both Indyke and Kahn told the BBC that they &quot;emphatically reject&quot; the claims in the lawsuit. 
-
-The lawsuit was filed in New Mexico on Wednesday under the federal Trafficking Victims Protection Act and New Mexico Racketeering Act.
-
-During a news conference, Torrez argued that the two men are blocking efforts by Epstein&apos;s victims to seek compensation from his fortune, estimated at roughly $635m (£474m) at the time of his death.
-
-&quot;Those resources rightfully belong in the hands of survivors - there should be no distribution of Mr Epstein&apos;s remaining assets to people like Mr Indyke and Mr Kahn for participation in what I think is one of the most horrific criminal enterprises in modern America,&quot; he said.
-
-Both men worked with Epstein for decades, and have previously testified to Congress that they were unaware of the crimes he committed alongside accomplice Ghislane Maxwell. 
-
-Their attorney Daniel Weiner said in a statement to the BBC that, &quot;they are confident that they will prevail on the claims asserted against them&quot;.
-
-&quot;Both Mr Indyke and Mr Kahn reject as...</description>
+      <description>Both men have denied having any knowledge of Epstein&apos;s crimes and their attorney rejected the lawsuit as &quot;categorically false&quot;. </description>
     </item>
   
     <item>
@@ -359,34 +379,6 @@ Their attorney Daniel Weiner said in a statement to the BBC that, &quot;they are
       <link>https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&amp;at_campaign=rss</link>
       <pubDate>Wed, 21 Oct 2026 20:09:10 GMT</pubDate>
       <description>Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.</description>
-    </item>
-  
-    <item>
-      <title>&apos;Targeted&apos; attack on much-loved MP leaves Australian town heartbroken</title>
-      <link>https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 18:10:42 GMT</pubDate>
-      <description>Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.</description>
-    </item>
-  
-    <item>
-      <title>Ex-prosecutor charged with treason in Mexico over US drug raid</title>
-      <link>https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 20:19:51 GMT</pubDate>
-      <description>César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.</description>
-    </item>
-  
-    <item>
-      <title>Family of prison officer killed by IRA receives state apology</title>
-      <link>https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 16:58:16 GMT</pubDate>
-      <description>Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.</description>
-    </item>
-  
-    <item>
-      <title>Vance tells Republicans to &apos;stop whining&apos; about controversial Ohio attack ad</title>
-      <link>https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <pubDate>Wed, 21 Oct 2026 22:59:18 GMT</pubDate>
-      <description>The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival&apos;s estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.</description>
     </item>
   
   </channel>
