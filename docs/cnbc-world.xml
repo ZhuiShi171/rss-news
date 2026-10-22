@@ -4,13 +4,27 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Thu, 22 Oct 2026 10:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:28:25 GMT</lastBuildDate>
     
+    <item>
+      <title>Musk&apos;s clash with Ukraine accelerates demand for Starlink alternatives. Few exist</title>
+      <link>https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html</link>
+      <pubDate>Thu, 22 Oct 2026 15:08:47 GMT</pubDate>
+      <description>Governments or companies looking for an alternative to SpaceX&apos;s Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.</description>
+    </item>
+  
     <item>
       <title>Nvidia CEO Jensen Huang says neocloud demand is &apos;off the charts&apos; but capital is scarce</title>
       <link>https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html</link>
-      <pubDate>Thu, 22 Oct 2026 10:19:05 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 10:49:16 GMT</pubDate>
       <description>Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is &quot;off the charts,&quot; but scarce capital is holding back growth.</description>
+    </item>
+  
+    <item>
+      <title>Spain accuses Trump ally Milei of ‘disgraceful’ election interference </title>
+      <link>https://www.cnbc.com/2026/10/22/spain-sanchez-milei-trump-election-protests.html</link>
+      <pubDate>Thu, 22 Oct 2026 12:52:41 GMT</pubDate>
+      <description>Argentinia&apos;s Javier Milei launched a barrage of insults at Spain’s left-wing Prime Minister Pedro Sanchez on a visit to Madrid, calling on voters to oust him.</description>
     </item>
   
     <item>
@@ -21,9 +35,44 @@
     </item>
   
     <item>
+      <title>Nvidia&apos;s Jensen Huang says he sees no sign of a 2029 memory glut: &apos;You can always use more&apos;</title>
+      <link>https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html</link>
+      <pubDate>Thu, 22 Oct 2026 13:12:38 GMT</pubDate>
+      <description>Nvidia&apos;s Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.</description>
+    </item>
+  
+    <item>
+      <title>Trump&apos;s approval rating on economy hits all-time low as midterm looms: CNBC survey</title>
+      <link>https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html</link>
+      <pubDate>Thu, 22 Oct 2026 13:18:36 GMT</pubDate>
+      <description>Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles. </description>
+    </item>
+  
+    <item>
+      <title>Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot</title>
+      <link>https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html</link>
+      <pubDate>Thu, 22 Oct 2026 15:00:25 GMT</pubDate>
+      <description>OpenAI CEO Sam Altman pledged to grant independent evaluators &quot;employee-like access&quot; to the company to help address mounting safety concerns.</description>
+    </item>
+  
+    <item>
+      <title>France protests: Macron condemns &apos;stupid&apos; comments from Trump, others as bond market pressure builds</title>
+      <link>https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html</link>
+      <pubDate>Thu, 22 Oct 2026 14:21:56 GMT</pubDate>
+      <description>France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.</description>
+    </item>
+  
+    <item>
+      <title>Sovereign wealth funds&apos; China and Hong Kong investments surge 190% after a bruising slump</title>
+      <link>https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html</link>
+      <pubDate>Thu, 22 Oct 2026 02:20:50 GMT</pubDate>
+      <description>Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump.</description>
+    </item>
+  
+    <item>
       <title>Barclays to slash 5,000 jobs in AI efficiency push </title>
       <link>https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html</link>
-      <pubDate>Thu, 22 Oct 2026 09:23:59 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 11:38:05 GMT</pubDate>
       <description>U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.</description>
     </item>
   
@@ -35,10 +84,9 @@
     </item>
   
     <item>
-      <title>Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond 
-</title>
+      <title>Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond</title>
       <link>https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html</link>
-      <pubDate>Thu, 22 Oct 2026 01:05:15 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 12:46:15 GMT</pubDate>
       <description>Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.</description>
     </item>
   
@@ -50,27 +98,6 @@
     </item>
   
     <item>
-      <title>CNBC Daily Open: Ukraine&apos;s Starlink whodunit  </title>
-      <link>https://www.cnbc.com/2026/10/22/trump-meta-tesla-earnings-iran-nvidia-gtc.html</link>
-      <pubDate>Thu, 22 Oct 2026 08:47:25 GMT</pubDate>
-      <description>Washington says it has no plans to renew strikes on Iran before the Nov. 3 midterms, but escalation may not wait long after that.</description>
-    </item>
-  
-    <item>
-      <title>Witkoff calls Putin a &apos;humanitarian&apos; at Russia peace talks without Ukraine</title>
-      <link>https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html</link>
-      <pubDate>Wed, 21 Oct 2026 18:15:43 GMT</pubDate>
-      <description>Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees. </description>
-    </item>
-  
-    <item>
-      <title>How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier</title>
-      <link>https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html</link>
-      <pubDate>Wed, 21 Oct 2026 17:27:34 GMT</pubDate>
-      <description>President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans&apos; election chances with the midterms just two weeks away.</description>
-    </item>
-  
-    <item>
       <title>James Talarico fires back at Elon Musk in Texas Senate race feud</title>
       <link>https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html</link>
       <pubDate>Thu, 22 Oct 2026 01:21:10 GMT</pubDate>
@@ -78,39 +105,10 @@
     </item>
   
     <item>
-      <title>Sovereign wealth funds&apos; China and Hong Kong investments surge 190% after a bruising slump</title>
-      <link>https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html</link>
-      <pubDate>Thu, 22 Oct 2026 02:20:50 GMT</pubDate>
-      <description>Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump.</description>
-    </item>
-  
-    <item>
-      <title>Southeast Asia is hungry for AI — and the money isn&apos;t just in subscriptions 
-</title>
-      <link>https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html</link>
-      <pubDate>Thu, 22 Oct 2026 02:01:48 GMT</pubDate>
-      <description>Southeast Asia&apos;s rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain &amp; Company, told CNBC.</description>
-    </item>
-  
-    <item>
-      <title>What’s making Europe so angry? The frustration behind the protests</title>
-      <link>https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html</link>
-      <pubDate>Tue, 20 Oct 2026 07:19:16 GMT</pubDate>
-      <description>Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.</description>
-    </item>
-  
-    <item>
-      <title>Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use</title>
-      <link>https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html</link>
-      <pubDate>Thu, 22 Oct 2026 00:07:48 GMT</pubDate>
-      <description>India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world&apos;s data.</description>
-    </item>
-  
-    <item>
-      <title>Bank of Korea holds rates after President Lee calls for boosting housing supply</title>
-      <link>https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html</link>
-      <pubDate>Thu, 22 Oct 2026 02:18:29 GMT</pubDate>
-      <description>Economists polled by Reuters had forecast the Bank of Korea to hold rates.</description>
+      <title>CNBC Daily Open: Ukraine&apos;s Starlink whodunit  </title>
+      <link>https://www.cnbc.com/2026/10/22/trump-meta-tesla-earnings-iran-nvidia-gtc.html</link>
+      <pubDate>Thu, 22 Oct 2026 08:47:25 GMT</pubDate>
+      <description>Washington says it has no plans to renew strikes on Iran before the Nov. 3 midterms, but escalation may not wait long after that.</description>
     </item>
   
   </channel>
