@@ -4,12 +4,19 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:23:01 GMT</lastBuildDate>
     
+    <item>
+      <title>Meta stock sinks 8% as AI spend pushes free cash flow negative</title>
+      <link>https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html</link>
+      <pubDate>Thu, 22 Oct 2026 19:11:23 GMT</pubDate>
+      <description>Prices for the social media giant&apos;s five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.</description>
+    </item>
+  
     <item>
       <title>Musk&apos;s clash with Ukraine accelerates demand for Starlink alternatives. Few exist</title>
       <link>https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html</link>
-      <pubDate>Thu, 22 Oct 2026 15:08:47 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:55:38 GMT</pubDate>
       <description>Governments or companies looking for an alternative to SpaceX&apos;s Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.</description>
     </item>
   
@@ -18,6 +25,34 @@
       <link>https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html</link>
       <pubDate>Thu, 22 Oct 2026 10:49:16 GMT</pubDate>
       <description>Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is &quot;off the charts,&quot; but scarce capital is holding back growth.</description>
+    </item>
+  
+    <item>
+      <title>AI debt and French bonds face a stress test — why it may not be over</title>
+      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
+      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
+      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
+    </item>
+  
+    <item>
+      <title>Elon Musk invests about $1 billion in Skydance</title>
+      <link>https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html</link>
+      <pubDate>Thu, 22 Oct 2026 18:02:05 GMT</pubDate>
+      <description>David Ellison&apos;s father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.</description>
+    </item>
+  
+    <item>
+      <title>SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns</title>
+      <link>https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html</link>
+      <pubDate>Thu, 22 Oct 2026 19:09:11 GMT</pubDate>
+      <description>Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.</description>
+    </item>
+  
+    <item>
+      <title>Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again</title>
+      <link>https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html</link>
+      <pubDate>Thu, 22 Oct 2026 15:16:05 GMT</pubDate>
+      <description>Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.</description>
     </item>
   
     <item>
@@ -35,34 +70,6 @@
     </item>
   
     <item>
-      <title>Nvidia&apos;s Jensen Huang says he sees no sign of a 2029 memory glut: &apos;You can always use more&apos;</title>
-      <link>https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html</link>
-      <pubDate>Thu, 22 Oct 2026 13:12:38 GMT</pubDate>
-      <description>Nvidia&apos;s Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.</description>
-    </item>
-  
-    <item>
-      <title>Trump&apos;s approval rating on economy hits all-time low as midterm looms: CNBC survey</title>
-      <link>https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html</link>
-      <pubDate>Thu, 22 Oct 2026 13:18:36 GMT</pubDate>
-      <description>Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles. </description>
-    </item>
-  
-    <item>
-      <title>Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot</title>
-      <link>https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html</link>
-      <pubDate>Thu, 22 Oct 2026 15:00:25 GMT</pubDate>
-      <description>OpenAI CEO Sam Altman pledged to grant independent evaluators &quot;employee-like access&quot; to the company to help address mounting safety concerns.</description>
-    </item>
-  
-    <item>
-      <title>France protests: Macron condemns &apos;stupid&apos; comments from Trump, others as bond market pressure builds</title>
-      <link>https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html</link>
-      <pubDate>Thu, 22 Oct 2026 14:21:56 GMT</pubDate>
-      <description>France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.</description>
-    </item>
-  
-    <item>
       <title>Sovereign wealth funds&apos; China and Hong Kong investments surge 190% after a bruising slump</title>
       <link>https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html</link>
       <pubDate>Thu, 22 Oct 2026 02:20:50 GMT</pubDate>
@@ -70,45 +77,38 @@
     </item>
   
     <item>
-      <title>Barclays to slash 5,000 jobs in AI efficiency push </title>
-      <link>https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html</link>
-      <pubDate>Thu, 22 Oct 2026 11:38:05 GMT</pubDate>
-      <description>U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.</description>
+      <title>Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease</title>
+      <link>https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html</link>
+      <pubDate>Thu, 22 Oct 2026 17:53:08 GMT</pubDate>
+      <description>&quot;We&apos;re going to have an amazing 2027,&quot; he said.</description>
     </item>
   
     <item>
-      <title>U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms</title>
-      <link>https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html</link>
-      <pubDate>Thu, 22 Oct 2026 04:35:54 GMT</pubDate>
-      <description>The U.S. ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict.</description>
+      <title>Nvidia&apos;s Jensen Huang says he sees no sign of a 2029 memory glut: &apos;You can always use more&apos;</title>
+      <link>https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html</link>
+      <pubDate>Thu, 22 Oct 2026 13:12:38 GMT</pubDate>
+      <description>Nvidia&apos;s Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.</description>
     </item>
   
     <item>
-      <title>Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond</title>
-      <link>https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html</link>
-      <pubDate>Thu, 22 Oct 2026 12:46:15 GMT</pubDate>
-      <description>Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.</description>
+      <title>CoreWeave’s market confidence erodes as bond yields spike and stock sinks</title>
+      <link>https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html</link>
+      <pubDate>Thu, 22 Oct 2026 15:35:55 GMT</pubDate>
+      <description>CoreWeave shares are down 35% in October, and the spreads in its credit default swaps are widening.</description>
     </item>
   
     <item>
-      <title>China&apos;s stock market sinks into bear territory as CSI 300 extends 10-week rout </title>
-      <link>https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html</link>
-      <pubDate>Thu, 22 Oct 2026 04:02:18 GMT</pubDate>
-      <description>China&apos;s benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.</description>
+      <title>Brent crude tops $113, highest level since May, after Trump hints at action on Iran</title>
+      <link>https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html</link>
+      <pubDate>Thu, 22 Oct 2026 19:19:41 GMT</pubDate>
+      <description>The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.</description>
     </item>
   
     <item>
-      <title>James Talarico fires back at Elon Musk in Texas Senate race feud</title>
-      <link>https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html</link>
-      <pubDate>Thu, 22 Oct 2026 01:21:10 GMT</pubDate>
-      <description>Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico&apos;s opponent.</description>
-    </item>
-  
-    <item>
-      <title>CNBC Daily Open: Ukraine&apos;s Starlink whodunit  </title>
-      <link>https://www.cnbc.com/2026/10/22/trump-meta-tesla-earnings-iran-nvidia-gtc.html</link>
-      <pubDate>Thu, 22 Oct 2026 08:47:25 GMT</pubDate>
-      <description>Washington says it has no plans to renew strikes on Iran before the Nov. 3 midterms, but escalation may not wait long after that.</description>
+      <title>Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.</title>
+      <link>https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html</link>
+      <pubDate>Thu, 22 Oct 2026 18:51:44 GMT</pubDate>
+      <description>Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.</description>
     </item>
   
   </channel>
