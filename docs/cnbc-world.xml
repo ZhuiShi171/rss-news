@@ -4,8 +4,15 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sat, 24 Oct 2026 11:50:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:21:05 GMT</lastBuildDate>
     
+    <item>
+      <title> Ukraine says Starlink and Starshield high speed restrictions have been lifted</title>
+      <link>https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html</link>
+      <pubDate>Sat, 24 Oct 2026 13:00:35 GMT</pubDate>
+      <description>Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.</description>
+    </item>
+  
     <item>
       <title>What next for France as riots rattle markets? Three questions facing investors ahead of more protests</title>
       <link>https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html</link>
@@ -14,10 +21,24 @@
     </item>
   
     <item>
-      <title>Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine</title>
-      <link>https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html</link>
-      <pubDate>Fri, 23 Oct 2026 15:33:47 GMT</pubDate>
-      <description>A letter demanding an investigation indicates Democrats will make investigating Starlink&apos;s interruption a top priority if they win control of the U.S. House.</description>
+      <title>Why popular airplanes are getting scrapped years early</title>
+      <link>https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html</link>
+      <pubDate>Sat, 24 Oct 2026 15:18:30 GMT</pubDate>
+      <description>Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.</description>
+    </item>
+  
+    <item>
+      <title>France is flashing euro crisis signals. This time, the fault lines are different</title>
+      <link>https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html</link>
+      <pubDate>Fri, 23 Oct 2026 11:12:38 GMT</pubDate>
+      <description>French borrowing costs have surged as debt and political risks mount, raising questions over whether the stress could spread across the euro zone.</description>
+    </item>
+  
+    <item>
+      <title>Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields</title>
+      <link>https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html</link>
+      <pubDate>Fri, 23 Oct 2026 22:49:42 GMT</pubDate>
+      <description>Moody&apos;s left its credit rating on France at Aa3, giving the country some relief in a week of unrest.</description>
     </item>
   
     <item>
@@ -42,17 +63,10 @@
     </item>
   
     <item>
-      <title>Musk&apos;s SpaceX is still restricting Starlink in Ukraine and the toll is rising</title>
-      <link>https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html</link>
-      <pubDate>Fri, 23 Oct 2026 19:50:26 GMT</pubDate>
-      <description>Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX&apos;s Starlink, hampering its military operations against Russia.</description>
-    </item>
-  
-    <item>
-      <title>In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE</title>
-      <link>https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html</link>
-      <pubDate>Fri, 23 Oct 2026 20:52:23 GMT</pubDate>
-      <description>With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.</description>
+      <title>AI debt and French bonds face a stress test — why it may not be over</title>
+      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
+      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
+      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
     </item>
   
     <item>
@@ -67,13 +81,6 @@
       <link>https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html</link>
       <pubDate>Fri, 23 Oct 2026 16:55:37 GMT</pubDate>
       <description>Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.</description>
-    </item>
-  
-    <item>
-      <title>AI debt and French bonds face a stress test — why it may not be over</title>
-      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
-      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
-      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
     </item>
   
     <item>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html</link>
       <pubDate>Fri, 23 Oct 2026 19:25:18 GMT</pubDate>
       <description>Meta shares just had their worst week in four years. Here&apos;s why Mike Khouw is buying now</description>
-    </item>
-  
-    <item>
-      <title>SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns</title>
-      <link>https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html</link>
-      <pubDate>Thu, 22 Oct 2026 21:58:42 GMT</pubDate>
-      <description>Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.</description>
     </item>
   
   </channel>
