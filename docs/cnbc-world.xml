@@ -4,7 +4,7 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:51:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:50:33 GMT</lastBuildDate>
     
     <item>
       <title>What next for France as riots rattle markets? Three questions facing investors ahead of more protests</title>
@@ -56,10 +56,24 @@
     </item>
   
     <item>
+      <title>TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC</title>
+      <link>https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html</link>
+      <pubDate>Fri, 23 Oct 2026 15:35:36 GMT</pubDate>
+      <description>The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.</description>
+    </item>
+  
+    <item>
       <title>AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble</title>
       <link>https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html</link>
       <pubDate>Fri, 23 Oct 2026 16:55:37 GMT</pubDate>
       <description>Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.</description>
+    </item>
+  
+    <item>
+      <title>AI debt and French bonds face a stress test — why it may not be over</title>
+      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
+      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
+      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
     </item>
   
     <item>
@@ -70,10 +84,17 @@
     </item>
   
     <item>
-      <title>AI debt and French bonds face a stress test — why it may not be over</title>
-      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
-      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
-      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
+      <title>Sovereign wealth funds&apos; China and Hong Kong investments surge 190% after a bruising slump</title>
+      <link>https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html</link>
+      <pubDate>Thu, 22 Oct 2026 02:20:50 GMT</pubDate>
+      <description>Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump.</description>
+    </item>
+  
+    <item>
+      <title>Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens</title>
+      <link>https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html</link>
+      <pubDate>Fri, 23 Oct 2026 04:55:59 GMT</pubDate>
+      <description>Bankers and lawyers say Chinese clients&apos; demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.</description>
     </item>
   
     <item>
@@ -88,27 +109,6 @@
       <link>https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html</link>
       <pubDate>Thu, 22 Oct 2026 21:58:42 GMT</pubDate>
       <description>Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.</description>
-    </item>
-  
-    <item>
-      <title>TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC</title>
-      <link>https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html</link>
-      <pubDate>Fri, 23 Oct 2026 15:35:36 GMT</pubDate>
-      <description>The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.</description>
-    </item>
-  
-    <item>
-      <title>Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows</title>
-      <link>https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html</link>
-      <pubDate>Fri, 23 Oct 2026 19:26:17 GMT</pubDate>
-      <description>Democrats have worked to contrast economic hardship with President Trump&apos;s surging net worth and his family&apos;s lucrative business dealings.</description>
-    </item>
-  
-    <item>
-      <title>American Express is cutting 5% of its workforce to &apos;prepare for AI&apos;</title>
-      <link>https://www.cnbc.com/2026/10/23/american-express-job-cuts.html</link>
-      <pubDate>Fri, 23 Oct 2026 18:57:48 GMT</pubDate>
-      <description>Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.</description>
     </item>
   
   </channel>
