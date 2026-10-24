@@ -4,12 +4,21 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:17:56 GMT</lastBuildDate>
     
     <item>
-      <title>Live Updates: Protesters March in France Amid Heavy Security</title>
+      <title>France Protest Updates: Hundreds of Thousands March Amid Heavy Security</title>
       <link>https://www.nytimes.com/live/2026/10/24/world/france-protests-riots</link>
-      <pubDate>Sat, 24 Oct 2026 15:16:53 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 18:11:45 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Why Is the U.S. Accusing Canada of Election Interference?</title>
+      <link>https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</link>
+      <pubDate>Sat, 24 Oct 2026 16:02:21 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -43,18 +52,18 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?</title>
+      <title>Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?</title>
       <link>https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html</link>
-      <pubDate>Sat, 24 Oct 2026 04:01:09 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 17:45:16 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Speed of Starshield Satellite Network Is Improving, Ukraine Says</title>
+      <title>Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says</title>
       <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
-      <pubDate>Sat, 24 Oct 2026 13:12:35 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 16:11:38 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -91,9 +100,7 @@ Please enable JS and disable any ad blocker</description>
       <title>Could Lula Be on the Brink of Defeat in Brazil’s Election?</title>
       <link>https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html</link>
       <pubDate>Sat, 24 Oct 2026 09:02:26 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.</description>
     </item>
   
     <item>
@@ -106,7 +113,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Why Are There Protests in France?</title>
       <link>https://www.nytimes.com/article/france-student-protests-why.html</link>
-      <pubDate>Sat, 24 Oct 2026 11:08:49 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 11:08:50 +0000</pubDate>
       <description>The authorities deployed tens of thousands of security forces and banned demonstrations in some cities, hoping to avoid a repeat of the riots that shook the country a week ago.</description>
     </item>
   
@@ -118,17 +125,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>The Bukeleization of Latin America Has Arrived</title>
-      <link>https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html</link>
-      <pubDate>Fri, 23 Oct 2026 13:05:25 +0000</pubDate>
-      <description>Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.</description>
-    </item>
-  
-    <item>
-      <title>Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future</title>
-      <link>https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html</link>
-      <pubDate>Sat, 24 Oct 2026 10:00:03 +0000</pubDate>
-      <description>Ahead of a vote on whether Albertans should remain part of Canada or cast a ballot to leave, the premier managed to alienate people on both sides. What now?</description>
+      <title>Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors</title>
+      <link>https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html</link>
+      <pubDate>Sat, 24 Oct 2026 16:00:32 +0000</pubDate>
+      <description>Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.</description>
     </item>
   
   </channel>
