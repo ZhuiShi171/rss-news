@@ -4,12 +4,21 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Sun, 25 Oct 2026 13:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:23:27 GMT</lastBuildDate>
     
+    <item>
+      <title>María Corina Machado Returns to Venezuela</title>
+      <link>https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</link>
+      <pubDate>Sun, 25 Oct 2026 16:38:03 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
     <item>
       <title>What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula</title>
       <link>https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html</link>
-      <pubDate>Sun, 25 Oct 2026 09:01:45 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 14:08:51 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -18,16 +27,16 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</title>
       <link>https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</link>
-      <pubDate>Sun, 25 Oct 2026 12:03:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 16:43:33 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</title>
+      <title>Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes</title>
       <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
-      <pubDate>Sun, 25 Oct 2026 12:36:48 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 15:50:53 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -63,7 +72,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Elon Musk Says Ukraine Violated Starlink’s Rules</title>
       <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
-      <pubDate>Sun, 25 Oct 2026 09:28:35 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 09:28:36 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -81,7 +90,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Italy’s Young Protesters Return to the Streets</title>
       <link>https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests</link>
-      <pubDate>Sun, 25 Oct 2026 01:26:08 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 15:41:09 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -91,9 +100,7 @@ Please enable JS and disable any ad blocker</description>
       <title>‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire</title>
       <link>https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html</link>
       <pubDate>Sat, 24 Oct 2026 19:53:56 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.</description>
     </item>
   
     <item>
@@ -101,13 +108,6 @@ Please enable JS and disable any ad blocker</description>
       <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html</link>
       <pubDate>Sat, 24 Oct 2026 09:03:21 +0000</pubDate>
       <description>The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.</description>
-    </item>
-  
-    <item>
-      <title>Why Is the U.S. Accusing Canada of Election Interference?</title>
-      <link>https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</link>
-      <pubDate>Sat, 24 Oct 2026 16:02:21 +0000</pubDate>
-      <description>The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”</description>
     </item>
   
     <item>
@@ -127,7 +127,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers</title>
       <link>https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html</link>
-      <pubDate>Sun, 25 Oct 2026 02:01:15 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 02:01:16 +0000</pubDate>
       <description>El Salvador had sent hundreds of troops to find the four men, who disappeared six days ago. The president of El Salvador denied the bodies were those of his soldiers.</description>
     </item>
   
