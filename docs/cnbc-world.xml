@@ -4,13 +4,20 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 25 Oct 2026 08:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:33:38 GMT</lastBuildDate>
     
     <item>
       <title>What next for France as riots rattle markets? Three questions facing investors ahead of more protests</title>
       <link>https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html</link>
       <pubDate>Sun, 25 Oct 2026 08:06:11 GMT</pubDate>
       <description>French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.</description>
+    </item>
+  
+    <item>
+      <title>Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis</title>
+      <link>https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html</link>
+      <pubDate>Sun, 25 Oct 2026 12:49:33 GMT</pubDate>
+      <description>Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.</description>
     </item>
   
     <item>
@@ -49,6 +56,13 @@
     </item>
   
     <item>
+      <title>AI debt and French bonds face a stress test — why it may not be over</title>
+      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
+      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
+      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
+    </item>
+  
+    <item>
       <title>Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields</title>
       <link>https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html</link>
       <pubDate>Fri, 23 Oct 2026 22:49:42 GMT</pubDate>
@@ -60,13 +74,6 @@
       <link>https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html</link>
       <pubDate>Sat, 24 Oct 2026 21:07:01 GMT</pubDate>
       <description>A memo from DNI director Jay Clayton said Iran is in the &quot;advanced stages&quot; of planning attacks against Americans.</description>
-    </item>
-  
-    <item>
-      <title>AI debt and French bonds face a stress test — why it may not be over</title>
-      <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
-      <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
-      <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
     </item>
   
     <item>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html</link>
       <pubDate>Fri, 23 Oct 2026 16:55:37 GMT</pubDate>
       <description>Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.</description>
-    </item>
-  
-    <item>
-      <title>Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets</title>
-      <link>https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html</link>
-      <pubDate>Fri, 23 Oct 2026 19:19:08 GMT</pubDate>
-      <description>The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.</description>
     </item>
   
   </channel>
