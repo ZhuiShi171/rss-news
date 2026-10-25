@@ -4,8 +4,17 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Sun, 25 Oct 2026 03:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:38:00 GMT</lastBuildDate>
     
+    <item>
+      <title>Far, Far Away</title>
+      <link>https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html</link>
+      <pubDate>Sun, 25 Oct 2026 04:01:26 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
     <item>
       <title>Elon Musk Says Ukraine Violated Starlink’s Rules</title>
       <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
@@ -16,9 +25,18 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
+      <title>What to Know as Serbia Votes for a New Parliament</title>
+      <link>https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html</link>
+      <pubDate>Sun, 25 Oct 2026 04:01:22 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
       <title>Iranians Face Anxious Wait as Threat of Attack Looms</title>
       <link>https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html</link>
-      <pubDate>Sun, 25 Oct 2026 00:51:45 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:14:43 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -82,18 +100,14 @@ Please enable JS and disable any ad blocker</description>
       <title>Why Is the U.S. Accusing Canada of Election Interference?</title>
       <link>https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</link>
       <pubDate>Sat, 24 Oct 2026 16:02:21 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”</description>
     </item>
   
     <item>
       <title>Violent Protests Resurface in Albania: What to Know</title>
       <link>https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html</link>
       <pubDate>Sat, 24 Oct 2026 21:54:36 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.</description>
     </item>
   
     <item>
@@ -101,20 +115,6 @@ Please enable JS and disable any ad blocker</description>
       <link>https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html</link>
       <pubDate>Sat, 24 Oct 2026 17:45:17 +0000</pubDate>
       <description>The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.</description>
-    </item>
-  
-    <item>
-      <title>Looting Left Damage and Fear on Paradise Street in Marseille</title>
-      <link>https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html</link>
-      <pubDate>Sun, 25 Oct 2026 02:49:00 +0000</pubDate>
-      <description>Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.</description>
-    </item>
-  
-    <item>
-      <title>Kim Jong-un Makes First Visit to China in Over a Year</title>
-      <link>https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html</link>
-      <pubDate>Sun, 25 Oct 2026 01:14:39 +0000</pubDate>
-      <description>The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.</description>
     </item>
   
     <item>
