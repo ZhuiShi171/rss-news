@@ -4,20 +4,27 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 25 Oct 2026 22:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:32:42 GMT</lastBuildDate>
     
     <item>
-      <title>In pictures: Initially peaceful protests across France over inequality again descend into violence </title>
+      <title>Brazil&apos;s Lula wins presidential election in runoff vote</title>
+      <link>https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html</link>
+      <pubDate>Mon, 26 Oct 2026 00:28:10 GMT</pubDate>
+      <description></description>
+    </item>
+  
+    <item>
+      <title>In pictures: Protests over inequality, rising living costs turn violent across France </title>
       <link>https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html</link>
-      <pubDate>Sun, 25 Oct 2026 14:14:23 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:55:22 GMT</pubDate>
       <description>Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.</description>
     </item>
   
     <item>
-      <title>Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs</title>
-      <link>https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html</link>
-      <pubDate>Sun, 25 Oct 2026 16:42:42 GMT</pubDate>
-      <description>Audi&apos;s CEO defended the company&apos;s plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.</description>
+      <title>‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis</title>
+      <link>https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html</link>
+      <pubDate>Mon, 26 Oct 2026 00:03:20 GMT</pubDate>
+      <description>The world&apos;s pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.</description>
     </item>
   
     <item>
@@ -28,24 +35,17 @@
     </item>
   
     <item>
+      <title>Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs</title>
+      <link>https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html</link>
+      <pubDate>Sun, 25 Oct 2026 16:42:42 GMT</pubDate>
+      <description>Audi&apos;s CEO defended the company&apos;s plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.</description>
+    </item>
+  
+    <item>
       <title>What Democrats and Republicans fear most about each other: CNBC survey has the answers</title>
       <link>https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html</link>
       <pubDate>Sun, 25 Oct 2026 12:00:01 GMT</pubDate>
       <description>The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.</description>
-    </item>
-  
-    <item>
-      <title>Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis</title>
-      <link>https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html</link>
-      <pubDate>Sun, 25 Oct 2026 13:41:37 GMT</pubDate>
-      <description>Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.</description>
-    </item>
-  
-    <item>
-      <title>Biotech stocks are surging. How investors can play the new drug innovation boom</title>
-      <link>https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html</link>
-      <pubDate>Sat, 24 Oct 2026 18:56:29 GMT</pubDate>
-      <description>Biotech stocks are rallying as clinical wins, M&amp;A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.</description>
     </item>
   
     <item>
@@ -60,6 +60,20 @@
       <link>https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html</link>
       <pubDate>Thu, 22 Oct 2026 18:13:37 GMT</pubDate>
       <description>Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.</description>
+    </item>
+  
+    <item>
+      <title>Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis</title>
+      <link>https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html</link>
+      <pubDate>Sun, 25 Oct 2026 13:41:37 GMT</pubDate>
+      <description>Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.</description>
+    </item>
+  
+    <item>
+      <title>Biotech stocks are surging. How investors can play the new drug innovation boom</title>
+      <link>https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html</link>
+      <pubDate>Sat, 24 Oct 2026 18:56:29 GMT</pubDate>
+      <description>Biotech stocks are rallying as clinical wins, M&amp;A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.</description>
     </item>
   
     <item>
@@ -91,24 +105,10 @@
     </item>
   
     <item>
-      <title>On the ground at Nvidia&apos;s AI showpiece: Jensen-mania, robot ducks and neocloud distress</title>
-      <link>https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html</link>
-      <pubDate>Fri, 23 Oct 2026 12:08:30 GMT</pubDate>
-      <description>The word on the ground from Nvidia&apos;s GTC conference in Berlin.</description>
-    </item>
-  
-    <item>
-      <title>TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC</title>
-      <link>https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html</link>
-      <pubDate>Fri, 23 Oct 2026 15:35:36 GMT</pubDate>
-      <description>The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.</description>
-    </item>
-  
-    <item>
-      <title>AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble</title>
-      <link>https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html</link>
-      <pubDate>Fri, 23 Oct 2026 16:55:37 GMT</pubDate>
-      <description>Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.</description>
+      <title>Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens</title>
+      <link>https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html</link>
+      <pubDate>Fri, 23 Oct 2026 04:55:59 GMT</pubDate>
+      <description>Bankers and lawyers say Chinese clients&apos; demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.</description>
     </item>
   
   </channel>
