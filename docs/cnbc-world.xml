@@ -4,34 +4,20 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Fri, 30 Oct 2026 22:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:59:37 GMT</lastBuildDate>
     
+    <item>
+      <title>Intel stock has worst day since 1970s, wiping about $12 billion off government&apos;s stake</title>
+      <link>https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html</link>
+      <pubDate>Fri, 30 Oct 2026 20:30:57 GMT</pubDate>
+      <description>Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.</description>
+    </item>
+  
     <item>
       <title>Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz</title>
       <link>https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html</link>
       <pubDate>Fri, 30 Oct 2026 18:28:09 GMT</pubDate>
       <description>Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.</description>
-    </item>
-  
-    <item>
-      <title>Binance hack: Investigators in a &apos;cat and mouse game&apos; to recover $6.3 billion in stolen funds</title>
-      <link>https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html</link>
-      <pubDate>Fri, 30 Oct 2026 19:27:03 GMT</pubDate>
-      <description>More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.</description>
-    </item>
-  
-    <item>
-      <title>Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked</title>
-      <link>https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html</link>
-      <pubDate>Fri, 30 Oct 2026 21:45:52 GMT</pubDate>
-      <description>Related Stories</description>
-    </item>
-  
-    <item>
-      <title>The big questions remaining after Anthropic’s blockbuster IPO prospectus</title>
-      <link>https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html</link>
-      <pubDate>Fri, 30 Oct 2026 12:27:36 GMT</pubDate>
-      <description>Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.</description>
     </item>
   
     <item>
@@ -42,10 +28,24 @@
     </item>
   
     <item>
-      <title>Reddit stock plunges 29% after weak outlook, wrapping its worst day ever</title>
-      <link>https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html</link>
-      <pubDate>Fri, 30 Oct 2026 20:11:12 GMT</pubDate>
-      <description>Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.</description>
+      <title>Binance hack: Investigators in a &apos;cat and mouse game&apos; to recover $6.3 billion in stolen funds</title>
+      <link>https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html</link>
+      <pubDate>Fri, 30 Oct 2026 19:27:03 GMT</pubDate>
+      <description>More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.</description>
+    </item>
+  
+    <item>
+      <title>The big questions remaining after Anthropic’s blockbuster IPO prospectus</title>
+      <link>https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html</link>
+      <pubDate>Fri, 30 Oct 2026 12:27:36 GMT</pubDate>
+      <description>Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.</description>
+    </item>
+  
+    <item>
+      <title>Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked</title>
+      <link>https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html</link>
+      <pubDate>Fri, 30 Oct 2026 21:45:52 GMT</pubDate>
+      <description>Related Stories</description>
     </item>
   
     <item>
@@ -53,6 +53,13 @@
       <link>https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html</link>
       <pubDate>Fri, 30 Oct 2026 17:22:30 GMT</pubDate>
       <description>Traders and investors are sounding trepidatious about the tech sector following a newsy week.</description>
+    </item>
+  
+    <item>
+      <title>Reddit stock plunges 29% after weak outlook, wrapping its worst day ever</title>
+      <link>https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html</link>
+      <pubDate>Fri, 30 Oct 2026 20:11:12 GMT</pubDate>
+      <description>Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.</description>
     </item>
   
     <item>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html</link>
       <pubDate>Fri, 30 Oct 2026 10:36:55 GMT</pubDate>
       <description>Amazon and Intel worsen the sell-off with disappointing earnings releases</description>
-    </item>
-  
-    <item>
-      <title>Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts</title>
-      <link>https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html</link>
-      <pubDate>Fri, 30 Oct 2026 11:16:46 GMT</pubDate>
-      <description>The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.</description>
     </item>
   
   </channel>
