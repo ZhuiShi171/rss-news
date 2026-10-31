@@ -4,8 +4,15 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sat, 31 Oct 2026 14:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:04:38 GMT</lastBuildDate>
     
+    <item>
+      <title>Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday</title>
+      <link>https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html</link>
+      <pubDate>Sat, 31 Oct 2026 18:12:09 GMT</pubDate>
+      <description>Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.</description>
+    </item>
+  
     <item>
       <title>Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says</title>
       <link>https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html</link>
@@ -21,24 +28,10 @@
     </item>
   
     <item>
-      <title>Binance’s $6.3 billion hack raises questions about crypto wallet safety</title>
-      <link>https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html</link>
-      <pubDate>Sat, 31 Oct 2026 12:47:08 GMT</pubDate>
-      <description>Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.</description>
-    </item>
-  
-    <item>
       <title>Trump called out Big Oil profits. Here’s how much their refining earnings have surged since</title>
       <link>https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html</link>
       <pubDate>Sat, 31 Oct 2026 06:00:02 GMT</pubDate>
       <description>Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.</description>
-    </item>
-  
-    <item>
-      <title>Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules</title>
-      <link>https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html</link>
-      <pubDate>Sat, 31 Oct 2026 13:04:29 GMT</pubDate>
-      <description>Interest groups tied to cryptocurrency are spending millions to tilt the midterm elections. They had mixed success in 2024</description>
     </item>
   
     <item>
@@ -109,6 +102,13 @@
       <link>https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html</link>
       <pubDate>Wed, 28 Oct 2026 23:38:00 GMT</pubDate>
       <description>For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.</description>
+    </item>
+  
+    <item>
+      <title>The AI investing story had a rough week. It may be time to take profits while you still can</title>
+      <link>https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html</link>
+      <pubDate>Fri, 30 Oct 2026 17:22:30 GMT</pubDate>
+      <description>Traders and investors are sounding trepidatious about the tech sector following a newsy week.</description>
     </item>
   
   </channel>
