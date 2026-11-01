@@ -4,7 +4,7 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Sun, 01 Nov 2026 20:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:44:43 GMT</lastBuildDate>
     
     <item>
       <title>India’s Congress Party Holds Mass Protest in New Delhi</title>
@@ -113,8 +113,15 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages</title>
       <link>https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html</link>
-      <pubDate>Sat, 31 Oct 2026 17:56:18 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 20:08:50 +0000</pubDate>
       <description>A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.</description>
+    </item>
+  
+    <item>
+      <title>A Lesson From Germany</title>
+      <link>https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html</link>
+      <pubDate>Sun, 01 Nov 2026 20:45:44 +0000</pubDate>
+      <description>Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.</description>
     </item>
   
     <item>
@@ -122,13 +129,6 @@ Please enable JS and disable any ad blocker</description>
       <link>https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html</link>
       <pubDate>Sun, 01 Nov 2026 10:02:33 +0000</pubDate>
       <description>He played a pivotal role in winning his region’s autonomy from Sudan in 1972, then served as a high-ranking diplomat. He was 94.</description>
-    </item>
-  
-    <item>
-      <title>Thailand’s Most Famous Snake Catcher</title>
-      <link>https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html</link>
-      <pubDate>Sun, 01 Nov 2026 15:10:28 +0000</pubDate>
-      <description>Pinyo Pukpinyo, Thailand’s most famous snake catcher, has found the critters slithering in nooks and crannies all over Bangkok. He refuses to kill them.</description>
     </item>
   
   </channel>
