@@ -4,20 +4,27 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 01 Nov 2026 08:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:44:19 GMT</lastBuildDate>
     
     <item>
-      <title>Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday</title>
+      <title>Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered</title>
       <link>https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html</link>
-      <pubDate>Sat, 31 Oct 2026 22:27:56 GMT</pubDate>
-      <description>Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.</description>
+      <pubDate>Sun, 01 Nov 2026 12:19:33 GMT</pubDate>
+      <description>Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.</description>
     </item>
   
     <item>
-      <title>Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says</title>
-      <link>https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html</link>
-      <pubDate>Sat, 31 Oct 2026 13:47:03 GMT</pubDate>
-      <description>Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.</description>
+      <title>Companies promised AI gains — here&apos;s how the payoff showed up in earnings </title>
+      <link>https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html</link>
+      <pubDate>Sun, 01 Nov 2026 12:34:06 GMT</pubDate>
+      <description>Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.</description>
+    </item>
+  
+    <item>
+      <title>‘Pop-up’ super PACs pour $637 million into 2026 midterm races</title>
+      <link>https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html</link>
+      <pubDate>Sat, 31 Oct 2026 12:00:01 GMT</pubDate>
+      <description>Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.</description>
     </item>
   
     <item>
@@ -28,24 +35,10 @@
     </item>
   
     <item>
-      <title>Trump called out Big Oil profits. Here’s how much their refining earnings have surged since</title>
-      <link>https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html</link>
-      <pubDate>Sat, 31 Oct 2026 06:00:02 GMT</pubDate>
-      <description>Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.</description>
-    </item>
-  
-    <item>
-      <title>Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead</title>
-      <link>https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html</link>
-      <pubDate>Sat, 31 Oct 2026 12:49:58 GMT</pubDate>
-      <description>President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.</description>
-    </item>
-  
-    <item>
-      <title>AI is coming to construction sites. But does it make workers safer?</title>
-      <link>https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html</link>
-      <pubDate>Sat, 31 Oct 2026 06:00:02 GMT</pubDate>
-      <description>AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.</description>
+      <title>The midterm election could reshape the muni bond market. Here’s what investors need to know</title>
+      <link>https://www.cnbc.com/2026/11/01/election-municipal-bonds.html</link>
+      <pubDate>Sun, 01 Nov 2026 12:30:48 GMT</pubDate>
+      <description>The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.</description>
     </item>
   
     <item>
@@ -63,52 +56,59 @@
     </item>
   
     <item>
+      <title>Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks</title>
+      <link>https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html</link>
+      <pubDate>Wed, 28 Oct 2026 00:14:24 GMT</pubDate>
+      <description>Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.</description>
+    </item>
+  
+    <item>
+      <title>Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says</title>
+      <link>https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html</link>
+      <pubDate>Sat, 31 Oct 2026 13:47:03 GMT</pubDate>
+      <description>Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.</description>
+    </item>
+  
+    <item>
+      <title>Trump called out Big Oil profits. Here’s how much their refining earnings have surged since</title>
+      <link>https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html</link>
+      <pubDate>Sat, 31 Oct 2026 06:00:02 GMT</pubDate>
+      <description>Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.</description>
+    </item>
+  
+    <item>
+      <title>Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead</title>
+      <link>https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html</link>
+      <pubDate>Sat, 31 Oct 2026 12:49:58 GMT</pubDate>
+      <description>President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.</description>
+    </item>
+  
+    <item>
+      <title>I&apos;m a psychologist who studies couples: People in the happiest relationships do 1 thing differently after time apart—whether it&apos;s hours, days or weeks</title>
+      <link>https://www.cnbc.com/make-it/2026/11/01/reconnect-partner-after-time-apart.html</link>
+      <pubDate>Sun, 01 Nov 2026 14:36:01 GMT</pubDate>
+      <description>Psychologist Mark Travers argues that the first few minutes after time apart are key to a close, happy relationship, and shares five tips to get them right.</description>
+    </item>
+  
+    <item>
+      <title>AI is coming to construction sites. But does it make workers safer?</title>
+      <link>https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html</link>
+      <pubDate>Sat, 31 Oct 2026 06:00:02 GMT</pubDate>
+      <description>AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.</description>
+    </item>
+  
+    <item>
+      <title>China and Russia are redrawing Arctic trade. Can Europe fight back?</title>
+      <link>https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html</link>
+      <pubDate>Wed, 28 Oct 2026 07:46:39 GMT</pubDate>
+      <description>China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.</description>
+    </item>
+  
+    <item>
       <title>OpenAI pares fundraising goal, now seeking up to $20 billion in latest round</title>
       <link>https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html</link>
       <pubDate>Sat, 31 Oct 2026 19:56:23 GMT</pubDate>
       <description>The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.</description>
-    </item>
-  
-    <item>
-      <title>Binance hack: Investigators in a &apos;cat and mouse game&apos; to recover $6.3 billion in stolen funds</title>
-      <link>https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html</link>
-      <pubDate>Fri, 30 Oct 2026 19:27:03 GMT</pubDate>
-      <description>More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.</description>
-    </item>
-  
-    <item>
-      <title>Intel stock has worst day since 1970s, wiping about $12 billion off government&apos;s stake</title>
-      <link>https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html</link>
-      <pubDate>Fri, 30 Oct 2026 20:30:57 GMT</pubDate>
-      <description>Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.</description>
-    </item>
-  
-    <item>
-      <title>The big questions remaining after Anthropic’s blockbuster IPO prospectus</title>
-      <link>https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html</link>
-      <pubDate>Fri, 30 Oct 2026 12:27:36 GMT</pubDate>
-      <description>Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.</description>
-    </item>
-  
-    <item>
-      <title>Meta outlook revised downward by S&amp;P on cash flow and capex concerns</title>
-      <link>https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html</link>
-      <pubDate>Fri, 30 Oct 2026 22:42:26 GMT</pubDate>
-      <description>Meta has been given a negative outlook by S&amp;P Global Ratings due to the company&apos;s hefty capital expenditures and concerns about free cash flow.</description>
-    </item>
-  
-    <item>
-      <title>&apos;Bad time to troll&apos;: Binance co-founder Zhao asks Musk for support after hack</title>
-      <link>https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html</link>
-      <pubDate>Fri, 30 Oct 2026 20:02:45 GMT</pubDate>
-      <description>Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.</description>
-    </item>
-  
-    <item>
-      <title>Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked</title>
-      <link>https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html</link>
-      <pubDate>Fri, 30 Oct 2026 21:45:52 GMT</pubDate>
-      <description>Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.</description>
     </item>
   
   </channel>
