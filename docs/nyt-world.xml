@@ -4,12 +4,21 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Fri, 06 Nov 2026 18:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:22:59 GMT</lastBuildDate>
     
     <item>
       <title>After Israel’s Election, Who Will Get the First Chance to Form a Government?</title>
       <link>https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</link>
-      <pubDate>Fri, 06 Nov 2026 17:50:02 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 22:36:15 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?</title>
+      <link>https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</link>
+      <pubDate>Fri, 06 Nov 2026 23:05:42 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -27,7 +36,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</title>
       <link>https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html</link>
-      <pubDate>Fri, 06 Nov 2026 14:35:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:24:08 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -45,7 +54,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says</title>
       <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</link>
-      <pubDate>Fri, 06 Nov 2026 17:16:56 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 20:07:47 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -81,7 +90,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder</title>
       <link>https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</link>
-      <pubDate>Fri, 06 Nov 2026 18:01:28 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 21:13:25 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -91,9 +100,7 @@ Please enable JS and disable any ad blocker</description>
       <title>Europe Still Sees Trump As Powerful, Especially in Foreign Policy</title>
       <link>https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</link>
       <pubDate>Fri, 06 Nov 2026 10:00:19 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.</description>
     </item>
   
     <item>
@@ -106,7 +113,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>European Countries Push, Again, To Deport Migrants to Rwanda</title>
       <link>https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html</link>
-      <pubDate>Fri, 06 Nov 2026 10:00:58 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 18:23:32 +0000</pubDate>
       <description>Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.</description>
     </item>
   
@@ -118,17 +125,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Who’s Hiding Secrets About Dag Hammarskjöld’s Death?</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</link>
-      <pubDate>Fri, 06 Nov 2026 09:12:27 +0000</pubDate>
-      <description>The U.N. leader died in a plane crash in 1961. Many suspect foul play, but a lot of information still remains secret.</description>
-    </item>
-  
-    <item>
-      <title>U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html</link>
-      <pubDate>Fri, 06 Nov 2026 17:17:40 +0000</pubDate>
-      <description>The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective.</description>
+      <title>Paraguay’s President Removed Over Financial Crisis</title>
+      <link>https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</link>
+      <pubDate>Fri, 06 Nov 2026 22:55:02 +0000</pubDate>
+      <description>Millions lost access to their savings, and the nation’s president was impeached and removed from office Friday after a major bank with close ties to his administration went under.</description>
     </item>
   
   </channel>

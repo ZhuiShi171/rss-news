@@ -4,20 +4,20 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Fri, 06 Nov 2026 18:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:23:11 GMT</lastBuildDate>
     
     <item>
-      <title>10-year Treasury yield is little changed after stronger-than-expected October jobs report</title>
-      <link>https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html</link>
-      <pubDate>Fri, 06 Nov 2026 17:55:44 GMT</pubDate>
-      <description>Investors assessed the path of monetary policy following a blowout October jobs report on Friday.</description>
+      <title>Investors brace for lower Anthropic valuation, calling $1.5 trillion a &apos;stretch&apos;</title>
+      <link>https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html</link>
+      <pubDate>Fri, 06 Nov 2026 21:07:07 GMT</pubDate>
+      <description>Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.</description>
     </item>
   
     <item>
-      <title>OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC</title>
-      <link>https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html</link>
-      <pubDate>Fri, 06 Nov 2026 17:24:48 GMT</pubDate>
-      <description>Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.</description>
+      <title>OpenAI bugging suspect Alfozan pleads not guilty</title>
+      <link>https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html</link>
+      <pubDate>Fri, 06 Nov 2026 21:15:47 GMT</pubDate>
+      <description>Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.</description>
     </item>
   
     <item>
@@ -25,6 +25,13 @@
       <link>https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html</link>
       <pubDate>Fri, 06 Nov 2026 12:54:13 GMT</pubDate>
       <description>Dozens of flights across Europe reported bomb threats this week, disrupting air travel across London, Dublin, and Helsinki.</description>
+    </item>
+  
+    <item>
+      <title>Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain</title>
+      <link>https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html</link>
+      <pubDate>Fri, 06 Nov 2026 18:40:58 GMT</pubDate>
+      <description>Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.</description>
     </item>
   
     <item>
@@ -58,15 +65,8 @@
     <item>
       <title>AI stocks hammered by midterm shock as data center buildout becomes a &apos;war of attrition&apos;</title>
       <link>https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html</link>
-      <pubDate>Fri, 06 Nov 2026 12:04:17 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 20:44:13 GMT</pubDate>
       <description>The election rout landed on an AI trade already under pressure from high interest rates, heavy capital spending and questions about returns.</description>
-    </item>
-  
-    <item>
-      <title>AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans</title>
-      <link>https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html</link>
-      <pubDate>Fri, 06 Nov 2026 11:24:52 GMT</pubDate>
-      <description>ING is reportedly seeking bids for about $500 million across 12 data center loans, including debt tied to a New Mexico Stargate site.</description>
     </item>
   
     <item>
@@ -84,9 +84,16 @@
     </item>
   
     <item>
-      <title>Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk</title>
+      <title>AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans</title>
+      <link>https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html</link>
+      <pubDate>Fri, 06 Nov 2026 11:24:52 GMT</pubDate>
+      <description>ING is reportedly seeking bids for about $500 million across 12 data center loans, including debt tied to a New Mexico Stargate site.</description>
+    </item>
+  
+    <item>
+      <title>Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections</title>
       <link>https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html</link>
-      <pubDate>Fri, 06 Nov 2026 16:07:23 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:54:30 GMT</pubDate>
       <description>Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.</description>
     </item>
   
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html</link>
       <pubDate>Fri, 06 Nov 2026 11:06:58 GMT</pubDate>
       <description>Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.</description>
-    </item>
-  
-    <item>
-      <title>Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy</title>
-      <link>https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html</link>
-      <pubDate>Fri, 06 Nov 2026 05:27:24 GMT</pubDate>
-      <description>Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.</description>
     </item>
   
   </channel>
