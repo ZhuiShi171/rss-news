@@ -4,21 +4,39 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Sat, 07 Nov 2026 16:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:23:44 GMT</lastBuildDate>
     
     <item>
-      <title>This Israeli Vows to Oust Netanyahu. Here’s How.</title>
-      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
-      <pubDate>Sat, 07 Nov 2026 12:42:56 +0000</pubDate>
+      <title>Israeli Opposition Leader Tapped to Try to Form Government</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html</link>
+      <pubDate>Sat, 07 Nov 2026 19:50:21 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Gunman Opens Fire in Krakow, Killing at Least 5, Polish Police Say</title>
+      <title>At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say</title>
       <link>https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html</link>
-      <pubDate>Sat, 07 Nov 2026 15:44:24 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:21:41 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html</link>
+      <pubDate>Sat, 07 Nov 2026 16:39:31 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Prosecutors Charge Paraguay’s Former President With Corruption</title>
+      <link>https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</link>
+      <pubDate>Sat, 07 Nov 2026 20:17:15 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -34,9 +52,18 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
+      <title>A ‘Chaotic Race’ for the World’s Top Diplomat</title>
+      <link>https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html</link>
+      <pubDate>Sat, 07 Nov 2026 17:26:52 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
       <title>Inside the Operation That Helped Ukraine Reverse Some Russian War Gains</title>
       <link>https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</link>
-      <pubDate>Sat, 07 Nov 2026 10:01:41 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 18:17:34 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -54,16 +81,16 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo</title>
       <link>https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html</link>
-      <pubDate>Sat, 07 Nov 2026 12:06:57 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 18:49:32 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Another Day of Protests Unfurls in France’s Autumn of Discontent</title>
+      <title>Another Day of France’s Protests Unfurl During an Autumn of Discontent</title>
       <link>https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html</link>
-      <pubDate>Sat, 07 Nov 2026 14:47:43 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:21:43 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -73,27 +100,14 @@ Please enable JS and disable any ad blocker</description>
       <title>Why Are There Protests in France?</title>
       <link>https://www.nytimes.com/article/france-student-protests-why.html</link>
       <pubDate>Sat, 07 Nov 2026 10:13:41 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.</description>
     </item>
   
     <item>
       <title>New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties</title>
       <link>https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</link>
       <pubDate>Sat, 07 Nov 2026 13:13:40 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Paraguay’s President Removed and Arrested Over Financial Crisis</title>
-      <link>https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</link>
-      <pubDate>Sat, 07 Nov 2026 01:29:30 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.</description>
     </item>
   
     <item>
@@ -101,20 +115,6 @@ Please enable JS and disable any ad blocker</description>
       <link>https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</link>
       <pubDate>Fri, 06 Nov 2026 10:22:24 +0000</pubDate>
       <description>Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.</description>
-    </item>
-  
-    <item>
-      <title>After Israel’s Election, Who Will Get the First Chance to Form a Government?</title>
-      <link>https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</link>
-      <pubDate>Sat, 07 Nov 2026 08:02:08 +0000</pubDate>
-      <description>President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.</description>
-    </item>
-  
-    <item>
-      <title>12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html</link>
-      <pubDate>Fri, 06 Nov 2026 19:24:09 +0000</pubDate>
-      <description>Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.</description>
     </item>
   
     <item>
