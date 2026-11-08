@@ -4,12 +4,21 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Sun, 08 Nov 2026 17:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:18:06 GMT</lastBuildDate>
     
     <item>
       <title>In Argentina, Pope Leo to Meet Church at Odds With President Milei</title>
       <link>https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html</link>
-      <pubDate>Sun, 08 Nov 2026 10:00:57 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 18:26:49 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Trains Collide Near Cairo, Killing 4</title>
+      <link>https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html</link>
+      <pubDate>Sun, 08 Nov 2026 19:50:07 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -34,9 +43,18 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
+      <title>How Israel’s Opposition Could Unseat Netanyahu (or Not)</title>
+      <link>https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</link>
+      <pubDate>Sun, 08 Nov 2026 17:31:14 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
       <title>Who Is Gadi Eisenkot, Israel’s Opposition Leader?</title>
       <link>https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html</link>
-      <pubDate>Sun, 08 Nov 2026 16:39:19 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:46:14 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -82,25 +100,14 @@ Please enable JS and disable any ad blocker</description>
       <title>Prosecutors Charge Paraguay’s Former President With Corruption</title>
       <link>https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</link>
       <pubDate>Sat, 07 Nov 2026 20:17:15 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.</description>
     </item>
   
     <item>
       <title>King Charles Was Umbrella-Less but in His Element on Caribbean Tour</title>
       <link>https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html</link>
       <pubDate>Sun, 08 Nov 2026 05:55:55 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life</title>
-      <link>https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html</link>
-      <pubDate>Sat, 07 Nov 2026 22:05:57 +0000</pubDate>
-      <description>A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.</description>
+      <description>In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.</description>
     </item>
   
     <item>
@@ -111,13 +118,6 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Another Day of France’s Protests Unfurl During an Autumn of Discontent</title>
-      <link>https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html</link>
-      <pubDate>Sat, 07 Nov 2026 21:00:19 +0000</pubDate>
-      <description>The crowds were smaller on Saturday than in previous weeks’ demonstrations, but the animating sense of grievance remained.</description>
-    </item>
-  
-    <item>
       <title>Pope Leo’s Trip to Latin America: What to Know</title>
       <link>https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</link>
       <pubDate>Fri, 06 Nov 2026 05:01:17 +0000</pubDate>
@@ -125,10 +125,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Trains Collide Near Cairo, Killing 4</title>
-      <link>https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html</link>
-      <pubDate>Sun, 08 Nov 2026 16:58:13 +0000</pubDate>
-      <description>The crash between two passenger trains was the latest in a long history of deadly rail accidents in Egypt, despite billions of dollars spent modernizing the network.</description>
+      <title>Why Winning Big Matters</title>
+      <link>https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html</link>
+      <pubDate>Sun, 08 Nov 2026 20:30:01 +0000</pubDate>
+      <description>The midterm elections in the United States and recent votes in Europe show how blowout victories can make results impossible to deny.</description>
     </item>
   
   </channel>
