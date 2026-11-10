@@ -4,12 +4,21 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Mon, 09 Nov 2026 19:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:58:42 GMT</lastBuildDate>
     
+    <item>
+      <title>Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency</title>
+      <link>https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html</link>
+      <pubDate>Mon, 09 Nov 2026 20:50:13 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
     <item>
       <title>France Blames Iran for Cyberattack on Refrigeration Systems</title>
       <link>https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html</link>
-      <pubDate>Mon, 09 Nov 2026 18:16:06 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 19:29:39 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -18,7 +27,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Mass Killing in Poland Becomes Cause for a Political Fight</title>
       <link>https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html</link>
-      <pubDate>Mon, 09 Nov 2026 18:53:07 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 22:29:12 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -27,7 +36,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Immigrants Are Being Systematically Returned Home Despite Court Orders</title>
       <link>https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html</link>
-      <pubDate>Mon, 09 Nov 2026 12:04:29 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 21:54:45 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -54,7 +63,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>A Country’s President Led to a Bank’s Stunning Rise, and Its Fall</title>
       <link>https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html</link>
-      <pubDate>Mon, 09 Nov 2026 14:43:11 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 21:26:15 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -90,10 +99,8 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Targeted by U.S., Armed Group Strikes Back in Colombia</title>
       <link>https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html</link>
-      <pubDate>Mon, 09 Nov 2026 05:45:34 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <pubDate>Mon, 09 Nov 2026 20:14:08 +0000</pubDate>
+      <description>American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said.</description>
     </item>
   
     <item>
@@ -111,10 +118,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>How Israel’s Opposition Could Unseat Netanyahu (or Not)</title>
-      <link>https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</link>
-      <pubDate>Sun, 08 Nov 2026 17:31:14 +0000</pubDate>
-      <description>Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.</description>
+      <title>The Nvidia Affair</title>
+      <link>https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html</link>
+      <pubDate>Mon, 09 Nov 2026 22:05:19 +0000</pubDate>
+      <description>An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.</description>
     </item>
   
     <item>
@@ -122,13 +129,6 @@ Please enable JS and disable any ad blocker</description>
       <link>https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html</link>
       <pubDate>Mon, 09 Nov 2026 13:48:04 +0000</pubDate>
       <description>Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.</description>
-    </item>
-  
-    <item>
-      <title>Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108</title>
-      <link>https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html</link>
-      <pubDate>Mon, 09 Nov 2026 10:02:46 +0000</pubDate>
-      <description>“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.</description>
     </item>
   
   </channel>
