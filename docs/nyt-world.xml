@@ -4,12 +4,30 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Tue, 10 Nov 2026 01:58:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:31:52 GMT</lastBuildDate>
     
+    <item>
+      <title>Saudi Arabia Sentences Mother to 100 Lashes for Birth Outside Marriage</title>
+      <link>https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html</link>
+      <pubDate>Tue, 10 Nov 2026 07:27:41 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
     <item>
       <title>Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency</title>
       <link>https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html</link>
       <pubDate>Mon, 09 Nov 2026 20:50:13 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Ukraine Peace Talks Resume This Week in Abu Dhabi</title>
+      <link>https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html</link>
+      <pubDate>Tue, 10 Nov 2026 03:39:35 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -36,16 +54,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Immigrants Are Being Systematically Returned Home Despite Court Orders</title>
       <link>https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html</link>
-      <pubDate>Mon, 09 Nov 2026 21:54:45 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Ukraine Peace Talks Resume This Week in Abu Dhabi</title>
-      <link>https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html</link>
-      <pubDate>Mon, 09 Nov 2026 15:08:54 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 21:54:46 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -91,9 +100,7 @@ Please enable JS and disable any ad blocker</description>
       <title>Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.</title>
       <link>https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html</link>
       <pubDate>Mon, 09 Nov 2026 18:12:15 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear.</description>
     </item>
   
     <item>
@@ -111,24 +118,17 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh</title>
-      <link>https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html</link>
-      <pubDate>Sun, 08 Nov 2026 16:52:42 +0000</pubDate>
-      <description>The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.</description>
+      <title>China’s Trade Surplus Passes $1 Trillion at Record Pace</title>
+      <link>https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:49 +0000</pubDate>
+      <description>China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.</description>
     </item>
   
     <item>
       <title>The Nvidia Affair</title>
       <link>https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html</link>
-      <pubDate>Mon, 09 Nov 2026 22:05:19 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 05:43:35 +0000</pubDate>
       <description>An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.</description>
-    </item>
-  
-    <item>
-      <title>Bipartisan Support for Israel Erodes as Both Sides Push for New Limits</title>
-      <link>https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html</link>
-      <pubDate>Mon, 09 Nov 2026 13:48:04 +0000</pubDate>
-      <description>Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.</description>
     </item>
   
   </channel>
