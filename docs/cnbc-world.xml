@@ -4,13 +4,55 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:58:59 GMT</lastBuildDate>
     
     <item>
-      <title>Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks </title>
+      <title>Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening</title>
       <link>https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html</link>
-      <pubDate>Wed, 11 Nov 2026 23:28:11 GMT</pubDate>
-      <description>The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.</description>
+      <pubDate>Thu, 12 Nov 2026 06:11:16 GMT</pubDate>
+      <description>Nvidia&apos;s board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.</description>
+    </item>
+  
+    <item>
+      <title>Elon Musk says it would be an &apos;honor&apos; to hire Nvidia&apos;s Jensen Huang </title>
+      <link>https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html</link>
+      <pubDate>Thu, 12 Nov 2026 03:25:05 GMT</pubDate>
+      <description>The post on X comes amid reports that Nvidia&apos;s board is preparing to oust Huang.</description>
+    </item>
+  
+    <item>
+      <title>The world&apos;s super-rich are piling into alternative investments. Here&apos;s why</title>
+      <link>https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html</link>
+      <pubDate>Thu, 12 Nov 2026 03:36:44 GMT</pubDate>
+      <description>Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.</description>
+    </item>
+  
+    <item>
+      <title>What we know so far about Nvidia partner Megaspeed’s Asia footprint</title>
+      <link>https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html</link>
+      <pubDate>Thu, 12 Nov 2026 03:02:03 GMT</pubDate>
+      <description>Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive&apos;s alleged affair with Jensen Huang.</description>
+    </item>
+  
+    <item>
+      <title>Inside India newsletter: Trump&apos;s poll setback fuels hope for U.S.-India trade deal by year end</title>
+      <link>https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html</link>
+      <pubDate>Wed, 11 Nov 2026 23:57:38 GMT</pubDate>
+      <description>While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.</description>
+    </item>
+  
+    <item>
+      <title>Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports</title>
+      <link>https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html</link>
+      <pubDate>Wed, 11 Nov 2026 22:46:29 GMT</pubDate>
+      <description>Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.</description>
+    </item>
+  
+    <item>
+      <title>Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted</title>
+      <link>https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html</link>
+      <pubDate>Thu, 12 Nov 2026 01:14:21 GMT</pubDate>
+      <description>Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia&apos;s board of directors is preparing to fire Huang.</description>
     </item>
   
     <item>
@@ -21,17 +63,31 @@
     </item>
   
     <item>
-      <title>CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report</title>
-      <link>https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html</link>
-      <pubDate>Wed, 11 Nov 2026 21:11:26 GMT</pubDate>
-      <description>Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.</description>
-    </item>
-  
-    <item>
       <title>CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program</title>
       <link>https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html</link>
       <pubDate>Wed, 11 Nov 2026 15:53:36 GMT</pubDate>
       <description>After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week&apos;s Democratic midterm sweep.</description>
+    </item>
+  
+    <item>
+      <title>Singapore wants a bigger slice of the global gold market. Is it too late to the party? </title>
+      <link>https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html</link>
+      <pubDate>Wed, 11 Nov 2026 07:02:45 GMT</pubDate>
+      <description>Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.</description>
+    </item>
+  
+    <item>
+      <title>Investors pivot to defensive stocks as markets enter a ‘state of alert’</title>
+      <link>https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html</link>
+      <pubDate>Wed, 11 Nov 2026 06:00:01 GMT</pubDate>
+      <description>Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.</description>
+    </item>
+  
+    <item>
+      <title>CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report</title>
+      <link>https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html</link>
+      <pubDate>Wed, 11 Nov 2026 21:11:26 GMT</pubDate>
+      <description>Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.</description>
     </item>
   
     <item>
@@ -53,62 +109,6 @@
       <link>https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html</link>
       <pubDate>Wed, 11 Nov 2026 21:04:36 GMT</pubDate>
       <description>Investors are assessing whether CEO Jensen Huang&apos;s affair will have spillover effects on Nvidia&apos;s business.</description>
-    </item>
-  
-    <item>
-      <title>Alibaba announces plans to list T-Head, its Nvidia chip rival</title>
-      <link>https://www.cnbc.com/2026/11/11/alibaba-pr.html</link>
-      <pubDate>Wed, 11 Nov 2026 07:47:54 GMT</pubDate>
-      <description>Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.</description>
-    </item>
-  
-    <item>
-      <title>Singapore wants a bigger slice of the global gold market. Is it too late to the party? </title>
-      <link>https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html</link>
-      <pubDate>Wed, 11 Nov 2026 07:02:45 GMT</pubDate>
-      <description>Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.</description>
-    </item>
-  
-    <item>
-      <title>Investors pivot to defensive stocks as markets enter a ‘state of alert’</title>
-      <link>https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html</link>
-      <pubDate>Wed, 11 Nov 2026 06:00:01 GMT</pubDate>
-      <description>Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.</description>
-    </item>
-  
-    <item>
-      <title>U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says</title>
-      <link>https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html</link>
-      <pubDate>Wed, 11 Nov 2026 05:15:50 GMT</pubDate>
-      <description>During Xi&apos;s September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.</description>
-    </item>
-  
-    <item>
-      <title>Meta head of infrastructure will leave and be succeeded by former AWS cloud exec</title>
-      <link>https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html</link>
-      <pubDate>Wed, 11 Nov 2026 18:57:38 GMT</pubDate>
-      <description>Meta&apos;s head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.</description>
-    </item>
-  
-    <item>
-      <title>JetBlue unveils new first-class seats to bring back profits</title>
-      <link>https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html</link>
-      <pubDate>Wed, 11 Nov 2026 22:10:50 GMT</pubDate>
-      <description>JetBlue gave reporters a look at its new first-class seats on Wednesday.</description>
-    </item>
-  
-    <item>
-      <title>Nvidia&apos;s Huang tries to project &apos;business as usual&apos; in return to office after affair revelation</title>
-      <link>https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html</link>
-      <pubDate>Wed, 11 Nov 2026 13:46:59 GMT</pubDate>
-      <description>Nvidia employees described the mood as &quot;sad&quot; as CEO Jensen Huang returned to the office after disclosing an affair.</description>
-    </item>
-  
-    <item>
-      <title>Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes</title>
-      <link>https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html</link>
-      <pubDate>Wed, 11 Nov 2026 19:55:39 GMT</pubDate>
-      <description>Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.</description>
     </item>
   
   </channel>
