@@ -4,13 +4,34 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Fri, 13 Nov 2026 17:59:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:27:56 GMT</lastBuildDate>
     
     <item>
-      <title>Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China</title>
-      <link>https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html</link>
-      <pubDate>Fri, 13 Nov 2026 17:06:57 GMT</pubDate>
-      <description>Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.</description>
+      <title>Nvidia is done with Jensen Huang. The fallout in Washington is just beginning</title>
+      <link>https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html</link>
+      <pubDate>Fri, 13 Nov 2026 22:28:19 GMT</pubDate>
+      <description>The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.</description>
+    </item>
+  
+    <item>
+      <title>FAA grounds departing flights nationwide, citing air traffic communication system outage</title>
+      <link>https://www.cnbc.com/2026/11/13/faa-ground-stop.html</link>
+      <pubDate>Fri, 13 Nov 2026 23:26:28 GMT</pubDate>
+      <description>The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, &quot;due to extraordinary circumstances and for reasons of safety.&quot;</description>
+    </item>
+  
+    <item>
+      <title>Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker</title>
+      <link>https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html</link>
+      <pubDate>Fri, 13 Nov 2026 19:11:13 GMT</pubDate>
+      <description>Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.</description>
+    </item>
+  
+    <item>
+      <title>AI risks are the biggest threat to the financial system, Fed survey finds</title>
+      <link>https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html</link>
+      <pubDate>Fri, 13 Nov 2026 21:18:30 GMT</pubDate>
+      <description>The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.</description>
     </item>
   
     <item>
@@ -42,27 +63,6 @@
     </item>
   
     <item>
-      <title>OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users</title>
-      <link>https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html</link>
-      <pubDate>Fri, 13 Nov 2026 15:31:58 GMT</pubDate>
-      <description>OpenAI&apos;s ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.</description>
-    </item>
-  
-    <item>
-      <title>U.S. seizes $1.2 billion in cryptocurrency stolen from Binance </title>
-      <link>https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:03:24 GMT</pubDate>
-      <description>The DOJ said it was taking action against the North Korean government&apos;s &quot;schemes to fund its regime through the massive theft of cryptocurrency.&quot;</description>
-    </item>
-  
-    <item>
-      <title>Microsoft apologizes for massive outage that took down Outlook and other 365 services</title>
-      <link>https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html</link>
-      <pubDate>Fri, 13 Nov 2026 17:52:30 GMT</pubDate>
-      <description>A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.</description>
-    </item>
-  
-    <item>
       <title>Alice Huang tied to Nvidia’s biggest Chinese competitor</title>
       <link>https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html</link>
       <pubDate>Thu, 12 Nov 2026 22:47:28 GMT</pubDate>
@@ -77,6 +77,27 @@
     </item>
   
     <item>
+      <title>OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users</title>
+      <link>https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html</link>
+      <pubDate>Fri, 13 Nov 2026 18:56:26 GMT</pubDate>
+      <description>OpenAI&apos;s ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.</description>
+    </item>
+  
+    <item>
+      <title>U.S. seizes $1.2 billion in cryptocurrency stolen from Binance </title>
+      <link>https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html</link>
+      <pubDate>Fri, 13 Nov 2026 12:03:24 GMT</pubDate>
+      <description>The DOJ said it was taking action against the North Korean government&apos;s &quot;schemes to fund its regime through the massive theft of cryptocurrency.&quot;</description>
+    </item>
+  
+    <item>
+      <title>Microsoft apologizes for massive outage that took down Outlook and other 365 services</title>
+      <link>https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html</link>
+      <pubDate>Fri, 13 Nov 2026 18:18:28 GMT</pubDate>
+      <description>A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.</description>
+    </item>
+  
+    <item>
       <title>Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force</title>
       <link>https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html</link>
       <pubDate>Fri, 13 Nov 2026 13:04:00 GMT</pubDate>
@@ -88,27 +109,6 @@
       <link>https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html</link>
       <pubDate>Fri, 13 Nov 2026 15:44:16 GMT</pubDate>
       <description>The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.</description>
-    </item>
-  
-    <item>
-      <title>Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales </title>
-      <link>https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html</link>
-      <pubDate>Fri, 13 Nov 2026 15:49:11 GMT</pubDate>
-      <description>Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang&apos;s affair with an alleged Chinese spy.</description>
-    </item>
-  
-    <item>
-      <title>Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus</title>
-      <link>https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:05:22 GMT</pubDate>
-      <description>Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.</description>
-    </item>
-  
-    <item>
-      <title>‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans</title>
-      <link>https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html</link>
-      <pubDate>Fri, 13 Nov 2026 14:24:57 GMT</pubDate>
-      <description>The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.</description>
     </item>
   
   </channel>
