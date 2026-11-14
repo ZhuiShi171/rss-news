@@ -4,27 +4,48 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Fri, 13 Nov 2026 23:27:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:28:38 GMT</lastBuildDate>
     
+    <item>
+      <title>Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials</title>
+      <link>https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html</link>
+      <pubDate>Sat, 14 Nov 2026 01:34:11 GMT</pubDate>
+      <description>Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.</description>
+    </item>
+  
+    <item>
+      <title>FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend</title>
+      <link>https://www.cnbc.com/2026/11/13/faa-ground-stop.html</link>
+      <pubDate>Sat, 14 Nov 2026 02:33:48 GMT</pubDate>
+      <description>The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.</description>
+    </item>
+  
     <item>
       <title>Nvidia is done with Jensen Huang. The fallout in Washington is just beginning</title>
       <link>https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html</link>
-      <pubDate>Fri, 13 Nov 2026 22:28:19 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 23:54:36 GMT</pubDate>
       <description>The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.</description>
     </item>
   
     <item>
-      <title>FAA grounds departing flights nationwide, citing air traffic communication system outage</title>
-      <link>https://www.cnbc.com/2026/11/13/faa-ground-stop.html</link>
-      <pubDate>Fri, 13 Nov 2026 23:26:28 GMT</pubDate>
-      <description>The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, &quot;due to extraordinary circumstances and for reasons of safety.&quot;</description>
+      <title>Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout</title>
+      <link>https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html</link>
+      <pubDate>Fri, 13 Nov 2026 21:18:11 GMT</pubDate>
+      <description>Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.</description>
     </item>
   
     <item>
-      <title>Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker</title>
+      <title>SpaceX launches Starship in key test flight of massive rocket</title>
+      <link>https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html</link>
+      <pubDate>Sat, 14 Nov 2026 01:18:51 GMT</pubDate>
+      <description>The test flight is SpaceX&apos;s first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.</description>
+    </item>
+  
+    <item>
+      <title>Lutnick faces questions over Nvidia spy scandal. His sons&apos; firm has deep ties to the chipmaker</title>
       <link>https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html</link>
-      <pubDate>Fri, 13 Nov 2026 19:11:13 GMT</pubDate>
-      <description>Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.</description>
+      <pubDate>Fri, 13 Nov 2026 23:42:18 GMT</pubDate>
+      <description>Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family&apos;s financial ties to the chipmaker.</description>
     </item>
   
     <item>
@@ -49,20 +70,6 @@
     </item>
   
     <item>
-      <title>I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him</title>
-      <link>https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:46:12 GMT</pubDate>
-      <description>CNBC&apos;s Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.</description>
-    </item>
-  
-    <item>
-      <title>Why the data center slowdown concern is overblown. Two stocks to buy amid the fear</title>
-      <link>https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html</link>
-      <pubDate>Fri, 13 Nov 2026 16:54:40 GMT</pubDate>
-      <description>Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.</description>
-    </item>
-  
-    <item>
       <title>Alice Huang tied to Nvidia’s biggest Chinese competitor</title>
       <link>https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html</link>
       <pubDate>Thu, 12 Nov 2026 22:47:28 GMT</pubDate>
@@ -77,6 +84,20 @@
     </item>
   
     <item>
+      <title>I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him</title>
+      <link>https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html</link>
+      <pubDate>Fri, 13 Nov 2026 12:46:12 GMT</pubDate>
+      <description>CNBC&apos;s Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.</description>
+    </item>
+  
+    <item>
+      <title>Why the data center slowdown concern is overblown. Two stocks to buy amid the fear</title>
+      <link>https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html</link>
+      <pubDate>Fri, 13 Nov 2026 16:54:40 GMT</pubDate>
+      <description>Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.</description>
+    </item>
+  
+    <item>
       <title>OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users</title>
       <link>https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html</link>
       <pubDate>Fri, 13 Nov 2026 18:56:26 GMT</pubDate>
@@ -88,27 +109,6 @@
       <link>https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html</link>
       <pubDate>Fri, 13 Nov 2026 12:03:24 GMT</pubDate>
       <description>The DOJ said it was taking action against the North Korean government&apos;s &quot;schemes to fund its regime through the massive theft of cryptocurrency.&quot;</description>
-    </item>
-  
-    <item>
-      <title>Microsoft apologizes for massive outage that took down Outlook and other 365 services</title>
-      <link>https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html</link>
-      <pubDate>Fri, 13 Nov 2026 18:18:28 GMT</pubDate>
-      <description>A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.</description>
-    </item>
-  
-    <item>
-      <title>Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force</title>
-      <link>https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html</link>
-      <pubDate>Fri, 13 Nov 2026 13:04:00 GMT</pubDate>
-      <description>It comes as the U.S. continues to enforce a comprehensive economic embargo against Cuba.</description>
-    </item>
-  
-    <item>
-      <title>Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years</title>
-      <link>https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html</link>
-      <pubDate>Fri, 13 Nov 2026 15:44:16 GMT</pubDate>
-      <description>The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.</description>
     </item>
   
   </channel>
