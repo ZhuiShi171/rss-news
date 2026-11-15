@@ -4,7 +4,7 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sat, 14 Nov 2026 21:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:11:18 GMT</lastBuildDate>
     
     <item>
       <title>Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials</title>
@@ -16,8 +16,15 @@
     <item>
       <title>Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy</title>
       <link>https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html</link>
-      <pubDate>Sat, 14 Nov 2026 18:32:47 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 23:21:21 GMT</pubDate>
       <description>The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.</description>
+    </item>
+  
+    <item>
+      <title>SpaceX catches upper stage of Starship rocket in historic first</title>
+      <link>https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html</link>
+      <pubDate>Sat, 14 Nov 2026 23:10:14 GMT</pubDate>
+      <description>Starship Test Flight 15 marked the first time Elon Musk&apos;s company tried to catch both the booster and upper stage of the rocket.</description>
     </item>
   
     <item>
@@ -28,10 +35,10 @@
     </item>
   
     <item>
-      <title>SpaceX launches Starship in key test flight of massive rocket</title>
-      <link>https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html</link>
-      <pubDate>Sat, 14 Nov 2026 01:18:51 GMT</pubDate>
-      <description>The test flight is SpaceX&apos;s first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.</description>
+      <title>&apos;Root cause’ of nationwide ground stop is unknown, FAA says</title>
+      <link>https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html</link>
+      <pubDate>Sat, 14 Nov 2026 22:54:47 GMT</pubDate>
+      <description>Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.</description>
     </item>
   
     <item>
@@ -56,13 +63,6 @@
     </item>
   
     <item>
-      <title>Ecuador wants to monetize its biodiversity — while still drilling for oil</title>
-      <link>https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html</link>
-      <pubDate>Sat, 14 Nov 2026 06:00:01 GMT</pubDate>
-      <description>Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.</description>
-    </item>
-  
-    <item>
       <title>Alice Huang tied to Nvidia’s biggest Chinese competitor</title>
       <link>https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html</link>
       <pubDate>Thu, 12 Nov 2026 22:47:28 GMT</pubDate>
@@ -74,6 +74,13 @@
       <link>https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html</link>
       <pubDate>Fri, 13 Nov 2026 02:25:02 GMT</pubDate>
       <description>Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.</description>
+    </item>
+  
+    <item>
+      <title>Ecuador wants to monetize its biodiversity — while still drilling for oil</title>
+      <link>https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html</link>
+      <pubDate>Sat, 14 Nov 2026 06:00:01 GMT</pubDate>
+      <description>Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.</description>
     </item>
   
     <item>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html</link>
       <pubDate>Sat, 14 Nov 2026 13:00:01 GMT</pubDate>
       <description>Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.</description>
-    </item>
-  
-    <item>
-      <title>Microsoft apologizes for massive outage that took down Outlook and other 365 services</title>
-      <link>https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html</link>
-      <pubDate>Sat, 14 Nov 2026 08:11:28 GMT</pubDate>
-      <description>A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.</description>
     </item>
   
   </channel>
