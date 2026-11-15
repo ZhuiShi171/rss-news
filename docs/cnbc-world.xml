@@ -4,13 +4,13 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 15 Nov 2026 15:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:48:02 GMT</lastBuildDate>
     
     <item>
-      <title>Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business</title>
-      <link>https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html</link>
-      <pubDate>Sun, 15 Nov 2026 08:34:46 GMT</pubDate>
-      <description>The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia&apos;s Jensen Huang to former Megaspeed executive Alice Huang.</description>
+      <title>Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO</title>
+      <link>https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html</link>
+      <pubDate>Sun, 15 Nov 2026 18:10:18 GMT</pubDate>
+      <description>Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.</description>
     </item>
   
     <item>
@@ -21,10 +21,10 @@
     </item>
   
     <item>
-      <title>Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy</title>
+      <title>DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop</title>
       <link>https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html</link>
-      <pubDate>Sun, 15 Nov 2026 02:53:59 GMT</pubDate>
-      <description>The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.</description>
+      <pubDate>Sun, 15 Nov 2026 18:15:14 GMT</pubDate>
+      <description>The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said.</description>
     </item>
   
     <item>
@@ -35,17 +35,17 @@
     </item>
   
     <item>
+      <title>Trump breaks silence about FAA nationwide ground stop, blames Biden administration </title>
+      <link>https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html</link>
+      <pubDate>Sun, 15 Nov 2026 16:56:40 GMT</pubDate>
+      <description>Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.</description>
+    </item>
+  
+    <item>
       <title>&apos;Root cause’ of nationwide ground stop is unknown, FAA says</title>
       <link>https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html</link>
       <pubDate>Sat, 14 Nov 2026 22:54:47 GMT</pubDate>
       <description>Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.</description>
-    </item>
-  
-    <item>
-      <title>How Rockstar&apos;s &apos;GTA VI&apos; release could reshape gaming, streaming and even paid time off</title>
-      <link>https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html</link>
-      <pubDate>Sat, 14 Nov 2026 14:54:22 GMT</pubDate>
-      <description>&quot;Grand Theft Auto VI&quot; launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.</description>
     </item>
   
     <item>
@@ -63,6 +63,13 @@
     </item>
   
     <item>
+      <title>How Rockstar&apos;s &apos;GTA VI&apos; release could reshape gaming, streaming and even paid time off</title>
+      <link>https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html</link>
+      <pubDate>Sat, 14 Nov 2026 14:54:22 GMT</pubDate>
+      <description>&quot;Grand Theft Auto VI&quot; launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.</description>
+    </item>
+  
+    <item>
       <title>Alice Huang tied to Nvidia’s biggest Chinese competitor</title>
       <link>https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html</link>
       <pubDate>Thu, 12 Nov 2026 22:47:28 GMT</pubDate>
@@ -73,7 +80,7 @@
       <title>I&apos;m a psychologist who studies couples—5 signs you&apos;ve fallen into a common rut: &apos;It builds through small habits that each look harmless&apos;</title>
       <link>https://www.cnbc.com/make-it/2026/11/15/couples-coexisting-without-connecting.html</link>
       <pubDate>Sun, 15 Nov 2026 13:48:01 GMT</pubDate>
-      <description>Related Stories</description>
+      <description>Couples today are vulnerable to &quot;coexistence without contact,&quot; says psychologist Mark Travers. Here are the symptoms — and what you can do to counteract them.</description>
     </item>
   
     <item>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html</link>
       <pubDate>Sat, 14 Nov 2026 12:00:01 GMT</pubDate>
       <description>Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.</description>
-    </item>
-  
-    <item>
-      <title>How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts</title>
-      <link>https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html</link>
-      <pubDate>Sat, 14 Nov 2026 15:50:43 GMT</pubDate>
-      <description>ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.</description>
     </item>
   
   </channel>
