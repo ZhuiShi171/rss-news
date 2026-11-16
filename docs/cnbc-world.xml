@@ -4,13 +4,20 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 15 Nov 2026 20:48:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:43:52 GMT</lastBuildDate>
     
     <item>
       <title>Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO</title>
       <link>https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html</link>
       <pubDate>Sun, 15 Nov 2026 18:10:18 GMT</pubDate>
       <description>Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.</description>
+    </item>
+  
+    <item>
+      <title>Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite</title>
+      <link>https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html</link>
+      <pubDate>Mon, 16 Nov 2026 00:11:25 GMT</pubDate>
+      <description>Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.</description>
     </item>
   
     <item>
@@ -42,13 +49,6 @@
     </item>
   
     <item>
-      <title>&apos;Root cause’ of nationwide ground stop is unknown, FAA says</title>
-      <link>https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html</link>
-      <pubDate>Sat, 14 Nov 2026 22:54:47 GMT</pubDate>
-      <description>Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.</description>
-    </item>
-  
-    <item>
       <title>Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one</title>
       <link>https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html</link>
       <pubDate>Sat, 14 Nov 2026 07:08:45 GMT</pubDate>
@@ -60,6 +60,13 @@
       <link>https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html</link>
       <pubDate>Sun, 15 Nov 2026 06:00:01 GMT</pubDate>
       <description>With its mix of sights, cafés and culture, Hungary&apos;s capital Budapest has become popular with those embracing the &quot;work from anywhere&quot; trend.</description>
+    </item>
+  
+    <item>
+      <title>&apos;Root cause’ of nationwide ground stop is unknown, FAA says</title>
+      <link>https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html</link>
+      <pubDate>Sat, 14 Nov 2026 22:54:47 GMT</pubDate>
+      <description>Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.</description>
     </item>
   
     <item>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html</link>
       <pubDate>Sat, 14 Nov 2026 06:00:01 GMT</pubDate>
       <description>Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.</description>
-    </item>
-  
-    <item>
-      <title>Eric Trump-backed robot soldier startup can&apos;t pay staff after founder borrowed $4.6 million from company to buy home</title>
-      <link>https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html</link>
-      <pubDate>Sat, 14 Nov 2026 12:00:01 GMT</pubDate>
-      <description>Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.</description>
     </item>
   
   </channel>
