@@ -4,30 +4,93 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Thu, 19 Nov 2026 08:29:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:35:29 GMT</lastBuildDate>
     
     <item>
-      <title>Live Updates: Trump, Xi and Putin to Meet for Their First Summit</title>
+      <title>U.N. Court Rules Myanmar Committed Genocide Against Rohingya</title>
+      <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide</link>
+      <pubDate>Thu, 19 Nov 2026 16:16:31 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Trump, Xi and Putin Seek to Project Power at Their First Summit</title>
       <link>https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec</link>
-      <pubDate>Thu, 19 Nov 2026 08:21:09 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 17:25:18 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>A Village Burned, Its People Killed or Exiled. Was It Genocide?</title>
+      <title>Life in the Rohingya camps in Bangladesh is becoming more precarious.</title>
+      <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj</link>
+      <pubDate>Thu, 19 Nov 2026 13:50:10 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>The Rohingya Crisis Over the Years</title>
+      <link>https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html</link>
+      <pubDate>Thu, 19 Nov 2026 16:27:27 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power</title>
+      <link>https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html</link>
+      <pubDate>Thu, 19 Nov 2026 12:41:50 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Greenland Pulls Closer to the U.S. — by an Hour</title>
+      <link>https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html</link>
+      <pubDate>Thu, 19 Nov 2026 16:14:05 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh</title>
+      <link>https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html</link>
+      <pubDate>Thu, 19 Nov 2026 16:17:54 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.</title>
       <link>https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html</link>
-      <pubDate>Thu, 19 Nov 2026 06:42:09 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 15:40:39 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast</title>
+      <title>Colombia’s President Is Acquiring a Reputation for Courting Controversy</title>
+      <link>https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html</link>
+      <pubDate>Thu, 19 Nov 2026 10:03:10 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?</title>
       <link>https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html</link>
-      <pubDate>Thu, 19 Nov 2026 05:01:08 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 16:56:13 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -36,99 +99,36 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests</title>
       <link>https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html</link>
-      <pubDate>Thu, 19 Nov 2026 05:01:06 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <pubDate>Thu, 19 Nov 2026 12:16:39 +0000</pubDate>
+      <description>After a historic result for Israel’s Arab-led parties, Prime Minister Benjamin Netanyahu said the vote was rigged, pointing to the detention of three opposition activists. His chief of staff has admitted being involved with the initial outreach to police.</description>
     </item>
   
     <item>
       <title>Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?</title>
       <link>https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html</link>
-      <pubDate>Wed, 18 Nov 2026 14:16:41 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <pubDate>Thu, 19 Nov 2026 14:13:07 +0000</pubDate>
+      <description>An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.</description>
     </item>
   
     <item>
       <title>Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion</title>
       <link>https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html</link>
       <pubDate>Wed, 18 Nov 2026 20:29:31 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.</description>
     </item>
   
     <item>
-      <title>Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter</title>
-      <link>https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html</link>
-      <pubDate>Wed, 18 Nov 2026 15:37:11 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <title>At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home</title>
+      <link>https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html</link>
+      <pubDate>Thu, 19 Nov 2026 17:05:18 +0000</pubDate>
+      <description>Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.</description>
     </item>
   
     <item>
-      <title>Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.</title>
-      <link>https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html</link>
-      <pubDate>Wed, 18 Nov 2026 18:38:15 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit</title>
-      <link>https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html</link>
-      <pubDate>Thu, 19 Nov 2026 03:58:57 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Leaders of China and Japan Meet Amid Political Feud</title>
-      <link>https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html</link>
-      <pubDate>Wed, 18 Nov 2026 13:46:45 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War</title>
-      <link>https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html</link>
-      <pubDate>Wed, 18 Nov 2026 05:01:06 +0000</pubDate>
-      <description>Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.</description>
-    </item>
-  
-    <item>
-      <title>Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage</title>
-      <link>https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html</link>
-      <pubDate>Wed, 18 Nov 2026 07:46:33 +0000</pubDate>
-      <description>The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.</description>
-    </item>
-  
-    <item>
-      <title>What to Know About the Myanmar Genocide Case at the World Court</title>
-      <link>https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html</link>
-      <pubDate>Wed, 18 Nov 2026 10:03:51 +0000</pubDate>
-      <description>The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.</description>
-    </item>
-  
-    <item>
-      <title>Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’</title>
-      <link>https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html</link>
-      <pubDate>Wed, 18 Nov 2026 22:24:50 +0000</pubDate>
-      <description>In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.</description>
-    </item>
-  
-    <item>
-      <title>Villa Where Trump, Xi and Putin Will Meet Once Hosted Kim Jong-il</title>
-      <link>https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html</link>
-      <pubDate>Thu, 19 Nov 2026 06:53:53 +0000</pubDate>
-      <description>The secluded Kylin Villa resort in the Chinese city of Shenzhen once hosted the North Korean dictator, Xi Jinping’s father and envoys of the Dalai Lama.</description>
+      <title>Major Powers Vow to Increase Oil Supply Amid Global Energy Transition</title>
+      <link>https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html</link>
+      <pubDate>Thu, 19 Nov 2026 17:25:17 +0000</pubDate>
+      <description>The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.</description>
     </item>
   
   </channel>
