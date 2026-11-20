@@ -4,13 +4,41 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:37:30 GMT</lastBuildDate>
     
     <item>
-      <title>Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices</title>
-      <link>https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html</link>
-      <pubDate>Thu, 19 Nov 2026 23:59:29 GMT</pubDate>
-      <description>The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.</description>
+      <title>SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks </title>
+      <link>https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html</link>
+      <pubDate>Fri, 20 Nov 2026 07:23:06 GMT</pubDate>
+      <description>The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic&apos;s highly anticipated Wall Street debut.</description>
+    </item>
+  
+    <item>
+      <title>U.K.-India trade deal faces a stiff test over Scotch whisky import taxes</title>
+      <link>https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html</link>
+      <pubDate>Fri, 20 Nov 2026 05:09:52 GMT</pubDate>
+      <description>In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years.</description>
+    </item>
+  
+    <item>
+      <title>Forget Anthropic: In Europe, the IPO hype is about a blue lagoon</title>
+      <link>https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html</link>
+      <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
+      <description>Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.</description>
+    </item>
+  
+    <item>
+      <title>Senate passes BAAJA permitting reform bill backed by AI, energy sectors</title>
+      <link>https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html</link>
+      <pubDate>Fri, 20 Nov 2026 03:56:17 GMT</pubDate>
+      <description>The permitting bill&apos;s Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump&apos;s desk.</description>
+    </item>
+  
+    <item>
+      <title>AI is changing software engineering — and some developers miss the struggle</title>
+      <link>https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html</link>
+      <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
+      <description>AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its &quot;sense of joy and fun.&quot;</description>
     </item>
   
     <item>
@@ -21,9 +49,37 @@
     </item>
   
     <item>
+      <title>Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices</title>
+      <link>https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html</link>
+      <pubDate>Fri, 20 Nov 2026 01:49:03 GMT</pubDate>
+      <description>The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.</description>
+    </item>
+  
+    <item>
+      <title>Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi </title>
+      <link>https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html</link>
+      <pubDate>Wed, 18 Nov 2026 08:29:35 GMT</pubDate>
+      <description>Putin used the speech to emphasize Russia&apos;s economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.</description>
+    </item>
+  
+    <item>
+      <title>‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy</title>
+      <link>https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html</link>
+      <pubDate>Fri, 20 Nov 2026 07:08:36 GMT</pubDate>
+      <description>GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.</description>
+    </item>
+  
+    <item>
+      <title>APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance</title>
+      <link>https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html</link>
+      <pubDate>Thu, 19 Nov 2026 10:54:07 GMT</pubDate>
+      <description>Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.</description>
+    </item>
+  
+    <item>
       <title>Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says</title>
       <link>https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html</link>
-      <pubDate>Fri, 20 Nov 2026 00:02:36 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 00:53:55 GMT</pubDate>
       <description>Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.</description>
     </item>
   
@@ -53,62 +109,6 @@
       <link>https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html</link>
       <pubDate>Thu, 19 Nov 2026 14:15:18 GMT</pubDate>
       <description>Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.</description>
-    </item>
-  
-    <item>
-      <title>Lumentum CEO defends Marvell deal after stock plunge: &apos;We&apos;ve got work to do&apos; with shareholders</title>
-      <link>https://www.cnbc.com/2026/11/19/lumentum-marvell-deal-ceo-shareholders-cramer.html</link>
-      <pubDate>Thu, 19 Nov 2026 23:47:42 GMT</pubDate>
-      <description>Lumentum CEO defended the planned Marvell merger despite stock sell-off.</description>
-    </item>
-  
-    <item>
-      <title>Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi </title>
-      <link>https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html</link>
-      <pubDate>Wed, 18 Nov 2026 08:29:35 GMT</pubDate>
-      <description>Putin used the speech to emphasize Russia&apos;s economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.</description>
-    </item>
-  
-    <item>
-      <title>APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance</title>
-      <link>https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html</link>
-      <pubDate>Thu, 19 Nov 2026 10:54:07 GMT</pubDate>
-      <description>Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.</description>
-    </item>
-  
-    <item>
-      <title>Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions</title>
-      <link>https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html</link>
-      <pubDate>Thu, 19 Nov 2026 12:02:08 GMT</pubDate>
-      <description>It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.</description>
-    </item>
-  
-    <item>
-      <title>One of the world&apos;s most contested seas is proving too much for Asia&apos;s leaders to resolve</title>
-      <link>https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html</link>
-      <pubDate>Thu, 19 Nov 2026 00:31:00 GMT</pubDate>
-      <description>The ASEAN summit in the Philippines failed to conclude the Code of Conduct for the South China Sea despite Manila pledging it would happen this year.</description>
-    </item>
-  
-    <item>
-      <title>Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test</title>
-      <link>https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html</link>
-      <pubDate>Thu, 19 Nov 2026 00:01:23 GMT</pubDate>
-      <description>India’s inflation, which has been on the rise for 12 straight months, is becoming a risk to growth and to the reversal of foreign inflows.</description>
-    </item>
-  
-    <item>
-      <title>Palo Alto stock jumps on earnings beat and company&apos;s big bet on securing open-weight models</title>
-      <link>https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html</link>
-      <pubDate>Thu, 19 Nov 2026 21:00:57 GMT</pubDate>
-      <description>Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute</description>
-    </item>
-  
-    <item>
-      <title>Musk says Jensen Huang is irreplaceable, regrets midterm spending</title>
-      <link>https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html</link>
-      <pubDate>Thu, 19 Nov 2026 02:49:35 GMT</pubDate>
-      <description>Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.</description>
     </item>
   
   </channel>
