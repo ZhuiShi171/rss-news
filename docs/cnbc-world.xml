@@ -4,8 +4,15 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sat, 21 Nov 2026 03:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:04:22 GMT</lastBuildDate>
     
+    <item>
+      <title>How China is using summits to expand its global influence</title>
+      <link>https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html</link>
+      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
+      <description>Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.</description>
+    </item>
+  
     <item>
       <title>Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;</title>
       <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
@@ -14,10 +21,59 @@
     </item>
   
     <item>
+      <title>International first class is over for U.S. airlines. Enter the mega business-class cabin</title>
+      <link>https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html</link>
+      <pubDate>Sat, 21 Nov 2026 12:00:01 GMT</pubDate>
+      <description>Airlines are opting to build giant business-class cabins with ever-more luxurious suites.</description>
+    </item>
+  
+    <item>
+      <title>Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect</title>
+      <link>https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html</link>
+      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
+      <description>Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.</description>
+    </item>
+  
+    <item>
+      <title>An early breakdown in the polar vortex is threatening already depleted gas stocks</title>
+      <link>https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html</link>
+      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
+      <description>Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.</description>
+    </item>
+  
+    <item>
+      <title>‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy</title>
+      <link>https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html</link>
+      <pubDate>Fri, 20 Nov 2026 07:08:36 GMT</pubDate>
+      <description>GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.</description>
+    </item>
+  
+    <item>
+      <title>APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance</title>
+      <link>https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html</link>
+      <pubDate>Thu, 19 Nov 2026 10:54:07 GMT</pubDate>
+      <description>Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.</description>
+    </item>
+  
+    <item>
+      <title>Forget Anthropic: In Europe, the IPO hype is about a blue lagoon</title>
+      <link>https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html</link>
+      <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
+      <description>Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.</description>
+    </item>
+  
+    <item>
       <title>Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor</title>
       <link>https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html</link>
       <pubDate>Fri, 20 Nov 2026 21:35:24 GMT</pubDate>
       <description>Cybersecurity companies have been hunting for acquisitions in the AI era.</description>
+    </item>
+  
+    <item>
+      <title>AI is changing software engineering — and some developers miss the struggle</title>
+      <link>https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html</link>
+      <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
+      <description>AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its &quot;sense of joy and fun.&quot;</description>
     </item>
   
     <item>
@@ -53,62 +109,6 @@
       <link>https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html</link>
       <pubDate>Fri, 20 Nov 2026 21:10:48 GMT</pubDate>
       <description>Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.</description>
-    </item>
-  
-    <item>
-      <title>‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy</title>
-      <link>https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html</link>
-      <pubDate>Fri, 20 Nov 2026 07:08:36 GMT</pubDate>
-      <description>GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.</description>
-    </item>
-  
-    <item>
-      <title>APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance</title>
-      <link>https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html</link>
-      <pubDate>Thu, 19 Nov 2026 10:54:07 GMT</pubDate>
-      <description>Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.</description>
-    </item>
-  
-    <item>
-      <title>Forget Anthropic: In Europe, the IPO hype is about a blue lagoon</title>
-      <link>https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html</link>
-      <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
-      <description>Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.</description>
-    </item>
-  
-    <item>
-      <title>Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress</title>
-      <link>https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html</link>
-      <pubDate>Fri, 20 Nov 2026 21:04:48 GMT</pubDate>
-      <description>Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.</description>
-    </item>
-  
-    <item>
-      <title>Ex-GM CEO on Mary Barra succession planning: &apos;It&apos;s going to be tough&apos;</title>
-      <link>https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html</link>
-      <pubDate>Fri, 20 Nov 2026 15:50:27 GMT</pubDate>
-      <description>Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they&apos;ll inherit rapid change in technology and the auto industry.</description>
-    </item>
-  
-    <item>
-      <title>As Anthropic shares tank, investors scramble to hedge. It could be very expensive</title>
-      <link>https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html</link>
-      <pubDate>Fri, 20 Nov 2026 15:12:40 GMT</pubDate>
-      <description>Anthropic options list Monday. They will likely be expensive</description>
-    </item>
-  
-    <item>
-      <title>Data center construction costs soar 13% in 2026</title>
-      <link>https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html</link>
-      <pubDate>Fri, 20 Nov 2026 16:52:08 GMT</pubDate>
-      <description>The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.</description>
-    </item>
-  
-    <item>
-      <title>Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?</title>
-      <link>https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html</link>
-      <pubDate>Fri, 20 Nov 2026 14:34:14 GMT</pubDate>
-      <description>With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.</description>
     </item>
   
   </channel>
