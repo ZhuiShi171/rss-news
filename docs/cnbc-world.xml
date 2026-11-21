@@ -4,8 +4,15 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sat, 21 Nov 2026 12:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:37:52 GMT</lastBuildDate>
     
+    <item>
+      <title>Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020</title>
+      <link>https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html</link>
+      <pubDate>Sat, 21 Nov 2026 16:40:05 GMT</pubDate>
+      <description>Anthropic held its historic Nasdaq debut a day before Nvidia&apos;s stock closed out its longest weekly losing streak since 2008.</description>
+    </item>
+  
     <item>
       <title>How China is using summits to expand its global influence</title>
       <link>https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html</link>
@@ -14,10 +21,17 @@
     </item>
   
     <item>
-      <title>Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;</title>
-      <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
-      <pubDate>Fri, 20 Nov 2026 20:47:58 GMT</pubDate>
-      <description>Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.</description>
+      <title>Tech outages are fueling a new doomsday economy</title>
+      <link>https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html</link>
+      <pubDate>Sat, 21 Nov 2026 15:04:56 GMT</pubDate>
+      <description>Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.</description>
+    </item>
+  
+    <item>
+      <title>State and federal battle over prediction markets regulation heats up after midterms</title>
+      <link>https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html</link>
+      <pubDate>Sat, 21 Nov 2026 13:12:41 GMT</pubDate>
+      <description>States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.</description>
     </item>
   
     <item>
@@ -28,17 +42,24 @@
     </item>
   
     <item>
-      <title>Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect</title>
-      <link>https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html</link>
-      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
-      <description>Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.</description>
+      <title>An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions</title>
+      <link>https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html</link>
+      <pubDate>Sat, 21 Nov 2026 14:05:40 GMT</pubDate>
+      <description>Inside California’s modern-day gold rushSkip Navigation</description>
     </item>
   
     <item>
-      <title>An early breakdown in the polar vortex is threatening already depleted gas stocks</title>
-      <link>https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html</link>
-      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
-      <description>Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.</description>
+      <title>Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;</title>
+      <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
+      <pubDate>Fri, 20 Nov 2026 20:47:58 GMT</pubDate>
+      <description>Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.</description>
+    </item>
+  
+    <item>
+      <title>Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away</title>
+      <link>https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html</link>
+      <pubDate>Sat, 21 Nov 2026 13:01:44 GMT</pubDate>
+      <description>Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.</description>
     </item>
   
     <item>
@@ -63,6 +84,20 @@
     </item>
   
     <item>
+      <title>Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect</title>
+      <link>https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html</link>
+      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
+      <description>Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.</description>
+    </item>
+  
+    <item>
+      <title>An early breakdown in the polar vortex is threatening already depleted gas stocks</title>
+      <link>https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html</link>
+      <pubDate>Sat, 21 Nov 2026 12:47:25 GMT</pubDate>
+      <description>Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.</description>
+    </item>
+  
+    <item>
       <title>Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor</title>
       <link>https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html</link>
       <pubDate>Fri, 20 Nov 2026 21:35:24 GMT</pubDate>
@@ -74,41 +109,6 @@
       <link>https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html</link>
       <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
       <description>AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its &quot;sense of joy and fun.&quot;</description>
-    </item>
-  
-    <item>
-      <title>SpaceX’s subsidiary Cursor tells lawmakers it&apos;s considering phasing out Chinese AI models</title>
-      <link>https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html</link>
-      <pubDate>Fri, 20 Nov 2026 14:07:24 GMT</pubDate>
-      <description>SpaceX&apos;s Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.</description>
-    </item>
-  
-    <item>
-      <title>Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged</title>
-      <link>https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html</link>
-      <pubDate>Fri, 20 Nov 2026 22:08:41 GMT</pubDate>
-      <description>Trump said he discussed Jensen Huang with China&apos;s Xi. Bessent said the ousted Nvidia CEO didn&apos;t come up in talks he had while in China.</description>
-    </item>
-  
-    <item>
-      <title>U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia</title>
-      <link>https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html</link>
-      <pubDate>Fri, 20 Nov 2026 13:29:50 GMT</pubDate>
-      <description>Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.</description>
-    </item>
-  
-    <item>
-      <title>Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence</title>
-      <link>https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html</link>
-      <pubDate>Fri, 20 Nov 2026 21:06:45 GMT</pubDate>
-      <description>Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.</description>
-    </item>
-  
-    <item>
-      <title>Warsh wants Fed officials to talk less. Instead, they’re talking more</title>
-      <link>https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html</link>
-      <pubDate>Fri, 20 Nov 2026 21:10:48 GMT</pubDate>
-      <description>Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.</description>
     </item>
   
   </channel>
