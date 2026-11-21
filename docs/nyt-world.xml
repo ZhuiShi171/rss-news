@@ -4,7 +4,7 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Fri, 20 Nov 2026 22:57:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:49:51 GMT</lastBuildDate>
     
     <item>
       <title>Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?</title>
@@ -18,7 +18,7 @@ Please enable JS and disable any ad blocker</description>
     <item>
       <title>The War Is Ravaging Ukraine’s Wildlife, Too</title>
       <link>https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html</link>
-      <pubDate>Fri, 20 Nov 2026 16:05:55 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 23:05:46 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -118,17 +118,17 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
+      <title>White Police Officers Are Convicted of Beating a Black Man in France</title>
+      <link>https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html</link>
+      <pubDate>Fri, 20 Nov 2026 23:21:51 +0000</pubDate>
+      <description>The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.</description>
+    </item>
+  
+    <item>
       <title>Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit</title>
       <link>https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html</link>
       <pubDate>Fri, 20 Nov 2026 22:15:57 +0000</pubDate>
       <description>Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.</description>
-    </item>
-  
-    <item>
-      <title>Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference</title>
-      <link>https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html</link>
-      <pubDate>Fri, 20 Nov 2026 22:06:57 +0000</pubDate>
-      <description>Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.</description>
     </item>
   
   </channel>

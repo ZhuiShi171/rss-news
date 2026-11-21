@@ -4,7 +4,7 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Fri, 20 Nov 2026 22:57:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:49:58 GMT</lastBuildDate>
     
     <item>
       <title>Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;</title>
@@ -42,17 +42,17 @@
     </item>
   
     <item>
-      <title>The bull market has a new problem. The &apos;smart money&apos; is selling</title>
-      <link>https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html</link>
-      <pubDate>Fri, 20 Nov 2026 14:15:29 GMT</pubDate>
-      <description>Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.</description>
-    </item>
-  
-    <item>
       <title>Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence</title>
       <link>https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html</link>
       <pubDate>Fri, 20 Nov 2026 21:06:45 GMT</pubDate>
       <description>Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.</description>
+    </item>
+  
+    <item>
+      <title>Warsh wants Fed officials to talk less. Instead, they’re talking more</title>
+      <link>https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html</link>
+      <pubDate>Fri, 20 Nov 2026 21:10:48 GMT</pubDate>
+      <description>Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.</description>
     </item>
   
     <item>
@@ -74,13 +74,6 @@
       <link>https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html</link>
       <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
       <description>Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.</description>
-    </item>
-  
-    <item>
-      <title>Warsh wants Fed officials to talk less. Instead, they’re talking more</title>
-      <link>https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html</link>
-      <pubDate>Fri, 20 Nov 2026 21:10:48 GMT</pubDate>
-      <description>Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.</description>
     </item>
   
     <item>
@@ -109,6 +102,13 @@
       <link>https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html</link>
       <pubDate>Fri, 20 Nov 2026 16:52:08 GMT</pubDate>
       <description>The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.</description>
+    </item>
+  
+    <item>
+      <title>Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?</title>
+      <link>https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html</link>
+      <pubDate>Fri, 20 Nov 2026 14:34:14 GMT</pubDate>
+      <description>With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.</description>
     </item>
   
   </channel>
