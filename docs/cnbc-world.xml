@@ -4,7 +4,7 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 22 Nov 2026 15:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:30:12 GMT</lastBuildDate>
     
     <item>
       <title>Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020</title>
@@ -25,6 +25,13 @@
       <link>https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html</link>
       <pubDate>Sun, 22 Nov 2026 06:00:01 GMT</pubDate>
       <description>Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.</description>
+    </item>
+  
+    <item>
+      <title>Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens</title>
+      <link>https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html</link>
+      <pubDate>Sun, 22 Nov 2026 18:55:05 GMT</pubDate>
+      <description>Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea&apos;s Base Group.</description>
     </item>
   
     <item>
@@ -49,13 +56,6 @@
     </item>
   
     <item>
-      <title>Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect</title>
-      <link>https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html</link>
-      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
-      <description>Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.</description>
-    </item>
-  
-    <item>
       <title>‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy</title>
       <link>https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html</link>
       <pubDate>Fri, 20 Nov 2026 07:08:36 GMT</pubDate>
@@ -67,6 +67,13 @@
       <link>https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html</link>
       <pubDate>Sat, 21 Nov 2026 15:00:02 GMT</pubDate>
       <description>&quot;I realized it was okay to want something different,&quot; says Cepee Tabibian, who moved to Spain in 2015 at age 35.</description>
+    </item>
+  
+    <item>
+      <title>Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect</title>
+      <link>https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html</link>
+      <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
+      <description>Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.</description>
     </item>
   
     <item>
@@ -98,17 +105,10 @@
     </item>
   
     <item>
-      <title>I’ve studied over 200 kids—parents who do 6 things accidentally raise people pleasers: It starts in ‘ordinary, well-intentioned moments’</title>
+      <title>I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’</title>
       <link>https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html</link>
-      <pubDate>Sun, 22 Nov 2026 15:10:17 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 17:33:25 GMT</pubDate>
       <description>Reem Raouda, a conscious parenting coach who&apos;s worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.</description>
-    </item>
-  
-    <item>
-      <title>An early breakdown in the polar vortex is threatening already depleted gas stocks</title>
-      <link>https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html</link>
-      <pubDate>Sat, 21 Nov 2026 12:47:25 GMT</pubDate>
-      <description>Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.</description>
     </item>
   
   </channel>
