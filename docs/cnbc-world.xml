@@ -4,13 +4,20 @@
     <title>CNBC World</title>
     <link>https://www.cnbc.com/id/100727362/device/rss/rss.html</link>
     <description>RSS feed for CNBC World</description>
-    <lastBuildDate>Sun, 22 Nov 2026 00:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:14:17 GMT</lastBuildDate>
     
     <item>
       <title>Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020</title>
       <link>https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html</link>
       <pubDate>Sat, 21 Nov 2026 16:40:05 GMT</pubDate>
       <description>Anthropic held its historic Nasdaq debut a day before Nvidia&apos;s stock closed out its longest weekly losing streak since 2008.</description>
+    </item>
+  
+    <item>
+      <title>Quantum computing’s first real-world payoff may come in energy, not drug discovery</title>
+      <link>https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html</link>
+      <pubDate>Sun, 22 Nov 2026 06:00:01 GMT</pubDate>
+      <description>Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.</description>
     </item>
   
     <item>
@@ -21,17 +28,17 @@
     </item>
   
     <item>
-      <title>Tech outages are fueling a new doomsday economy</title>
-      <link>https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html</link>
-      <pubDate>Sat, 21 Nov 2026 15:04:56 GMT</pubDate>
-      <description>Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.</description>
-    </item>
-  
-    <item>
       <title>State and federal battle over prediction markets regulation heats up after midterms</title>
       <link>https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html</link>
       <pubDate>Sat, 21 Nov 2026 13:12:41 GMT</pubDate>
       <description>States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.</description>
+    </item>
+  
+    <item>
+      <title>Tech outages are fueling a new doomsday economy</title>
+      <link>https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html</link>
+      <pubDate>Sat, 21 Nov 2026 15:04:56 GMT</pubDate>
+      <description>Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.</description>
     </item>
   
     <item>
@@ -56,13 +63,6 @@
     </item>
   
     <item>
-      <title>Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away</title>
-      <link>https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html</link>
-      <pubDate>Sat, 21 Nov 2026 13:01:44 GMT</pubDate>
-      <description>Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.</description>
-    </item>
-  
-    <item>
       <title>‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy</title>
       <link>https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html</link>
       <pubDate>Fri, 20 Nov 2026 07:08:36 GMT</pubDate>
@@ -84,6 +84,13 @@
     </item>
   
     <item>
+      <title>Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away</title>
+      <link>https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html</link>
+      <pubDate>Sat, 21 Nov 2026 13:01:44 GMT</pubDate>
+      <description>Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.</description>
+    </item>
+  
+    <item>
       <title>Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect</title>
       <link>https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html</link>
       <pubDate>Sat, 21 Nov 2026 06:00:02 GMT</pubDate>
@@ -102,13 +109,6 @@
       <link>https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html</link>
       <pubDate>Fri, 20 Nov 2026 21:35:24 GMT</pubDate>
       <description>Cybersecurity companies have been hunting for acquisitions in the AI era.</description>
-    </item>
-  
-    <item>
-      <title>AI is changing software engineering — and some developers miss the struggle</title>
-      <link>https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html</link>
-      <pubDate>Fri, 20 Nov 2026 06:00:01 GMT</pubDate>
-      <description>AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its &quot;sense of joy and fun.&quot;</description>
     </item>
   
   </channel>
