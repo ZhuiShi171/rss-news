@@ -4,8 +4,35 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Mon, 23 Nov 2026 01:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:20:30 GMT</lastBuildDate>
     
+    <item>
+      <title>Ukraine Claims Strikes on Russian Ships Near Libya</title>
+      <link>https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html</link>
+      <pubDate>Mon, 23 Nov 2026 09:59:08 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Colombia Marks 10 Years Since FARC Peace Deal: In Photos</title>
+      <link>https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html</link>
+      <pubDate>Mon, 23 Nov 2026 10:02:48 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate</title>
+      <link>https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html</link>
+      <pubDate>Mon, 23 Nov 2026 05:49:03 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
     <item>
       <title>China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal</title>
       <link>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</link>
@@ -73,27 +100,21 @@ Please enable JS and disable any ad blocker</description>
       <title>Catherine, Princess of Wales, Documents Life With Cancer in BBC Film</title>
       <link>https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html</link>
       <pubDate>Sat, 21 Nov 2026 14:09:39 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.</description>
     </item>
   
     <item>
       <title>Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military</title>
       <link>https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html</link>
       <pubDate>Sat, 21 Nov 2026 20:35:07 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.</description>
     </item>
   
     <item>
       <title>Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?</title>
       <link>https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html</link>
       <pubDate>Sun, 22 Nov 2026 10:16:39 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.</description>
     </item>
   
     <item>
@@ -104,31 +125,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html</link>
-      <pubDate>Sat, 21 Nov 2026 13:35:19 +0000</pubDate>
-      <description>Major military powers like the United States and Russia expressed strong resistance to binding restrictions.</description>
-    </item>
-  
-    <item>
-      <title>On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html</link>
-      <pubDate>Sat, 21 Nov 2026 12:54:44 +0000</pubDate>
-      <description>Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.</description>
-    </item>
-  
-    <item>
-      <title>In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html</link>
-      <pubDate>Sat, 21 Nov 2026 17:14:17 +0000</pubDate>
-      <description>Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.</description>
-    </item>
-  
-    <item>
-      <title>Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks</title>
-      <link>https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html</link>
-      <pubDate>Mon, 23 Nov 2026 01:32:02 +0000</pubDate>
-      <description>Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.</description>
+      <title>How Homeowners Are Powering Vietnam’s E-Bike Surge</title>
+      <link>https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html</link>
+      <pubDate>Mon, 23 Nov 2026 05:33:31 +0000</pubDate>
+      <description>The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.</description>
     </item>
   
   </channel>
