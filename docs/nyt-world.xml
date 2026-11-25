@@ -4,48 +4,84 @@
     <title>NYT World</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link>
     <description>RSS feed for NYT World</description>
-    <lastBuildDate>Wed, 25 Nov 2026 02:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:04:36 GMT</lastBuildDate>
     
     <item>
-      <title>Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region</title>
+      <title>Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs</title>
+      <link>https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html</link>
+      <pubDate>Wed, 25 Nov 2026 10:00:48 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.</title>
+      <link>https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html</link>
+      <pubDate>Wed, 25 Nov 2026 05:01:14 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Losses Mount for Yemeni Government as Houthi Militia Advances</title>
+      <link>https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html</link>
+      <pubDate>Wed, 25 Nov 2026 11:24:10 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Mexico Investigates Prosecutor Who Aided the C.I.A. Over Cartel Collusion</title>
+      <link>https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html</link>
+      <pubDate>Wed, 25 Nov 2026 10:04:19 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War</title>
+      <link>https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html</link>
+      <pubDate>Wed, 25 Nov 2026 07:29:44 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Solomon Islands Enters Security Treaty With Australia, in a Blow to China</title>
+      <link>https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html</link>
+      <pubDate>Wed, 25 Nov 2026 05:24:36 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages</title>
+      <link>https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html</link>
+      <pubDate>Wed, 25 Nov 2026 08:05:15 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender</title>
+      <link>https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html</link>
+      <pubDate>Tue, 24 Nov 2026 16:27:04 +0000</pubDate>
+      <description>nytimes.com
+
+Please enable JS and disable any ad blocker</description>
+    </item>
+  
+    <item>
+      <title>Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region</title>
       <link>https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html</link>
-      <pubDate>Wed, 25 Nov 2026 00:38:34 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say</title>
-      <link>https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html</link>
-      <pubDate>Tue, 24 Nov 2026 19:18:15 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing</title>
-      <link>https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html</link>
-      <pubDate>Tue, 24 Nov 2026 11:55:30 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Iranian Singer Receives 74 Lashes for Performing With No Hijab</title>
-      <link>https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html</link>
-      <pubDate>Tue, 24 Nov 2026 12:34:52 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Murder Charge Reinstated for French Police Officer in Teen’s Shooting</title>
-      <link>https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html</link>
-      <pubDate>Tue, 24 Nov 2026 14:13:17 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 07:36:48 +0000</pubDate>
       <description>nytimes.com
 
 Please enable JS and disable any ad blocker</description>
@@ -61,39 +97,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home</title>
-      <link>https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html</link>
-      <pubDate>Tue, 24 Nov 2026 16:31:07 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>A Lion on the Loose Near Istanbul? Not So Fast.</title>
-      <link>https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html</link>
-      <pubDate>Tue, 24 Nov 2026 18:25:38 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
-      <title>Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for</title>
-      <link>https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html</link>
-      <pubDate>Tue, 24 Nov 2026 13:12:41 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
-    </item>
-  
-    <item>
       <title>China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand</title>
       <link>https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html</link>
       <pubDate>Tue, 24 Nov 2026 14:42:31 +0000</pubDate>
-      <description>nytimes.com
-
-Please enable JS and disable any ad blocker</description>
+      <description>Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.</description>
     </item>
   
     <item>
@@ -104,16 +111,9 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender</title>
-      <link>https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html</link>
-      <pubDate>Tue, 24 Nov 2026 16:27:04 +0000</pubDate>
-      <description>What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.</description>
-    </item>
-  
-    <item>
       <title>Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK</title>
       <link>https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html</link>
-      <pubDate>Tue, 24 Nov 2026 13:40:55 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 08:55:39 +0000</pubDate>
       <description>Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?</description>
     </item>
   
@@ -125,10 +125,10 @@ Please enable JS and disable any ad blocker</description>
     </item>
   
     <item>
-      <title>Trump Administration Pauses Joint Operations With Ecuador</title>
-      <link>https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html</link>
-      <pubDate>Wed, 25 Nov 2026 00:42:52 +0000</pubDate>
-      <description>The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.</description>
+      <title>Defending Aden, Yemen’s Holdout Against the Houthis</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html</link>
+      <pubDate>Wed, 25 Nov 2026 11:20:25 +0000</pubDate>
+      <description>The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.</description>
     </item>
   
   </channel>
